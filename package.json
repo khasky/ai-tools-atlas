@@ -1,0 +1,31 @@
+{
+  "name": "ai-tools-atlas",
+  "type": "module",
+  "version": "1.0.0",
+  "author": {
+    "name": "khasky",
+    "url": "https://github.com/khasky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khasky/ai-tools-atlas.git"
+  },
+  "homepage": "https://github.com/khasky/ai-tools-atlas",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node scripts/aggregate-catalog.mjs && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch-data": "node scripts/fetch-all.mjs",
+    "generate": "node scripts/aggregate-catalog.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "~3.2.1",
+    "@astrojs/tailwind": "^5.1.4",
+    "astro": "^4.16.18",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,37 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import SiteHeader from "../../../components/SiteHeader.astro";
+import ToolCard from "../../../components/ToolCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import { catalog, getCategory } from "../../../lib/catalog";
+import { toolsForFacet } from "../../../lib/browse";
+import { sortKeyForCategory } from "../../../lib/sorts";
+import { paginate } from "../../../lib/paginate";
+
+export function getStaticPaths() {
+  return catalog.categories.filter((c) => c.axis_type === "FACET").map((c) => ({ params: { slug: c.slug } }));
+}
+
+const slug = Astro.params.slug!;
+const cat = getCategory(slug);
+const list = sortKeyForCategory(toolsForFacet(slug));
+const { items, totalPages, total } = paginate(list, 1);
+---
+
+<Layout
+  title={`${cat?.name ?? slug} (AI tools)`}
+  description={cat?.description ?? `Browse AI tools in ${slug}.`}
+>
+  <SiteHeader slot="header" />
+  <div class="mb-8">
+    <h1 class="font-display text-3xl font-bold text-ink-950">{cat?.name ?? slug}</h1>
+    <p class="mt-2 text-ink-600">{cat?.description}</p>
+    <p class="mt-1 text-sm text-ink-500">
+      {total.toLocaleString()} tools · metrics first when we have them, then A–Z
+    </p>
+  </div>
+  <div class="flex flex-col gap-4">
+    {items.map((t) => <ToolCard tool={t} />)}
+  </div>
+  <Pagination basePath={`/category/${slug}`} page={1} totalPages={totalPages} />
+</Layout>

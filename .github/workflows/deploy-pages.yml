@@ -1,0 +1,59 @@
+# Build static site and deploy to GitHub Pages.
+#
+# First-time setup (manual):
+#   1. Repo → Settings → Pages → Build and deployment → Source: GitHub Actions (save).
+#   2. Push to `main` (or run this workflow from Actions → Run workflow).
+# Published URL (project site): https://khasky.github.io/ai-tools-atlas/
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Must match GitHub Pages path for this repo (…/ai-tools-atlas/). Use "/" if you attach a custom domain at site root.
+      ASTRO_BASE_PATH: /ai-tools-atlas
+      PUBLIC_SITE_ORIGIN: https://khasky.github.io
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: pnpm
+
+      - name: Install and build
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

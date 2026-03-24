@@ -1,0 +1,55 @@
+{
+  "source_id": "prd_directory_landings",
+  "note": "Landing-page survey for PRD §2 market references; not a tool extract.",
+  "fetched_at": "2026-03-24T05:07:26.463Z",
+  "entries": [
+    {
+      "id": "futurepedia",
+      "url": "https://www.futurepedia.io/",
+      "final_url": "https://www.futurepedia.io/",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:19.455Z"
+    },
+    {
+      "id": "toolify",
+      "url": "https://www.toolify.ai/",
+      "final_url": "https://www.toolify.ai/",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:20.906Z"
+    },
+    {
+      "id": "topai_tools",
+      "url": "https://topai.tools/categories",
+      "final_url": "https://topai.tools/categories",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:22.189Z"
+    },
+    {
+      "id": "aixploria",
+      "url": "https://www.aixploria.com/en/",
+      "final_url": "https://www.aixploria.com/en/",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:23.086Z"
+    },
+    {
+      "id": "aixploria_free",
+      "url": "https://www.aixploria.com/en/free-ai/",
+      "final_url": "https://www.aixploria.com/en/free-ai/",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:24.089Z"
+    },
+    {
+      "id": "aidirectory24",
+      "url": "https://aidirectory24.com/",
+      "final_url": "https://aidirectory24.com/",
+      "status": 200,
+      "content_type": "text/html",
+      "fetched_at": "2026-03-24T05:07:26.463Z"
+    }
+  ]
+}

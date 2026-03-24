@@ -1,0 +1,71 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import { catalog } from "../lib/catalog";
+import { withBase } from "../lib/paths";
+
+const facets = catalog.categories.filter((c) => c.axis_type === "FACET");
+const modalities = catalog.categories.filter((c) => c.axis_type === "MODALITY");
+const domains = catalog.categories.filter((c) => c.axis_type === "DOMAIN");
+---
+
+<Layout
+  title="Categories and taxonomy"
+  description="Browse by facet, modality, and domain. Product pages, not papers or datasets."
+>
+  <SiteHeader slot="header" />
+  <h1 class="font-display text-3xl font-bold text-ink-950">Categories</h1>
+  <p class="mt-3 max-w-2xl text-ink-600">
+    Everything here is meant to be something you could adopt: a site, API, or app. Use cases, modality, and buyer domain are separate axes; facets are the coarse buckets we use for primary navigation.
+  </p>
+
+  <section class="mt-12">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Primary facets</h2>
+    <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        facets.map((c) => (
+          <a href={withBase(`/category/${c.slug}`)} class="rounded-xl border border-ink-200 bg-white p-4 shadow-sm hover:border-accent/40">
+            <span class="font-medium text-ink-900">{c.name}</span>
+            <p class="mt-1 text-sm text-ink-500">{c.description}</p>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="mt-12">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Modalities</h2>
+    <div class="mt-4 flex flex-wrap gap-2">
+      {
+        modalities.map((c) => (
+          <a
+            href={withBase(`/modality/${c.slug}`)}
+            class="rounded-full border border-ink-200 bg-ink-50 px-3 py-1 text-sm text-ink-800 hover:border-accent/40"
+          >
+            {c.name}
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="mt-12">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Domains</h2>
+    <div class="mt-4 flex flex-wrap gap-2">
+      {
+        domains.map((c) => (
+          <a
+            href={withBase(`/domain/${c.slug}`)}
+            class="rounded-full border border-ink-200 bg-ink-50 px-3 py-1 text-sm text-ink-800 hover:border-accent/40"
+          >
+            {c.name}
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <p class="mt-10 text-sm text-ink-500">
+    Use cases (jobs) live under <a class="text-accent underline" href={withBase("/use-cases")}>Use cases</a>.
+  </p>
+</Layout>

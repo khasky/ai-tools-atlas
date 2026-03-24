@@ -1,0 +1,61 @@
+---
+import { withBase } from "../lib/paths";
+
+const path = Astro.url.pathname;
+
+function navLink(suffix: string, label: string) {
+  const href = withBase(suffix);
+  let active = path === href;
+  if (!active && suffix !== "/") active = path.startsWith(`${href}/`);
+  return { href, label, active };
+}
+
+const nav = [
+  navLink("/search", "Search"),
+  navLink("/categories", "Categories"),
+  navLink("/use-cases", "Use Cases"),
+  navLink("/free", "Free Tools"),
+  navLink("/open-source", "Open Source"),
+  navLink("/enterprise-ready", "Enterprise-ready"),
+];
+---
+
+<header
+  class="sticky top-0 z-40 border-b border-ink-200/80 bg-ink-50/90 backdrop-blur"
+>
+  <div
+    class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8"
+  >
+    <div class="min-w-0">
+      <a
+        href={withBase("/")}
+        class="block font-display text-xl font-semibold tracking-tight text-ink-950"
+      >
+        AI Tools <span class="text-accent">Atlas</span>
+      </a>
+      <p class="mt-0.5 text-xs font-normal text-ink-500">
+        Tools &amp; services
+      </p>
+    </div>
+    <nav
+      aria-label="Primary"
+      class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-medium text-ink-700"
+    >
+      {
+        nav.map(({ href, label, active }) => (
+          <a
+            href={href}
+            class:list={[
+              "rounded-md px-1 py-0.5 transition hover:text-ink-950",
+              active &&
+                "text-accent-dark underline decoration-2 underline-offset-4",
+            ]}
+            aria-current={active ? "page" : undefined}
+          >
+            {label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

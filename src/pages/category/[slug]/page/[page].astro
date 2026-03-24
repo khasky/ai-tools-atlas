@@ -1,0 +1,44 @@
+---
+import Layout from "../../../../layouts/Layout.astro";
+import SiteHeader from "../../../../components/SiteHeader.astro";
+import ToolCard from "../../../../components/ToolCard.astro";
+import Pagination from "../../../../components/Pagination.astro";
+import { catalog, getCategory } from "../../../../lib/catalog";
+import { toolsForFacet } from "../../../../lib/browse";
+import { sortKeyForCategory } from "../../../../lib/sorts";
+import { paginate, pageCount } from "../../../../lib/paginate";
+
+export function getStaticPaths() {
+  const facets = catalog.categories.filter((c) => c.axis_type === "FACET");
+  const paths: { params: { slug: string; page: string } }[] = [];
+  for (const c of facets) {
+    const list = sortKeyForCategory(toolsForFacet(c.slug));
+    const tp = pageCount(list.length);
+    for (let p = 2; p <= tp; p++) {
+      paths.push({ params: { slug: c.slug, page: String(p) } });
+    }
+  }
+  return paths;
+}
+
+const slug = Astro.params.slug!;
+const pageNum = Number(Astro.params.page);
+const cat = getCategory(slug);
+const list = sortKeyForCategory(toolsForFacet(slug));
+const { items, totalPages, total } = paginate(list, pageNum);
+---
+
+<Layout
+  title={`${cat?.name ?? slug}, page ${pageNum}`}
+  description={`${cat?.name ?? slug} tools, page ${pageNum}.`}
+>
+  <SiteHeader slot="header" />
+  <div class="mb-8">
+    <h1 class="font-display text-3xl font-bold text-ink-950">{cat?.name ?? slug}</h1>
+    <p class="mt-1 text-sm text-ink-500">Page {pageNum} of {totalPages} · {total.toLocaleString()} tools</p>
+  </div>
+  <div class="flex flex-col gap-4">
+    {items.map((t) => <ToolCard tool={t} />)}
+  </div>
+  <Pagination basePath={`/category/${slug}`} page={pageNum} totalPages={totalPages} />
+</Layout>

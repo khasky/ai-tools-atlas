@@ -1,0 +1,2458 @@
+{
+  "source_id": "awesome_ai_re50urces",
+  "source_homepage": "https://github.com/re50urces/Awesome-AI",
+  "list_name": "Awesome AI (re50urces)",
+  "raw_readme_url": "https://raw.githubusercontent.com/re50urces/Awesome-AI/main/README.md",
+  "fetched_at": "2026-03-24T05:07:28.881Z",
+  "item_count": 408,
+  "items": [
+    {
+      "name": "ChatGPT",
+      "website_url": "https://chat.openai.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Google Gemini",
+      "website_url": "https://gemini.google.com",
+      "description": "Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Poe",
+      "website_url": "https://poe.com",
+      "description": "Fast, Helpful AI Chat",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Chat D-ID",
+      "website_url": "https://chat.d-id.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Dialogflow",
+      "website_url": "https://cloud.google.com/dialogflow",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Watson Assistant",
+      "website_url": "https://www.ibm.com/products/watson-assistant",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "website_url": "https://dev.botframework.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Rasa",
+      "website_url": "https://rasa.com",
+      "description": "Conversational AI Platform — Superior Customer Experiences Start Here",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "botpress",
+      "website_url": "https://botpress.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "TARS",
+      "website_url": "https://hellotars.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Landbot AI",
+      "website_url": "https://landbot.io/ai",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SnatchBot",
+      "website_url": "https://snatchbot.me",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Botstar",
+      "website_url": "https://www.botstar.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Ask Your PDF",
+      "website_url": "https://askyourpdf.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "perplexity",
+      "website_url": "https://www.perplexity.ai",
+      "description": "Where knowledge begins",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Hints",
+      "website_url": "https://hints.so",
+      "description": "AI Assistant that integrates with any software to perform tasks on your behalf",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ChatSpot",
+      "website_url": "https://chatspot.ai",
+      "description": "ChatSpot = ChatGPT + the power of HubSpot CRM",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AskThee?",
+      "website_url": "https://askthee.vercel.app",
+      "description": "Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Ai Chat from User.com",
+      "website_url": "https://www.user.com/en/ai-chat",
+      "description": "Automate your customer support instantly with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ChatPDF",
+      "website_url": "https://www.chatpdf.com",
+      "description": "Chat with any PDF!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Chatbase",
+      "website_url": "https://www.chatbase.co",
+      "description": "Train ChatGPT on your data and add it to your website",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Huberman AI",
+      "website_url": "https://huberman.rile.yt",
+      "description": "Use AI to explore the wisdom of The Huberman Lab.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai intern",
+      "website_url": "https://aiintern.io",
+      "description": "With AI Intern skip the grind and focus on the big picture.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Chatbot UI",
+      "website_url": "https://www.chatbotui.com",
+      "description": "Chatbot UI is an open source clone of OpenAI's ChatGPT UI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Channel",
+      "website_url": "https://www.usechannel.com",
+      "description": "Ask any data question, in plain English.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wonderchat",
+      "website_url": "https://wonderchat.io",
+      "description": "Instantly build an AI chatbot with your knowledge base",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Monica",
+      "website_url": "https://monica.im",
+      "description": "YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "alicent",
+      "website_url": "https://alicent.ai",
+      "description": "A Gorgeous Extension for ChatGPT",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "godmode",
+      "website_url": "https://godmode.space",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PageLines",
+      "website_url": "https://www.pagelines.com",
+      "description": "AI Agents to Enhance Your Website",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "airOps",
+      "website_url": "https://www.airops.com",
+      "description": "Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Hugging Face",
+      "website_url": "https://huggingface.co",
+      "description": "The AI community building the future.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "fotor",
+      "website_url": "https://www.fotor.com",
+      "description": "Online photo editor for everyone",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Kittl",
+      "website_url": "https://www.kittl.com",
+      "description": "Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "clipdrop",
+      "website_url": "https://clipdrop.co",
+      "description": "Create stunning visuals in seconds",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Replicate",
+      "website_url": "https://replicate.com",
+      "description": "Machine learning doesn’t need to be so hard.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "phind",
+      "website_url": "https://www.phind.com",
+      "description": "The AI search engine for developers.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "you",
+      "website_url": "https://you.com",
+      "description": "The AI Search Engine You Control",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "iAsk.AI",
+      "website_url": "https://iask.ai",
+      "description": "Ask AI Questions – Free AI Search Engine",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "komo",
+      "website_url": "https://komo.ai",
+      "description": "Komo search - Ai Search & Explore",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Andi",
+      "website_url": "https://andisearch.com",
+      "description": "Welcome to the next generation of search using the power of AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Jounce",
+      "website_url": "https://www.jounce.ai",
+      "description": "Free AI copywriting and artwork for marketers",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "writerly",
+      "website_url": "https://writerly.ai",
+      "description": "Writerly artificial intelligence (AI) — helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content in seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Cohesive",
+      "website_url": "https://cohesive.so",
+      "description": "Create magical content with the most powerful AI editor",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "grammarly",
+      "website_url": "https://www.grammarly.com",
+      "description": "Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "copy ai",
+      "website_url": "https://www.copy.ai",
+      "description": "Write better marketing copy and content with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "jasper AI",
+      "website_url": "https://www.jasper.ai",
+      "description": "Jasper - AI Copywriting & Content Generation for Teams",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "markcopy ai",
+      "website_url": "https://www.markcopy.ai",
+      "description": "Write Content 10x Faster",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "rytr",
+      "website_url": "https://rytr.me",
+      "description": "Rytr - Best AI Writer, Content Generator & Writing Assistant",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "simplified ai-writer",
+      "website_url": "https://simplified.com/ai-writer",
+      "description": "Write Instant Marketing Copy with the Free AI Copywriting Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "frase",
+      "website_url": "https://www.frase.io",
+      "description": "Best SEO Content Optimization Tool & AI Writer",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "requstory",
+      "website_url": "https://requstory.com",
+      "description": "WRITE BETTER USER STORIES.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "marketmuse",
+      "website_url": "https://www.marketmuse.com",
+      "description": "AI Content Planning and Optimization Software",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wordtune",
+      "website_url": "https://www.wordtune.com",
+      "description": "Your thoughts in words",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "inferkit",
+      "website_url": "https://inferkit.com",
+      "description": "InferKit offers a web interface and API for AI–based text generators. Whether you're a novelist looking for inspiration, or an app developer, there's something for you.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "goose ai",
+      "website_url": "https://goose.ai",
+      "description": "Fully managed NLP-as-a-Service delivered via API, at 30% the cost. It's time to migrate.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "writesonic",
+      "website_url": "https://writesonic.com",
+      "description": "Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "textcortex",
+      "website_url": "https://textcortex.com",
+      "description": "One AI Tool To Write All Your Content",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ideas AI",
+      "website_url": "https://ideasai.com",
+      "description": "Ideas on this page are 100% generated by OpenAI's GPT-3, an artifically intelligent deep learning model, without human involvement, and trained by you and 1,399,670+ other people who liked or disliked ideas.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "sudowrite",
+      "website_url": "https://www.sudowrite.com",
+      "description": "Bust writer’s block with our magical writing AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GhostWrite",
+      "website_url": "https://www.ghostwrite.rip",
+      "description": "More time for the conversations that matter to you.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "nichesss",
+      "website_url": "https://nichesss.com",
+      "description": "Write anything 10x faster.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "flowrite",
+      "website_url": "https://www.flowrite.com",
+      "description": "Flowrite helps you write your daily emails and messages 5x faster across Google Chrome.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "chibi ai",
+      "website_url": "https://chibi.ai",
+      "description": "Now anyone can have a writing assistant.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "copysmith",
+      "website_url": "https://copysmith.ai",
+      "description": "Copysmith is the AI content creation solution for Enterprise & eCommerce",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "copymatic ai",
+      "website_url": "https://copymatic.ai",
+      "description": "Generate Content & Copy In Seconds with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "hypotenuse",
+      "website_url": "https://www.hypotenuse.ai",
+      "description": "Let AI write your content in seconds. Without writer’s block.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "longshot ai",
+      "website_url": "https://www.longshot.ai",
+      "description": "Create blogs that humans and search engines love using Artificial Intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "unbounce smart copy",
+      "website_url": "https://unbounce.com/product/smart-copy",
+      "description": "Wherever You Type, Smart Copy Writes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "scalenut",
+      "website_url": "https://www.scalenut.com",
+      "description": "Tell Better Stories at Scale",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "NeuralText",
+      "website_url": "https://www.neuraltext.com",
+      "description": "NeuralText - AI Writing Assistant and tools for SEO",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "closerscopy",
+      "website_url": "https://www.closerscopy.com",
+      "description": "AI Copywriting Robot - ClosersCopy",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "inkforall",
+      "website_url": "https://inkforall.com",
+      "description": "INK – World’s Best AI Content Assistant for Marketing & SEO",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "peppertype",
+      "website_url": "https://www.peppertype.ai",
+      "description": "Create Quality Content Faster",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai-writer",
+      "website_url": "https://ai-writer.com",
+      "description": "AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GetGenie",
+      "website_url": "https://getgenie.ai",
+      "description": "The WordPress AI SuperApp for Content & SEO",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Article Forge",
+      "website_url": "https://www.articleforge.com",
+      "description": "High quality, AI content generator - Article Forge",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ProWritingAid",
+      "website_url": "https://prowritingaid.com",
+      "description": "ProWritingAid: AI Writing Assistant Software",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "QuillBot",
+      "website_url": "https://quillbot.com",
+      "description": "QuillBot's AI-powered paraphrasing tool will enhance your writing",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "WriterZen",
+      "website_url": "https://writerzen.net",
+      "description": "Proficient SEO Content Workflow Software",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Writecream",
+      "website_url": "https://www.writecream.com",
+      "description": "Writecream - Best AI Writer & Content Generator - Writecream",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "outranking",
+      "website_url": "https://www.outranking.io",
+      "description": "Outranking helps content teams achieve predictable content success with AI assistance.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "lately",
+      "website_url": "https://www.lately.ai",
+      "description": "Spend 84% Less Time Writing Content",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wordai",
+      "website_url": "https://wordai.com",
+      "description": "10x Your Content Output With AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "craftly",
+      "website_url": "https://www.craftly.ai",
+      "description": "Changing the way the world writes.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SEO AI",
+      "website_url": "https://seo.ai",
+      "description": "The #1 AI Writer For SEO",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "content at scale",
+      "website_url": "https://contentatscale.ai",
+      "description": "AI Content Generator for Quality SEO Long Form Blog Posts",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "jenni",
+      "website_url": "https://jenni.ai",
+      "description": "Supercharge your writing with jenni AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Taskade",
+      "website_url": "https://taskade.com",
+      "description": "AI outlining and mind mapping tool for teams with real-time editing and chat.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wordkraft",
+      "website_url": "https://wordkraft.ai",
+      "description": "Create High-Quality Content Instantly With AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "merlin",
+      "website_url": "https://merlin.foyer.work",
+      "description": "Open AI’s GPT powered extension to use anywhere!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "kickresume",
+      "website_url": "https://www.kickresume.com/en",
+      "description": "Let artificial intelligence write your resume.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AISEO",
+      "website_url": "https://aiseo.ai",
+      "description": "AISEO - AI writing assistant, Copywriting & Paraphrasing Tool",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "yaara.ai",
+      "website_url": "https://yaara.ai",
+      "description": "The Future Of Writing is Finally Here",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ChatGPT Writer",
+      "website_url": "https://chatgptwriter.ai",
+      "description": "Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "FocusFlow",
+      "website_url": "https://focusflow.ai",
+      "description": "Track your daily progress, highlights, and improvements in just 20 seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "NovelAI",
+      "website_url": "https://novelai.net",
+      "description": "The AI Storyteller",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "narrato",
+      "website_url": "https://narrato.io",
+      "description": "AI Content Creation and Collaboration Platform",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "WriteMe",
+      "website_url": "https://writeme.ai",
+      "description": "WriteMe.ai - Ai Writer - Content Writing Assistant & Creator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Magical AI",
+      "website_url": "https://www.getmagical.com/ai",
+      "description": "Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Bearly",
+      "website_url": "https://bearly.ai",
+      "description": "Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "StealthGPT",
+      "website_url": "https://www.stealthgpt.ai",
+      "description": "Write Using AI, Get Human Written Results",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "resume worded",
+      "website_url": "https://resumeworded.com",
+      "description": "Improve your resume and LinkedIn profile",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "detangle",
+      "website_url": "https://detangle.ai",
+      "description": "Summarize any video, audio or text",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "melville",
+      "website_url": "https://usemelville.com",
+      "description": "Create amazing show notes 10x faster with AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Swell AI",
+      "website_url": "https://www.swellai.com",
+      "description": "Automate writing podcast show notes, articles, social posts and more.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Sheet+",
+      "website_url": "https://sheetplus.ai",
+      "description": "Write Google Sheets & Excel formulas 10x faster with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "FinalScout",
+      "website_url": "https://finalscout.com",
+      "description": "ChatGPT-Powered Email Finding & Outreach at Scale",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "HyperWrite",
+      "website_url": "https://www.hyperwriteai.com",
+      "description": "Your personal AI writing assistant",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "maker.ai",
+      "website_url": "https://maker.ai",
+      "description": "Generate written & visual content in seconds through cutting-edge artificial intelligence. Make magical conten",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Thundercontent",
+      "website_url": "https://thundercontent.com",
+      "description": "Create any content with Artificial Intelligence in minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Autowrite app",
+      "website_url": "https://autowrite.app",
+      "description": "Create Human-like Search Engine Optimized Articles",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "postGenius",
+      "website_url": "https://www.postgeniusapp.com",
+      "description": "Generate your next post using chatGPT",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "postwise",
+      "website_url": "https://postwise.ai",
+      "description": "Write Viral Tweets in Seconds",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "WriteSparkle",
+      "website_url": "https://writesparkle.ai",
+      "description": "Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "flawlessly ai",
+      "website_url": "https://flawlessly.ai",
+      "description": "Flawlessly.Ai transforms your spelling, grammar, tone, and style into professional text in seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PDFPeer",
+      "website_url": "https://pdfpeer.com",
+      "description": "Engage with your PDFs: summarize, ask questions, and simplify tasks!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Deepbrain ai - ai studios",
+      "website_url": "https://www.deepbrain.io/aistudios",
+      "description": "Create AI-generated videos using basic text instantly",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Supercreator.ai",
+      "website_url": "https://www.supercreator.ai",
+      "description": "Create short form videos 10x faster using artificial intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "veed io",
+      "website_url": "https://www.veed.io",
+      "description": "VEED - Edit, Record & Livestream Video - Online",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "runway",
+      "website_url": "https://runwayml.com",
+      "description": "Everything you need to make content, fast.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Fliki",
+      "website_url": "https://fliki.ai",
+      "description": "Turn text into videos with AI voices",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "synthesia",
+      "website_url": "https://www.synthesia.io",
+      "description": "Create videos from plain text in minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "descript",
+      "website_url": "https://www.descript.com",
+      "description": "All-in-one video & audio editing, as easy as a doc.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "typecast ai",
+      "website_url": "https://typecast.ai",
+      "description": "Video creation made simple with AI voices and avatars",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "bhuman ai",
+      "website_url": "https://www.bhuman.ai",
+      "description": "Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Jellysmack",
+      "website_url": "https://jellysmack.com",
+      "description": "Creator Content Amplification & Solutions",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "plask",
+      "website_url": "https://plask.ai",
+      "description": "AI-powered Mocap Animation Tool",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Rokoko video",
+      "website_url": "https://www.rokoko.com/products/video",
+      "description": "Rokoko Video Free AI motion capture",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Topaz Video AI",
+      "website_url": "https://www.topazlabs.com/topaz-video-ai",
+      "description": "Production-grade AI models for professional use cases",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Steve AI",
+      "website_url": "https://www.steve.ai",
+      "description": "Free AI Video Maker App — Online Video Making Software Tool",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "elai",
+      "website_url": "https://elai.io",
+      "description": "Create AI videos from just text.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "pictory",
+      "website_url": "https://pictory.ai",
+      "description": "Video Marketing Made EASY",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Lumen5",
+      "website_url": "https://lumen5.com",
+      "description": "Lumen5 - Video Maker — Create Videos Online in Minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wisecut",
+      "website_url": "https://www.wisecut.video",
+      "description": "Automatic Video Editor",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "synths video",
+      "website_url": "https://synths.video",
+      "description": "Convert articles into video in 1-click",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "invideo",
+      "website_url": "https://invideo.io",
+      "description": "Create publish-worthy videos on day one",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GliaCloud",
+      "website_url": "https://www.gliacloud.com/en",
+      "description": "Generate videos from news content, social posts, live sport events, and statistical data in minutes!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "synthesys",
+      "website_url": "https://synthesys.io/ai-video",
+      "description": "Transform Your Text to a Realistic Virtual Video",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "beey",
+      "website_url": "https://www.beey.io/en",
+      "description": "Beey.io – Beey automatically converts your audio and video files to text.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "papercup",
+      "website_url": "https://www.papercup.com",
+      "description": "AI Powered Dubbing",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Friday",
+      "website_url": "https://www.heyfriday.ai/home",
+      "description": "Less Writing, More Inspiration.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Movio",
+      "website_url": "https://www.movio.la",
+      "description": "Create Engaging Videos 10x Faster with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "clip.fm",
+      "website_url": "https://www.clip.fm",
+      "description": "Turn podcasts into viral clips with one click.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "D-ID",
+      "website_url": "https://www.d-id.com",
+      "description": "Digital People Text-to-Video",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "vidyo.ai",
+      "website_url": "https://vidyo.ai",
+      "description": "Make short videos from long ones instantly",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Rephrase Studio",
+      "website_url": "https://www.rephrase.ai/studio",
+      "description": "Rephrase Studio is a self-serve text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos at scale.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Genmo",
+      "website_url": "https://alpha.genmo.ai",
+      "description": "Go beyond 2D. Create videos from text with AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "riverside",
+      "website_url": "https://riverside.fm",
+      "description": "Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Zoomscape.ai",
+      "website_url": "https://zoomscape.ai",
+      "description": "Create stunning Zoom backgrounds with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Morise.ai",
+      "website_url": "https://morise.ai",
+      "description": "You make the videos, AI will make them go viral",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Rask",
+      "website_url": "https://www.rask.ai",
+      "description": "Localize videos. Fast. Fun. With AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "HeyGen",
+      "website_url": "https://www.heygen.com",
+      "description": "CREATE ENGAGING VIDEOS 10X FASTER WITH AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "2short.ai",
+      "website_url": "https://2short.ai",
+      "description": "Elevate your YT content with AI generated shorts",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Eightify",
+      "website_url": "https://eightify.app",
+      "description": "YouTube summaries powered by ChatGPT",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Adobe Podcast",
+      "website_url": "https://podcast.adobe.com",
+      "description": "AI-powered audio recording and editing, all on the web",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "play ht",
+      "website_url": "https://play.ht",
+      "description": "AI powered text to voice generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Murf AI",
+      "website_url": "https://murf.ai",
+      "description": "AI Voice Generator: Versatile Text to Speech Software",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "resemble ai",
+      "website_url": "https://www.resemble.ai",
+      "description": "Your Complete Generative Voice AI Toolkit",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wellsaid",
+      "website_url": "https://wellsaidlabs.com",
+      "description": "Convert text to voice in real time",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "voicemod",
+      "website_url": "https://www.voicemod.net",
+      "description": "Free Real-Time Voice Changer",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "assemblyai",
+      "website_url": "https://www.assemblyai.com",
+      "description": "Transcribe and understand audio with a single AI-powered API",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "songdonkey",
+      "website_url": "https://songdonkey.ai",
+      "description": "Extract vocals and instruments with artificial intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "krisp ai",
+      "website_url": "https://krisp.ai",
+      "description": "Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "aloud",
+      "website_url": "https://aloud.area120.google.com",
+      "description": "Aloud - dubbing for everyone",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "listnr",
+      "website_url": "https://www.listnr.tech",
+      "description": "Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "lovo",
+      "website_url": "https://www.lovo.ai",
+      "description": "LOVO AI — Free Text to Speech Online with Natural Voices",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "speechelo",
+      "website_url": "https://speechelo.com",
+      "description": "Instantly Generate Voice from Text 100% Human-Sounding voiceover with only 3 clicks!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "bigspeak",
+      "website_url": "https://bigspeak.ai",
+      "description": "Generate English speech from text",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "speechify",
+      "website_url": "https://speechify.com",
+      "description": "Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "sonix ai",
+      "website_url": "https://sonix.ai",
+      "description": "Automatically convert audio and video to text: Fast, Accurate, & Affordable — Sonix",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "speak ai",
+      "website_url": "https://speakai.co",
+      "description": "Get transcription, research, data analysis and NLP software from Speak Ai",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "rev com",
+      "website_url": "https://www.rev.com",
+      "description": "Transcribe Speech to Text",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "scribie",
+      "website_url": "https://scribie.com",
+      "description": "Audio/Video Transcription — 99% Accuracy, 12-HR Turnaround",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "verbit",
+      "website_url": "https://verbit.ai",
+      "description": "Captioning & Transcription That’s Built for Business",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "fireflies",
+      "website_url": "https://fireflies.ai",
+      "description": "Automatically record and transcribe meetings",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "otter",
+      "website_url": "https://otter.ai",
+      "description": "Capture and share insights from your meetings",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "voicera",
+      "website_url": "https://www.voicera.co",
+      "description": "Give voice to your articles and blogs.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "revoicer",
+      "website_url": "https://revoicer.com",
+      "description": "The most realistic AI Text To Speech online",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "elevenlabs",
+      "website_url": "https://beta.elevenlabs.io",
+      "description": "The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "soundraw",
+      "website_url": "https://soundraw.io",
+      "description": "AI Music Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "VoicePen",
+      "website_url": "https://voicepen.ai",
+      "description": "Audio to Blog Post, in minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "podcastle",
+      "website_url": "https://podcastle.ai",
+      "description": "The One-Stop Shop for Broadcast Storytelling",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "beatoven.ai",
+      "website_url": "https://www.beatoven.ai",
+      "description": "Create customisable royalty free music that elevates your story",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "altered",
+      "website_url": "https://www.altered.ai",
+      "description": "Professional Ai Voice Changer Software and Services",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Mubert",
+      "website_url": "https://mubert.com",
+      "description": "Human AI Generative Music For your video content, podcasts and apps",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "listener.fm",
+      "website_url": "https://www.listener.fm",
+      "description": "Elevate Your Podcast Post-Production Process with AI-Generated Titles, Descriptions, and Show Notes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Shownotes",
+      "website_url": "https://www.shownotes.io",
+      "description": "Summarize a podcast episode with help from chatGPT.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Mood",
+      "website_url": "https://usemood.us",
+      "description": "Amplify your podcast to 1 billion audiences with generative AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Cleanvoice",
+      "website_url": "https://cleanvoice.ai",
+      "description": "Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "snipd - AI Podcast Summaries",
+      "website_url": "https://www.snipd.com/ai-podcast-summaries",
+      "description": "Introducing Snipd's AI-generated Podcast Summaries",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "koolio.ai",
+      "website_url": "https://www.koolio.ai",
+      "description": "the future of podcast creation.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "sumly.ai",
+      "website_url": "https://www.sumly.ai",
+      "description": "AI-generated podcast summaries delivered straight to your inbox.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "podsqueeze",
+      "website_url": "https://podsqueeze.com",
+      "description": "Generate shownotes, timestamps, newsletters and more for your podcast with one click!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Dubb",
+      "website_url": "https://www.dubb.media",
+      "description": "An automated, easy-to-use assistant that generates marketing content for your podcast. Dubb turns your podcast episodes into show notes, social media posts, newsletter content, transcripts, and more.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "deciphr",
+      "website_url": "https://www.deciphr.ai",
+      "description": "Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. And it's completely free.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "type studio",
+      "website_url": "https://www.typestudio.co",
+      "description": "Type Studio is a fast, simple, and joyful way to edit and grow your podcasts, streams, and interviews.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "steosvoice",
+      "website_url": "https://cybervoice.io/en",
+      "description": "Your High-Quality Neural Voice AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "fathom",
+      "website_url": "https://hello.fathom.fm",
+      "description": "Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "wavtool",
+      "website_url": "https://wavtool.com",
+      "description": "AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "decoherence",
+      "website_url": "https://www.decoherence.co",
+      "description": "Make AI Music Videos",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "letsenhance",
+      "website_url": "https://letsenhance.io",
+      "description": "Automatic AI editor to increase image resolution without losing quality",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "facet ai",
+      "website_url": "https://facet.ai",
+      "description": "Facet is the first AI-powered image editor, empowering artists to do what they do best: create.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "remove bg",
+      "website_url": "https://www.remove.bg",
+      "description": "Remove backgrounds 100% automatically in 5 seconds with one click",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ProPhotos",
+      "website_url": "https://prophotos.ai",
+      "description": "Upgrade your professional image with AI-powered headshots.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "remini ai",
+      "website_url": "https://remini.ai",
+      "description": "The only photo enhancer you'll ever need",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "avatar ai",
+      "website_url": "https://avatarai.me",
+      "description": "Create your own photorealistic AI Avatars",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "photosonic",
+      "website_url": "https://photosonic.writesonic.com",
+      "description": "The AI that paints your dreams with pixels - for FREE.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai picasso",
+      "website_url": "https://aipicasso.studio.site",
+      "description": "Create Art with Powerful AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "upscale",
+      "website_url": "https://www.upscale.media",
+      "description": "Upscale and Enhance Your Images for FREE",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai image enlarger",
+      "website_url": "https://imglarger.com",
+      "description": "All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "DeOldify",
+      "website_url": "https://github.com/jantic/DeOldify",
+      "description": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "imagecolorizer",
+      "website_url": "https://imagecolorizer.com",
+      "description": "We use AI technology to restore old photos automatically",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "evoto",
+      "website_url": "https://www.evoto.ai",
+      "description": "EVOTO, AI-powered Image Editor",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "imagineme",
+      "website_url": "https://imagineme.app/ref/3",
+      "description": "Personal AI Art Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "restorephotos.io",
+      "website_url": "https://www.restorephotos.io",
+      "description": "Restoring old photos using AI for everyone.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "booth ai",
+      "website_url": "https://www.booth.ai",
+      "description": "Create pro quality product photography with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "phosus",
+      "website_url": "https://phosus.com",
+      "description": "AI-Powered Image Enhancement Tools and API Provider",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Vance.AI",
+      "website_url": "https://vance.ai",
+      "description": "Upscale Image with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Image Creator from Microsoft Bing",
+      "website_url": "https://www.bing.com/images/create",
+      "description": "Create images from words with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "BlueWillow",
+      "website_url": "https://www.bluewillow.ai",
+      "description": "Free AI Art Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Nero AI",
+      "website_url": "https://ai.nero.com",
+      "description": "Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "removal.ai",
+      "website_url": "https://removal.ai",
+      "description": "Remove Background From Image for Free Using Artificial Intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ZMO.AI",
+      "website_url": "https://www.zmo.ai/background-ai",
+      "description": "Background Generator & Remover — Background AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Stable Diffusion",
+      "website_url": "https://stablediffusionweb.com",
+      "description": "Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Playground AI",
+      "website_url": "https://playgroundai.com",
+      "description": "Create any image from your imagination",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "VectorArt.ai",
+      "website_url": "https://vectorart.ai",
+      "description": "Create vector images with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "syte ai",
+      "website_url": "https://www.syte.ai",
+      "description": "The World's #1 Product Discovery Platform for eCommerce",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "nureply",
+      "website_url": "https://nureply.com",
+      "description": "Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "zia by zoho",
+      "website_url": "https://www.zoho.com/zia",
+      "description": "Meet Zia, the AI-powered assistant for your business",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Adzis app",
+      "website_url": "https://app.adzis.com",
+      "description": "AI Content Generator App for eCommerce - Adzis",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ocaya",
+      "website_url": "https://www.ocoya.com",
+      "description": "Become a Social Media Genius",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "On-Page.ai",
+      "website_url": "https://on-page.ai",
+      "description": "On-Page SEO Optimization Tool Helps You Rank - On-Page.ai",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "sapling",
+      "website_url": "https://sapling.ai",
+      "description": "AI messaging assistant for customer-facing teams. Respond twice as fast.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "heyday",
+      "website_url": "https://heyday.hootsuite.com",
+      "description": "Drive more e-commerce sales and deliver five-star customer service at scale with our conversational AI chatbot.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "linkfluence",
+      "website_url": "https://www.linkfluence.com",
+      "description": "Enterprise Social Intelligence at Scale",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "phrasee",
+      "website_url": "https://phrasee.co",
+      "description": "Get more clicks, conversions, and customers with AI-optimized content",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "human marketing",
+      "website_url": "https://ai.human.marketing",
+      "description": "AI Marketing Software That Gets Predictably Better Results",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "acrolinx",
+      "website_url": "https://www.acrolinx.com",
+      "description": "The road to happy customers is paved with amazing content",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "liveperson",
+      "website_url": "https://www.liveperson.com",
+      "description": "Conversational AI that’s anything but artificial",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "albert",
+      "website_url": "https://albert.ai",
+      "description": "albert is your self-learning digital marketing ally",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "clickable",
+      "website_url": "https://www.clickable.so",
+      "description": "Generate ads in seconds with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Robin",
+      "website_url": "https://www.hellorobin.ai",
+      "description": "The Future of Sales Automation.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "cody",
+      "website_url": "https://www.meetcody.ai",
+      "description": "Cody is an intelligent AI assistant like ChatGPT – with the added benefit of being able to train it on your business, your team, your processes, and your clients with your own knowledge base. Use Cody to support your team, answer questions, help with creative work, troubleshoot issues, and brainstorm ideas.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Tugan.ai",
+      "website_url": "https://www.tugan.ai",
+      "description": "Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Marketing Co-pilot AI",
+      "website_url": "https://marketingcopilotai.com",
+      "description": "The Better Way to Do Marketing",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Domains GPT",
+      "website_url": "https://oneword.domains/domains-gpt",
+      "description": "Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PhotoRoom",
+      "website_url": "https://www.photoroom.com",
+      "description": "PhotoRoom - Remove Background and Create Product Pictures",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "IconifyAI.com",
+      "website_url": "https://www.iconifyai.com",
+      "description": "Create an Icon that truly represents your app with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "beautiful ai",
+      "website_url": "https://www.beautiful.ai",
+      "description": "Presentation software that designs for you.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "profilepicture",
+      "website_url": "https://www.profilepicture.ai",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "picofme",
+      "website_url": "https://picofme.io",
+      "description": "Just AI profile picture maker",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "withpoly",
+      "website_url": "https://withpoly.com",
+      "description": "Generate 3D Design Assets in Seconds with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "craiyon",
+      "website_url": "https://www.craiyon.com",
+      "description": "Free online AI image generator from text",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "neural love",
+      "website_url": "https://neural.love",
+      "description": "Online video, images and audio enhancement powered by AI — neural.love",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Imagen AI",
+      "website_url": "https://imagen-ai.com",
+      "description": "Imagen - Personalized Photo Editing Assistant",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "nightcafe studio",
+      "website_url": "https://nightcafe.studio",
+      "description": "AI Art Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "autodraw",
+      "website_url": "https://www.autodraw.com",
+      "description": "AutoDraw is a new kind of drawing tool. It pairs machine learning with drawings from talented artists to help everyone create anything visual, fast.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai draw",
+      "website_url": "https://ai-draw.tokyo/en",
+      "description": "Convert your photo into line drawing.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "hotpot ai",
+      "website_url": "https://hotpot.ai",
+      "description": "Hotpot helps you create amazing graphics, pictures, and text.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "pixray text to image / pixel art",
+      "website_url": "https://pixray.gob.io",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "designs ai",
+      "website_url": "https://designs.ai",
+      "description": "Create logos, videos, banners, mockups with A.I. in 2 minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "durable website builder",
+      "website_url": "https://durable.co/ai-website-builder",
+      "description": "Build a website in 30 seconds using artificial intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "makelogo ai",
+      "website_url": "https://makelogoai.com",
+      "description": "Uniques logos, for less than a coffee",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "nightcafe",
+      "website_url": "https://creator.nightcafe.studio",
+      "description": "Create amazing artworks using the power of Artificial Intelligence.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "DALL·E 2",
+      "website_url": "https://openai.com/dall-e-2",
+      "description": "DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "deep dream generator",
+      "website_url": "https://deepdreamgenerator.com",
+      "description": "HUMAN AI COLLABORATION",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "dream ai",
+      "website_url": "https://dream.ai",
+      "description": "High Quality Artwork In Seconds",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "starryai",
+      "website_url": "https://starryai.com",
+      "description": "Create Art with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "artbreeder",
+      "website_url": "https://www.artbreeder.com",
+      "description": "craft ai art like never before",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "looka",
+      "website_url": "https://looka.com",
+      "description": "Use Looka's AI-powered platform to design a logo and build a brand you love.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "logoAI",
+      "website_url": "https://www.logoai.com",
+      "description": "Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "logomaster AI",
+      "website_url": "https://logomaster.ai",
+      "description": "Powered by AI,logomaster.ai helps business owners create beautiful logos.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "durable",
+      "website_url": "https://durable.co",
+      "description": "The AI website builder that generates an entire business website with images and copy in seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "midjourney",
+      "website_url": "https://midjourney.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "magicstudio",
+      "website_url": "https://magicstudio.com",
+      "description": "Powered by AI, Created by You",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "pfpmaker",
+      "website_url": "https://pfpmaker.com",
+      "description": "Make your new profile picture with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "uizard",
+      "website_url": "https://uizard.io",
+      "description": "App, Web, & UI Design Made Easy — Powered By AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ando",
+      "website_url": "https://ando.studio",
+      "description": "Your AI design copilot.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "pixelz",
+      "website_url": "https://pixelz.ai",
+      "description": "PIXELZ AI AVATAR & IMAGE GENERATOR",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "makelogoai",
+      "website_url": "https://makelogo.ai",
+      "description": "Make Unique logos with AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "flair",
+      "website_url": "https://withflair.ai",
+      "description": "the AI Design Tool for Branded Content.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "magician",
+      "website_url": "https://magician.design",
+      "description": "A magical design tool for Figma powered by AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Galileo AI",
+      "website_url": "https://www.usegalileo.ai",
+      "description": "Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "stockimg",
+      "website_url": "https://stockimg.ai",
+      "description": "AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "pixlr",
+      "website_url": "https://pixlr.com",
+      "description": "AI powered photo editor, animation and design.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "brandmark",
+      "website_url": "https://brandmark.io",
+      "description": "Brandmark Logo Maker - the most advanced AI logo design tool",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "illustroke",
+      "website_url": "https://illustroke.com",
+      "description": "Stunning vector illustrations from text prompts",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "slides AI",
+      "website_url": "https://www.slidesai.io",
+      "description": "Create Presentations Slides with AI in seconds",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Cleanup.pictures",
+      "website_url": "https://cleanup.pictures",
+      "description": "Remove any unwanted object, defect, people or text from your pictures in seconds",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SnapEdit",
+      "website_url": "https://snapedit.app",
+      "description": "Remove Object from photo",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "UI-AI",
+      "website_url": "https://ui-ai.com",
+      "description": "User Interface Artificial Intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Whimsical AI for Mind Maps",
+      "website_url": "https://whimsical.com/ai-mind-maps",
+      "description": "Fresh ideas at your fingertips",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Adobe Firefly",
+      "website_url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+      "description": "AI Art Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AILab Tools",
+      "website_url": "https://www.ailabtools.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "IMGCREATOR",
+      "website_url": "https://imgcreator.zmo.ai",
+      "description": "All-in-one AI Design Art Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "vizcom",
+      "website_url": "https://www.vizcom.ai",
+      "description": "see your drawings come to life in seconds.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "storyd",
+      "website_url": "https://www.storyd.ai",
+      "description": "AI POWERED PRESENTATIONS",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PicWish",
+      "website_url": "https://picwish.com",
+      "description": "PicWish AI Photo Editor — Free Online Photo Editing Tools",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Figma AI",
+      "website_url": "https://www.figmaai.io",
+      "description": "Integrate GPT Chat into your Figma workflow",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "DreamStudio",
+      "website_url": "https://beta.dreamstudio.ai",
+      "description": "Tap into the power of our generative text-to-image suite to create new and unique designs.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Leonardo.Ai",
+      "website_url": "https://leonardo.ai",
+      "description": "Create stunning game assets with AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Spline AI",
+      "website_url": "https://spline.design/ai",
+      "description": "The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "NVIDIA Canvas",
+      "website_url": "https://www.nvidia.com/en-us/studio/canvas",
+      "description": "Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Thumbly",
+      "website_url": "https://thumbly.ai",
+      "description": "Create YouTube thumbnails that get clicks",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "stylized",
+      "website_url": "https://www.stylized.ai",
+      "description": "A new way to take product photos.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GitHub copilot",
+      "website_url": "https://github.com/features/copilot",
+      "description": "Your AI pair programmer",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "tabnine",
+      "website_url": "https://www.tabnine.com",
+      "description": "AI assistant for software developers",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "deepOpinion",
+      "website_url": "https://go.deepopinion.ai",
+      "description": "No-code AI for automation professionals",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "website_url": "https://aws.amazon.com/codewhisperer",
+      "description": "Build applications faster and more securely with your AI coding companion",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Android Studio Bot",
+      "website_url": "https://developer.android.com/studio/preview/studio-bot",
+      "description": "Studio Bot is your coding companion for Android development.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Flatlogic",
+      "website_url": "https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description",
+      "description": "generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Code Mentor AI",
+      "website_url": "https://code-mentor.ai",
+      "description": "Start coding smarter today with the ultimate explainer tool based on Artificial Intelligence for optimizing, refactoring, and reviewing code!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Fronty",
+      "website_url": "https://fronty.com",
+      "description": "convert image to HTML CSS",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SourceAI",
+      "website_url": "https://sourceai.dev",
+      "description": "Ai-Powered Code Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Microapp",
+      "website_url": "https://www.microapp.ai/build",
+      "description": "AI-Powered Component Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GitFluence",
+      "website_url": "https://www.gitfluence.com",
+      "description": "Find the Git Command You Need Now!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "bloop.",
+      "website_url": "https://bloop.ai",
+      "description": "bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "codium",
+      "website_url": "https://www.codium.ai",
+      "description": "Generating meaningful tests for busy devs",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "drenaline",
+      "website_url": "https://useadrenaline.com/app",
+      "description": "An AI-powered debugger GitHub repository",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GitHub repository",
+      "website_url": "https://github.com/shobrook/adrenaline",
+      "description": "drenaline",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AI CODE",
+      "website_url": "https://aicode-weld.vercel.app",
+      "description": "Turn text into HTML&CSS with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Stunning.so",
+      "website_url": "https://stunning.so",
+      "description": "Build websites with AI.i",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "codeium",
+      "website_url": "https://codeium.com",
+      "description": "AI-Powered Autocomplete",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Ghostwriter",
+      "website_url": "https://replit.com/site/ghostwriter",
+      "description": "Meet Ghostwriter, your partner in code.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Lightning AI",
+      "website_url": "https://lightning.ai",
+      "description": "The platform for teams to build AI, without the headaches",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "CommitAI",
+      "website_url": "https://github.com/fengyiqicoder/CommitAi-Free",
+      "description": "Let AI Handle Your Commit Messages",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Codewand",
+      "website_url": "https://www.codewand.co",
+      "description": "Use GPT-4 to build software with natural language.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "kopylot",
+      "website_url": "https://github.com/avsthiago/kopylot",
+      "description": "An AI-Powered assistant for Kubernetes developers",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Rix",
+      "website_url": "https://hashnode.com/rix",
+      "description": "The Ultimate AI-Powered Chatbot for Developers",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Kodezi",
+      "website_url": "https://kodezi.com",
+      "description": "Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Safurai",
+      "website_url": "https://www.safurai.com",
+      "description": "Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "10Web",
+      "website_url": "https://10web.io",
+      "description": "AI-Powered WordPress Platform",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "blackbox AI",
+      "website_url": "https://www.useblackbox.io",
+      "description": "{Code} As Fast As You Think.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ZZZ Code AI",
+      "website_url": "https://zzzcode.ai",
+      "description": "Website to ask any programming question or get a code generated by AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "screenshot-to-code",
+      "website_url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean HTML/Tailwind/JS code",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "colormind",
+      "website_url": "http://colormind.io",
+      "description": "Colormind - the AI powered color palette generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Huemint",
+      "website_url": "https://huemint.com",
+      "description": "AI color palette generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "khroma",
+      "website_url": "https://www.khroma.co",
+      "description": "Khroma - The AI color tool for designers",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ColorGPT",
+      "website_url": "https://colorgpt.vercel.app",
+      "description": "Generating color name captured from real-world using AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Chroma AI",
+      "website_url": "https://chroma.szhao.dev",
+      "description": "Generate gradients based on your mood",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PatternedAI",
+      "website_url": "https://www.patterned.ai",
+      "description": "Generate unique patterns for your product using AI!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Browse AI",
+      "website_url": "https://www.browse.ai",
+      "description": "The easiest way to extract and monitor data from any website.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "interview-warmup by google",
+      "website_url": "https://grow.google/certificates/interview-warmup",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "fastoutreach",
+      "website_url": "https://www.fastoutreach.ai",
+      "description": "The smartest AI personalization tool for entrepreneurs.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "getleon",
+      "website_url": "https://getleon.ai",
+      "description": "Leon is your open-source personal assistant who can live on your server.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Open AI Whisper",
+      "website_url": "https://github.com/openai/whisper",
+      "description": "Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "lightning echo",
+      "website_url": "https://lightning.ai/echo/view/home",
+      "description": "Transcription. simple and open-source. more lightning apps",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "more lightning apps",
+      "website_url": "https://lightning.ai/apps",
+      "description": "lightning echo",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "unschooler",
+      "website_url": "https://unschooler.me",
+      "description": "Personal AI-mentor helps you to find and pursue a new career.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "namelix",
+      "website_url": "https://namelix.com",
+      "description": "generate a short, brandable business name using artificial intelligence",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "lens ai",
+      "website_url": "https://lens-ai.com",
+      "description": "AI-powered contextual computer vision ad solution",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ai21",
+      "website_url": "https://www.ai21.com",
+      "description": "When Machines Become Thought Partners",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "co:here ai",
+      "website_url": "https://cohere.ai",
+      "description": "Making NLP part of every developer's toolkit",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "open ai",
+      "website_url": "https://openai.com/api",
+      "description": "Build next-gen apps with OpenAI’s powerful models.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "zyro ai tools",
+      "website_url": "https://zyro.com/tools",
+      "description": "Free AI tools to set your business up for success",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "personal ai",
+      "website_url": "https://www.personal.ai",
+      "description": "Generate new ideas, recall key concepts, and write original content and at the speed of thought.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "monterey ai",
+      "website_url": "https://www.monterey.ai",
+      "description": "Copilot for Product Development",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "kalendar ai",
+      "website_url": "https://www.kalendar.ai",
+      "description": "Book new revenue on autopilot with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "akkio",
+      "website_url": "https://www.akkio.com",
+      "description": "Modern Business Runs on AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "cortex",
+      "website_url": "https://www.meetcortex.com",
+      "description": "Enhance Your Creative with Powerful AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "validatorAI",
+      "website_url": "https://www.validatorai.com",
+      "description": "Validate and receive constructive feedback on any startup idea, powered by AI!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "naming magic",
+      "website_url": "https://www.namingmagic.com",
+      "description": "Use AI to name your company and find a domain.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "poised",
+      "website_url": "https://www.poised.com",
+      "description": "Poised is the AI-powered communication coach that helps you speak with confidence and clarity.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "mem",
+      "website_url": "https://get.mem.ai",
+      "description": "Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "tome",
+      "website_url": "https://beta.tome.app",
+      "description": "Unlock your best work with Tome's AI-powered storytelling format.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "custom GPT",
+      "website_url": "https://customgpt.ai",
+      "description": "Build Your Own ChatBOT With Your Data",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "rationale",
+      "website_url": "https://rationale.jina.ai",
+      "description": "a revolutionary AI to assist business owners, managers, and individuals in making tough decisions.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "roomGPT.io",
+      "website_url": "https://www.roomgpt.io",
+      "description": "Generating dream rooms using AI for everyone.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "addcontext",
+      "website_url": "https://addcontext.xyz",
+      "description": "Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "context",
+      "website_url": "https://usecontext.io",
+      "description": "A brain for your business.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "tl;dv",
+      "website_url": "https://tldv.io",
+      "description": "AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ttree",
+      "website_url": "https://ttree.ai",
+      "description": "A fulfilling job is one step closer to a more inspiring and purposeful life. At ttree, we build AI-powered technology to match talent with the best opportunities out there.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "bardeen",
+      "website_url": "https://www.bardeen.ai",
+      "description": "Automate your manual tasks",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "HUMATA",
+      "website_url": "https://www.humata.ai",
+      "description": "Ask AI anything about your files",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Onesta",
+      "website_url": "https://www.onestafinance.com",
+      "description": "Take control of your Financial Future",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Where To AI!",
+      "website_url": "https://www.wheretoai.com",
+      "description": "Welcome to Where To AI! Through the power of AI you will discover new destinations, create unforgettable memories and find the best places to stay.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "castmagic",
+      "website_url": "https://www.castmagic.io",
+      "description": "Podcast show notes & content in a click",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AI Gift For You",
+      "website_url": "https://aigiftforyou.com",
+      "description": "AI Gift For You - Finding the perfect gift just got easier!",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "TimeGPT",
+      "website_url": "https://timegpt.vercel.app",
+      "description": "An AI-powered date and time converter. Enter a prompt to get started. GitHub repository",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "GitHub repository",
+      "website_url": "https://github.com/Spiderpig86/TimeGPT",
+      "description": "TimeGPT",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PromptPal",
+      "website_url": "https://www.promptpal.net",
+      "description": "The destination for the best prompts for marketers, writers, designers, and more to get the most out of ChatGPT",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Harvey.",
+      "website_url": "https://www.harvey.ai",
+      "description": "Harvey — Generative AI for Elite Law Firms",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Engage AI",
+      "website_url": "https://getengageai.com",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Suggest AI",
+      "website_url": "https://suggestai.co",
+      "description": "Suggest AI is a machine learning powered personalization engine offering a product portfolio customized for online businesses",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Reflect",
+      "website_url": "https://reflect.app",
+      "description": null,
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "waitroom",
+      "website_url": "https://waitroom.com",
+      "description": "The solution to better meetings",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Gamma",
+      "website_url": "https://gamma.app",
+      "description": "A new medium for presenting ideas. Powered by AI.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "kickresume",
+      "website_url": "https://www.kickresume.com/en/ai-resume-writer",
+      "description": "Automate your CV creation with our AI resume builder.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "stability.ai",
+      "website_url": "https://stability.ai",
+      "description": "AI by the people for the people",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "EnhaceAI",
+      "website_url": "https://www.enhanceai.dev",
+      "description": "Add AI Autocomplete to any website in 2 minutes",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "June",
+      "website_url": "https://www.june.so/ai",
+      "description": "A new way to do product analytics",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Avoma",
+      "website_url": "https://www.avoma.com/v3",
+      "description": "AI Meeting assistance and collaboration, reimagined.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SpeakAide",
+      "website_url": "https://speakaide.com",
+      "description": "Take your public speaking to the next level with SpeakAide's AI script writing and teleprompter tool.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "PowerMode",
+      "website_url": "https://powermodeai.com",
+      "description": "PowerMode is your AI co-founder that will help you ideate and pitch your startup.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Talk to Books",
+      "website_url": "https://books.google.com/talktobooks",
+      "description": "Browse passages from books using experimental AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "SheetAI",
+      "website_url": "https://www.sheetai.app",
+      "description": "AI inside Spreadsheets",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Tripnotes",
+      "website_url": "https://tripnotes.ai/app",
+      "description": "Intelligent Travel Planner",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Travel Plan AI",
+      "website_url": "https://www.travelplan-ai.com",
+      "description": "Let AI Craft Your Perfect Travel Itinerary",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Decktopus AI",
+      "website_url": "https://www.decktopus.com",
+      "description": "World's #1 AI-Powered Presentation Generator",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Banter AI",
+      "website_url": "https://www.banterai.app",
+      "description": "Call up your favorite celebrities Scary realistic AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "tweetmonk_",
+      "website_url": "https://tweetmonk.com",
+      "description": "Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "AgentGPT",
+      "website_url": "https://agentgpt.reworkd.ai",
+      "description": "Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "Chatshape",
+      "website_url": "https://www.chatshape.com",
+      "description": "Build AI Chatbots from your content, remarkably fast",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "numerous.ai",
+      "website_url": "https://numerous.ai",
+      "description": "Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "glass.ai",
+      "website_url": "https://www.glass.ai",
+      "description": "Transforming sector and company research with AI",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "ROCKSET",
+      "website_url": "https://rockset.com",
+      "description": "Build blazing fast search and AI applications in record time",
+      "source_list": "awesome_ai_re50urces"
+    },
+    {
+      "name": "fal",
+      "website_url": "https://fal.ai",
+      "description": "Build real-time AI applications with lightning fast inference (under ~120ms).",
+      "source_list": "awesome_ai_re50urces"
+    }
+  ]
+}

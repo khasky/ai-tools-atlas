@@ -1,0 +1,198 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import ToolCard from "../components/ToolCard.astro";
+import { allTools, catalog, categoriesByAxis, primaryCategoryFacets, sponsoredTools } from "../lib/catalog";
+import { sortCatalogTools } from "../lib/sorts";
+import { withBase } from "../lib/paths";
+import {
+  absoluteUrl,
+  configuredSiteUrl,
+  SITE_NAME,
+  DEFAULT_DESCRIPTION,
+  REPO_URL,
+  AUTHOR_LOGIN,
+  AUTHOR_URL,
+} from "../lib/site-meta";
+
+const siteUrl = configuredSiteUrl();
+const websiteJsonLd =
+  siteUrl &&
+  JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: SITE_NAME,
+    description: DEFAULT_DESCRIPTION,
+    url: siteUrl,
+    inLanguage: "en-US",
+    publisher: {
+      "@type": "Organization",
+      name: AUTHOR_LOGIN,
+      url: AUTHOR_URL,
+      sameAs: [REPO_URL],
+    },
+    potentialAction: {
+      "@type": "SearchAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: `${absoluteUrl("/search")}?q={search_term_string}`,
+      },
+      "query-input": "required name=search_term_string",
+    },
+  });
+
+const browseSample = sortCatalogTools(allTools).slice(0, 12);
+const facets = primaryCategoryFacets();
+const jobs = categoriesByAxis("JOB");
+const sponsored = sponsoredTools(allTools).slice(0, 4);
+const guides = catalog.editorial_pages.slice(0, 3);
+
+const repoPath = REPO_URL.replace(/^https:\/\/github\.com\//, "");
+const githubStarAriaLabel = `Star ${repoPath} on GitHub`;
+---
+
+<Layout
+  title="AI Tools Atlas: products and services"
+  description="Search and filter a catalog built from merged public lists."
+  canonicalPath="/"
+>
+  {websiteJsonLd && <script type="application/ld+json" slot="head" set:html={websiteJsonLd} />}
+  <script async defer src="https://buttons.github.io/buttons.js" slot="head"></script>
+  <SiteHeader slot="header" />
+  <section class="rounded-2xl border border-ink-200 bg-gradient-to-br from-white to-ink-100/80 p-8 shadow-sm sm:p-12">
+    <h1 class="font-display text-3xl font-bold tracking-tight text-ink-950 sm:text-5xl">
+      Look up an AI product or service
+    </h1>
+    <p class="mt-4 max-w-2xl text-lg text-ink-600">
+      Built from public awesome-style lists: apps, APIs, vendor homepages. This pass skips Hub Spaces, model cards, and dataset pages.
+    </p>
+    <form
+      class="mt-8 flex max-w-3xl flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center"
+      action={withBase("/search")}
+      method="get"
+      role="search"
+    >
+      <label class="sr-only" for="q">Search tools</label>
+      <input
+        id="q"
+        name="q"
+        type="search"
+        placeholder='Try "coding ai", "meeting notes", or a product name...'
+        class="min-w-0 w-full flex-1 rounded-xl border border-ink-300 bg-white px-4 py-3 text-ink-900 shadow-inner outline-none ring-accent focus:ring-2 sm:min-w-[12rem]"
+      />
+      <div class="flex flex-shrink-0 flex-wrap items-center gap-3">
+        <button
+          type="submit"
+          class="rounded-xl bg-accent px-6 py-3 font-semibold text-white shadow hover:bg-accent-dark"
+        >
+          Search
+        </button>
+        <span class="inline-flex min-h-[44px] items-center">
+          <a
+            class="github-button"
+            href={REPO_URL}
+            data-color-scheme="light"
+            data-icon="octicon-star"
+            data-size="large"
+            data-show-count="true"
+            aria-label={githubStarAriaLabel}
+          >
+            Star
+          </a>
+        </span>
+      </div>
+    </form>
+    <p class="mt-3 text-xs text-ink-500">Filtered search URLs are shareable.</p>
+  </section>
+
+  <section class="mt-14">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Popular categories</h2>
+    <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        facets.map((c) => (
+          <a
+            href={withBase(`/category/${c.slug}`)}
+            class="rounded-xl border border-ink-200 bg-white p-4 shadow-sm transition hover:border-accent/40"
+          >
+            <span class="font-medium text-ink-900">{c.name}</span>
+            <p class="mt-1 text-sm text-ink-500 line-clamp-2">{c.description}</p>
+          </a>
+        ))
+      }
+    </div>
+    <a href={withBase("/categories")} class="mt-4 inline-block text-sm font-semibold text-accent hover:underline">All taxonomy →</a>
+  </section>
+
+  <section class="mt-14">
+    <div class="flex items-baseline justify-between gap-4">
+      <h2 class="font-display text-2xl font-semibold text-ink-950">From the catalog</h2>
+      <a href={withBase("/tools")} class="text-sm font-semibold text-accent hover:underline">Browse all →</a>
+    </div>
+    <p class="mt-2 text-sm text-ink-600">
+      Twelve names from the sorted catalog. A–Z when the build has no listing metrics; sponsored sits in its own block below.
+    </p>
+    <div class="mt-4 grid gap-4 lg:grid-cols-2">
+      {browseSample.map((t) => <ToolCard tool={t} />)}
+    </div>
+  </section>
+
+  <section class="mt-14 grid gap-6 rounded-2xl border border-ink-200 bg-white p-6 sm:grid-cols-3">
+    <a href={withBase("/free")} class="rounded-xl bg-ink-50 p-4 hover:ring-2 hover:ring-accent/30">
+      <h3 class="font-display font-semibold text-ink-950">Free tools</h3>
+      <p class="mt-2 text-sm text-ink-600">Free and freemium in this snapshot. Confirm pricing on the site.</p>
+    </a>
+    <a href={withBase("/open-source")} class="rounded-xl bg-ink-50 p-4 hover:ring-2 hover:ring-accent/30">
+      <h3 class="font-display font-semibold text-ink-950">Open source</h3>
+      <p class="mt-2 text-sm text-ink-600">Whatever upstream lists tagged as open source.</p>
+    </a>
+    <a href={withBase("/enterprise-ready")} class="rounded-xl bg-ink-50 p-4 hover:ring-2 hover:ring-accent/30">
+      <h3 class="font-display font-semibold text-ink-950">Enterprise-ready</h3>
+      <p class="mt-2 text-sm text-ink-600">Tagged enterprise-oriented in this data. Treat it as a hint, not a guarantee.</p>
+    </a>
+  </section>
+
+  <section class="mt-14">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Editorial guides</h2>
+    <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+      {
+        guides.map((g) => (
+          <li>
+            <a href={withBase(`/best/${g.slug}`)} class="block rounded-xl border border-ink-200 bg-white p-4 shadow-sm hover:border-accent/40">
+              <span class="font-medium text-ink-900">{g.title}</span>
+              <p class="mt-1 text-sm text-ink-600">{g.summary}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  {
+    sponsored.length > 0 && (
+      <section class="mt-14 rounded-2xl border border-amber-200 bg-amber-50/40 p-6">
+        <h2 class="font-display text-xl font-semibold text-amber-950">Sponsored placements</h2>
+        <p class="mt-1 text-sm text-amber-900/80">Labeled sponsors, sorted outside the main browse order.</p>
+        <div class="mt-4 flex flex-col gap-4">
+          {sponsored.map((t) => (
+            <ToolCard tool={t} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <section class="mt-14 rounded-2xl border border-ink-200 bg-white p-6">
+    <h2 class="font-display text-xl font-semibold text-ink-950">Browse by task</h2>
+    <div class="mt-4 flex flex-wrap gap-2">
+      {jobs.slice(0, 12).map((j) => (
+        <a
+          href={withBase(`/use-case/${j.slug}`)}
+          class="rounded-full border border-ink-200 bg-ink-50 px-3 py-1 text-sm text-ink-800 hover:border-accent/40"
+        >
+          {j.name}
+        </a>
+      ))}
+    </div>
+    <a href={withBase("/use-cases")} class="mt-4 inline-block text-sm font-semibold text-accent hover:underline">All use cases →</a>
+  </section>
+</Layout>

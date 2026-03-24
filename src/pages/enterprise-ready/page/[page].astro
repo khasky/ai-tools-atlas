@@ -1,0 +1,32 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import SiteHeader from "../../../components/SiteHeader.astro";
+import ToolCard from "../../../components/ToolCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import { allTools } from "../../../lib/catalog";
+import { sortEnterpriseTools } from "../../../lib/sorts";
+import { paginate, pageCount } from "../../../lib/paginate";
+
+export function getStaticPaths() {
+  const list = sortEnterpriseTools(allTools);
+  const tp = pageCount(list.length);
+  if (tp <= 1) return [];
+  return Array.from({ length: tp - 1 }, (_, i) => ({ params: { page: String(i + 2) } }));
+}
+
+const pageNum = Number(Astro.params.page);
+const list = sortEnterpriseTools(allTools);
+const { items, totalPages, total } = paginate(list, pageNum);
+---
+
+<Layout title={`Enterprise-ready, page ${pageNum}`} description={`Enterprise-oriented tools, page ${pageNum}.`}>
+  <SiteHeader slot="header" />
+  <div class="mb-8">
+    <h1 class="font-display text-3xl font-bold text-ink-950">Enterprise-ready</h1>
+    <p class="mt-1 text-sm text-ink-500">Page {pageNum} of {totalPages} · {total.toLocaleString()} tools</p>
+  </div>
+  <div class="flex flex-col gap-4">
+    {items.map((t) => <ToolCard tool={t} />)}
+  </div>
+  <Pagination basePath="/enterprise-ready" page={pageNum} totalPages={totalPages} />
+</Layout>

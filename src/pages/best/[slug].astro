@@ -1,0 +1,38 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import ToolCard from "../../components/ToolCard.astro";
+import { catalog, editorialPage, getTool } from "../../lib/catalog";
+import { absoluteUrl, configuredSiteUrl, AUTHOR_LOGIN, AUTHOR_URL } from "../../lib/site-meta";
+
+export function getStaticPaths() {
+  return catalog.editorial_pages.map((p) => ({ params: { slug: p.slug } }));
+}
+
+const slug = Astro.params.slug!;
+const page = editorialPage(slug);
+if (!page) throw new Error("Unknown editorial page");
+
+const tools = page.tool_slugs.map((s) => getTool(s)).filter(Boolean);
+
+const articleLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: page.title,
+  description: page.summary,
+  url: absoluteUrl(`/best/${slug}`),
+  author: { "@type": "Person", name: AUTHOR_LOGIN, url: AUTHOR_URL },
+  isPartOf: { "@type": "WebSite", name: "AI Tools Atlas", url: configuredSiteUrl() },
+});
+---
+
+<Layout title={page.title} description={page.summary} canonicalPath={`/best/${slug}`} ogType="article">
+  <script type="application/ld+json" slot="head" set:html={articleLd} />
+  <SiteHeader slot="header" />
+  <p class="text-sm font-medium uppercase tracking-wide text-accent">Editorial</p>
+  <h1 class="mt-2 font-display text-3xl font-bold text-ink-950">{page.title}</h1>
+  <p class="mt-3 max-w-3xl text-ink-600">{page.summary}</p>
+  <div class="mt-10 flex flex-col gap-4">
+    {tools.map((t) => t && <ToolCard tool={t} />)}
+  </div>
+</Layout>

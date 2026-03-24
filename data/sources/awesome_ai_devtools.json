@@ -1,0 +1,1426 @@
+{
+  "source_id": "awesome_ai_devtools",
+  "source_homepage": "https://github.com/jamesmurdza/awesome-ai-devtools",
+  "list_name": "Awesome AI-Powered Developer Tools",
+  "raw_readme_url": "https://raw.githubusercontent.com/jamesmurdza/awesome-ai-devtools/main/README.md",
+  "fetched_at": "2026-03-24T05:07:27.390Z",
+  "item_count": 236,
+  "items": [
+    {
+      "name": "Google Antigravity",
+      "website_url": "https://antigravity.google",
+      "description": "An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Crystal",
+      "website_url": "https://github.com/stravu/crystal",
+      "description": "A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Cursor",
+      "website_url": "https://www.cursor.com",
+      "description": "An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "PearAI",
+      "website_url": "https://trypear.ai",
+      "description": "An open source fork of VS Code with chat and inline code generation.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Melty",
+      "website_url": "https://melty.sh",
+      "description": "An open source fork of VS Code with built in chat, change previews, and ability to write commits with AI. Currently only source code is available.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Replit",
+      "website_url": "https://replit.com",
+      "description": "Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Mutable",
+      "website_url": "https://github.com/mutableai/monitors4codegen",
+      "description": "Web-based IDE, integrated with a chatbot and GitHub.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeStory",
+      "website_url": "https://codestory.ai",
+      "description": "An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "UI Pilot",
+      "website_url": "https://ui-pilot.com",
+      "description": "Chat-based AI code editor that creates forms using Material UI, using GPT-4.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GitWit",
+      "website_url": "https://gitwit.dev",
+      "description": "Web-based editor for building ReactJS applications with AI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Windsurf",
+      "website_url": "https://windsurf.com",
+      "description": "An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Theia IDE",
+      "website_url": "https://theia-ide.org",
+      "description": "An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on , a platform designed to enable the creation of custom, AI-powered tools and IDEs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Theia AI",
+      "website_url": "https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai",
+      "description": "An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on , a platform designed to enable the creation of custom, AI-powered tools and IDEs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "OneCompiler",
+      "website_url": "https://onecompiler.com",
+      "description": "A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "trae",
+      "website_url": "https://www.trae.ai",
+      "description": "Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Zed",
+      "website_url": "https://zed.dev",
+      "description": "A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Dorothy",
+      "website_url": "https://github.com/Charlie85270/Dorothy",
+      "description": "Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Nimbalyst",
+      "website_url": "https://nimbalyst.com",
+      "description": "An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Parallel Code",
+      "website_url": "https://github.com/johannesjo/parallel-code",
+      "description": "Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "git-lrc",
+      "website_url": "https://github.com/HexmosTech/git-lrc",
+      "description": "Free, unlimited AI code reviews that run on every commit.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GitBrain",
+      "website_url": "https://gitbrain.dev",
+      "description": "Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GitButler",
+      "website_url": "https://gitbutler.com",
+      "description": "Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AI Git Narrator",
+      "website_url": "https://github.com/pmusolino/AI-Git-Narrator",
+      "description": "CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Replit Ghostwriter Chat",
+      "website_url": "https://replit.com/site/ghostwriter",
+      "description": "Assistant built into  with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and  (OS) for autocomplete.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "replit-code-v1-3b",
+      "website_url": "https://huggingface.co/replit/replit-code-v1-3b",
+      "description": "Assistant built into  with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and  (OS) for autocomplete.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Unblocked",
+      "website_url": "https://getunblocked.com",
+      "description": "Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VSCode, and JetBrains IDE's.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Sourcegraph Cody",
+      "website_url": "https://about.sourcegraph.com/cody",
+      "description": "Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Magnet",
+      "website_url": "https://www.magnet.run",
+      "description": "Web-based chatbot with repositories and issues as context.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Adrenaline",
+      "website_url": "https://useadrenaline.com",
+      "description": "Web-based chatbot using AI and ASTs to answer questions about your codebase.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeSquire",
+      "website_url": "https://codesquire.ai",
+      "description": "Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Incognito Pilot",
+      "website_url": "https://github.com/silvanmelchior/IncognitoPilot",
+      "description": "Open source assistant with built-in Python editor and interpreter.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Onboard",
+      "website_url": "https://www.getonboardai.com",
+      "description": "Chat with an AI about public and private codebases.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Code to Flow",
+      "website_url": "https://codetoflow.com",
+      "description": "Visualize, analyze, and understand code with interactive flowcharts.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Pieces",
+      "website_url": "https://pieces.app",
+      "description": "An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex projects through a contextual understanding of your workflow.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Poirot",
+      "website_url": "https://github.com/LeonardoCardoso/Poirot",
+      "description": "A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Wren AI",
+      "website_url": "https://getwren.ai/oss",
+      "description": "SQL AI Agent to get results and insights faster by asking questions without writing SQL, and it's open-source!",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "TEXT2SQL.AI",
+      "website_url": "https://www.text2sql.ai",
+      "description": "AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "SQLAI.ai",
+      "website_url": "https://www.sqlai.ai",
+      "description": "AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeWP",
+      "website_url": "https://codewp.ai",
+      "description": "AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Gru.ai",
+      "website_url": "https://www.gru.ai",
+      "description": "An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GitHub Copilot",
+      "website_url": "https://github.com/features/copilot",
+      "description": "A VS Code extension with chat, pull request text generation, and unit test generation.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Cline",
+      "website_url": "https://marketplace.visualstudio.com/items",
+      "description": "Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Refact AI",
+      "website_url": "https://refact.ai",
+      "description": "Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Continue",
+      "website_url": "https://continue.dev",
+      "description": "VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "cursor-doctor",
+      "website_url": "https://github.com/nedcodes-ok/cursor-doctor",
+      "description": "Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Blackbox AI",
+      "website_url": "https://www.useblackbox.io",
+      "description": "VS Code extension with autocomplete and chat including links to online coding references.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeGeeX",
+      "website_url": "https://codegeex.cn",
+      "description": "Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Quack AI",
+      "website_url": "https://www.quackai.com",
+      "description": "VS Code extension for adhering to project coding guidelines.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Tabby",
+      "website_url": "https://tabbyml.github.io/tabby",
+      "description": "Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Tabnine",
+      "website_url": "https://www.tabnine.com",
+      "description": "Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeMate",
+      "website_url": "https://www.codemate.ai",
+      "description": "VS Code extension for debugging and optimizing code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AskCodi",
+      "website_url": "https://www.askcodi.com",
+      "description": "AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Rubberduck",
+      "website_url": "https://github.com/rubberduck-ai/rubberduck-vscode",
+      "description": "Open source, chat assistant for the Visual Studio Code side bar.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeComplete",
+      "website_url": "https://codecomplete.ai",
+      "description": "Self hosted, enterprise completion assistant.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GoCodeo",
+      "website_url": "https://www.gocodeo.com",
+      "description": "GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "JetBrains AI",
+      "website_url": "https://www.jetbrains.com/ai",
+      "description": "AI assistant available in all JetBrains IDEs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "aiXcoder",
+      "website_url": "https://www.aixcoder.com/en",
+      "description": "Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Sourcery",
+      "website_url": "https://sourcery.ai",
+      "description": "AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Swimm",
+      "website_url": "https://swimm.io",
+      "description": "Assistant for contextual code understanding using static analysis and AI generated documentation. VSCode, Jetbrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm, PhPStorm",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Supermaven",
+      "website_url": "https://supermaven.com",
+      "description": "VS Code extension for autocomplete with 300,000-token context window.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Amazon Q Developer",
+      "website_url": "https://aws.amazon.com/q/developer/build",
+      "description": "AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA. Amazon Q Developer IDE plugin has a number of Agents that can also scan code to highlight and define security issues (/review), write documentation (/doc), write unit tests (/test), and help you upgrade to later versions of Java (/transform) (formerly known as Amazon CodeWhisperer)",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Android Studio Bot",
+      "website_url": "https://developer.android.com/studio/preview/studio-bot",
+      "description": "Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "IBM watsonx Code Assistant for Z",
+      "website_url": "https://www.ibm.com/products/watsonx-code-assistant-z",
+      "description": "watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "EasyCode",
+      "website_url": "https://www.easycode.ai",
+      "description": "VS Code extension with GPT-4 chat.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Kilo Code",
+      "website_url": "https://kilocode.ai",
+      "description": "Open Source AI coding assistant for planning, building, and fixing code inside VS Code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Mysti",
+      "website_url": "https://github.com/DeepMyst/Mysti",
+      "description": "Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate on solutions.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "FlyonUI MCP",
+      "website_url": "https://flyonui.com/mcp",
+      "description": "Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Traycer",
+      "website_url": "https://traycer.ai",
+      "description": "Plan-First Coding Assistant in VS Code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "shadcn/studio MCP",
+      "website_url": "https://shadcnstudio.com/mcp",
+      "description": "Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Amazon Q Developer CLI",
+      "website_url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html",
+      "description": "CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "aloc",
+      "website_url": "https://github.com/modern-tooling/aloc",
+      "description": "A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "talk-codebase",
+      "website_url": "https://github.com/rsaryev/talk-codebase",
+      "description": "CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "gptcomet",
+      "website_url": "https://github.com/belingud/gptcomet",
+      "description": "CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "poorcoder",
+      "website_url": "https://github.com/vgrichina/poorcoder",
+      "description": "A collection of Bash scripts to extract code context, apply changes from markdown, and generate AI commit messages while using web-based LLMs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Vibe Compiler (vibec)",
+      "website_url": "https://github.com/Strawberry-Computer/vibe-compiler",
+      "description": "A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation. Works with any LLM via OpenRouter, including Claude, ChatGPT, and Grok.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "cmd-ai",
+      "website_url": "https://github.com/BrodaNoel/cmd-ai",
+      "description": "Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "faf-cli",
+      "website_url": "https://github.com/Wolfe-Jam/faf-cli",
+      "description": "Foundational AI-context format. Generates persistent project DNA (.faf files) that give any AI instant, structured context. IANA-registered (application/vnd.faf+yaml). Works with Claude, Gemini, Grok, Cursor, and Windsurf.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "promptext",
+      "website_url": "https://github.com/1broseidon/promptext",
+      "description": "Smart code context extractor for AI assistants with accurate token counting, relevance prioritization, and budget management. Prepares optimized code context within LLM token limits.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Conduit8",
+      "website_url": "https://github.com/conduit8/conduit8",
+      "description": "CLI registry for discovering, installing, and managing Claude Code skills. Search 20+ curated skills by keyword or category, install directly to ~/.claude/skills/ with one command.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Baz CLI",
+      "website_url": "https://github.com/baz-scm/baz-cli",
+      "description": "CLI for AI assisted code review, with access to the actual code, diff etc.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AdaL",
+      "website_url": "https://sylph.ai",
+      "description": "Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Tokscale",
+      "website_url": "https://github.com/junhoyeo/tokscale",
+      "description": "CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "BurnRate",
+      "website_url": "https://getburnrate.io",
+      "description": "Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "onWatch",
+      "website_url": "https://github.com/onllm-dev/onwatch",
+      "description": "Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI Codex, GitHub Copilot, Synthetic, Z.ai, MiniMax, Antigravity). Background daemon with Material Design 3 web dashboard, ~15MB binary, <50MB RAM, zero telemetry.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Caliber",
+      "website_url": "https://github.com/rely-ai-org/caliber",
+      "description": "Open-source CLI that scans your codebase and generates AI agent configs (CLAUDE.md, .cursorrules, skills, MCPs) for Claude Code, Cursor, and Codex. Scores your setup 0–100 and recommends MCP servers.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "vsync",
+      "website_url": "https://github.com/nicepkg/vsync",
+      "description": "CLI tool that syncs Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion (JSON ↔ TOML ↔ JSONC).",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "rule-porter",
+      "website_url": "https://github.com/nedcodes-ok/rule-porter",
+      "description": "Zero-dependency CLI that converts AI IDE rule files between Cursor (.mdc), CLAUDE.md, AGENTS.md, Copilot, and Windsurf. Bidirectional with lossy-conversion warnings.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "LynxPrompt",
+      "website_url": "https://github.com/GeiserX/LynxPrompt",
+      "description": "Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Claude Code Open",
+      "website_url": "https://github.com/kill136/claude-code-open",
+      "description": "Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Arctic",
+      "website_url": "https://github.com/arctic-cli/interface",
+      "description": "A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "models",
+      "website_url": "https://github.com/arimxyer/models",
+      "description": "A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Memex",
+      "website_url": "https://memex.tech",
+      "description": "Build anything in any stack, with just natural language, on your desktop.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Mantra",
+      "website_url": "https://mantra.gonewx.com",
+      "description": "Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AskCommand",
+      "website_url": "https://www.askcommand.cppexpert.online",
+      "description": "Web based tool to generate Unix commands from text automatically using AI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Butterfish",
+      "website_url": "https://butterfi.sh",
+      "description": "CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Shell Whiz",
+      "website_url": "https://github.com/beimzhan/shell-whiz",
+      "description": "highly configurable CLI assistant to generate shell commands and get explanations for them.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GitFluence",
+      "website_url": "https://www.gitfluence.com",
+      "description": "Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AutoComplete.sh",
+      "website_url": "https://github.com/closedLoop-technologies/autocomplete-sh",
+      "description": "CLI tool that adds AI-powered command-line suggestions directly to your terminal with just type <TAB><TAB> to return the top suggestions for you.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "code-collator",
+      "website_url": "https://github.com/tawandakembo/code-collator",
+      "description": "CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Warp",
+      "website_url": "https://www.warp.dev",
+      "description": "Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "TmuxAI",
+      "website_url": "https://tmuxai.dev",
+      "description": "AI-powered, non-intrusive terminal assistant.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "intelli-shell",
+      "website_url": "https://github.com/lasantosr/intelli-shell",
+      "description": "Manage command templates/snippets with dynamic completions and AI integration.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Smol Developer",
+      "website_url": "https://github.com/smol-ai/developer",
+      "description": "CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Aider",
+      "website_url": "https://github.com/paul-gauthier/aider",
+      "description": "CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Blinky",
+      "website_url": "https://github.com/seahyinghang8/blinky",
+      "description": "A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Mentat",
+      "website_url": "https://www.mentat.ai",
+      "description": "CLI assistant and agent that makes changes to repositories.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GPT Engineer",
+      "website_url": "https://github.com/AntonOsika/gpt-engineer",
+      "description": "CLI agent that generates a repository from a prompt, and asks clarifying questions.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GPT Migrate",
+      "website_url": "https://github.com/0xpayne/gpt-migrate",
+      "description": "CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Grit",
+      "website_url": "https://app.grit.io",
+      "description": "GitHub-integrated agent for automating maintenance tasks and other development work.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DemoGPT",
+      "website_url": "https://github.com/melih-unsal/DemoGPT",
+      "description": "Auto Gen-AI App Generator with the Power of Llama 2",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DevOpsGPT",
+      "website_url": "https://github.com/kuafuai/DevOpsGPT",
+      "description": "DevOpsGPT: AI-Driven Software Development Automation Solution",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Second.dev",
+      "website_url": "https://www.second.dev",
+      "description": "A platform for adding features to full-stack apps.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Factory",
+      "website_url": "https://www.factory.ai",
+      "description": "Agents for code generation. Waitlisted.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "FlyDex",
+      "website_url": "https://flydex.net",
+      "description": "Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "sudocode",
+      "website_url": "https://sudocode.ai",
+      "description": "A web based chat assistant for generating projects, similar to Code Interpreter.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeFlash AI",
+      "website_url": "https://www.codeflash.ai",
+      "description": "A CLI and CI tool for optimizing Python code using AI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Micro Agent by Builder",
+      "website_url": "https://www.builder.io/blog/micro-agent",
+      "description": "An AI agent that writes and fixes code for you.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Fine",
+      "website_url": "https://fine.dev",
+      "description": "AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Potpie",
+      "website_url": "https://potpie.ai",
+      "description": "Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Roundtable MCP Server",
+      "website_url": "https://github.com/askbudi/roundtable",
+      "description": "Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Claude Code",
+      "website_url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview",
+      "description": "Anthropic's agentic coding tool.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Open Agent",
+      "website_url": "https://github.com/Th0rgal/openagent",
+      "description": "Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Agentic Sprint",
+      "website_url": "https://github.com/damienlaine/agentic-sprint",
+      "description": "Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "VibeBox",
+      "website_url": "https://vibebox.robcholz.com",
+      "description": "Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Leap.new",
+      "website_url": "https://leap.new",
+      "description": "It builds functional apps with real backend services, APIs, and deploys to your cloud.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Recurse ML",
+      "website_url": "https://recurse.ml",
+      "description": "Find bugs in AI Generated Code",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Zenable",
+      "website_url": "https://zenable.io",
+      "description": "AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Stoneforge",
+      "website_url": "https://stoneforge.ai",
+      "description": "Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Trellis",
+      "website_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "brood-box",
+      "website_url": "https://github.com/stacklok/brood-box",
+      "description": "Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Shep",
+      "website_url": "https://github.com/shep-ai/cli",
+      "description": "Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Greptile",
+      "website_url": "https://greptile.com/code-review-bot",
+      "description": "AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Macroscope",
+      "website_url": "https://macroscope.com/code-review",
+      "description": "AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "EntelligenceAI",
+      "website_url": "https://entelligence.ai/pr",
+      "description": "AI powered code reviews for Github and Gitlab that improves over time based on user comments",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Sweep",
+      "website_url": "https://github.com/sweepai/sweep",
+      "description": "AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Codegen",
+      "website_url": "https://www.codegen.com",
+      "description": "GPT-4 based PR agent for enterprise codebases.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Code Review GPT",
+      "website_url": "https://github.com/mattzcarey/code-review-gpt",
+      "description": "An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Qodo PR Agent",
+      "website_url": "https://github.com/qodo-ai/pr-agent",
+      "description": "Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an \"E\").",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Nova",
+      "website_url": "https://www.trynova.ai",
+      "description": "CI bot to add actions such as summaries and tests to new PRs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeRabbit",
+      "website_url": "https://coderabbit.ai",
+      "description": "Customizable CI to add summaries and code suggestions to PRs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "SwePT",
+      "website_url": "https://github.com/keerthanpg/SwePT",
+      "description": "Open source PR generator written in 150 lines of Python code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Duckie",
+      "website_url": "https://duckie.ai",
+      "description": "A web based chat assistant for modifying GitHub repositories.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "PR Explainer Bot",
+      "website_url": "https://pr-explainer-bot.web.app",
+      "description": "A GitHub integration that adds explanatory text to newly created PRs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Goast",
+      "website_url": "https://goast.ai",
+      "description": "A hosted tool that ingests your error logs and suggests fixes.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Corgea",
+      "website_url": "https://corgea.com",
+      "description": "A GitHub integration that finds and fixes vulnerable code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "vx.dev",
+      "website_url": "https://github.com/Yuyz0112/vx.dev",
+      "description": "A GitHub integration focused on UI generation with built in support for shadcn, lucide, and nivo charts.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Pixee",
+      "website_url": "https://pixee.ai",
+      "description": "Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeAnt AI",
+      "website_url": "https://www.codeant.ai",
+      "description": "Automatically create PRs to fix code issues.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "What The Diff",
+      "website_url": "https://whatthediff.ai",
+      "description": "AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Trag",
+      "website_url": "https://usetrag.com",
+      "description": "AI powered code reviews with pre-defined instructions and patterns.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeReviewBot",
+      "website_url": "https://codereviewbot.ai",
+      "description": "AI powered code reviews for GitHub",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Callstack.ai Code Reviewer",
+      "website_url": "https://callstack.ai/code-reviewer",
+      "description": "AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Matter AI",
+      "website_url": "https://matterai.dev",
+      "description": "Open Source AI Code Reviewer to help engineering teams release code with confidence.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Gito",
+      "website_url": "https://github.com/Nayjest/Gito",
+      "description": "AI code reviewer that works with any language model, locally or in GitHub Actions.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Baz",
+      "website_url": "https://baz.co",
+      "description": "Ai Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of teh developer tooling for context.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Z.ai Code Review",
+      "website_url": "https://github.com/tarmojussila/zai-code-review",
+      "description": "AI-powered GitHub Pull Request code review using Z.ai models.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "MiniMax Code Review",
+      "website_url": "https://github.com/tarmojussila/minimax-code-review",
+      "description": "AI-powered GitHub Pull Request code review using MiniMax models.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "claude-pr-reviewer",
+      "website_url": "https://github.com/indoor47/claude-pr-reviewer",
+      "description": "GitHub Action + CLI that uses Claude AI to automatically review pull requests, post inline comments, and report token costs. Supports strictness levels (lenient/balanced/strict). Zero dependencies, Python 3.8+.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Revieko",
+      "website_url": "https://synqra.tech/revieko",
+      "description": "Architecture drift radar for PRs: structural risk scoring and drift hotspots.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Pico",
+      "website_url": "https://picoapps.xyz",
+      "description": "End-to-end micro app generator with instant deployment.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Co.dev",
+      "website_url": "https://www.co.dev",
+      "description": "AI-powered app development platform that helps build and deploy full-stack applications.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "SoftGen",
+      "website_url": "https://softgen.ai",
+      "description": "AI-powered software generation platform for building Web Apps.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "LlamaCoder",
+      "website_url": "https://llamacoder.together.ai",
+      "description": "Open source code generation model for building applications using Opensource LLMs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "e2b_Fragments",
+      "website_url": "https://fragments.e2b.dev",
+      "description": "Platform for building and deploying AI-powered applications with sandboxed environments.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Bolt.new",
+      "website_url": "https://bolt.new",
+      "description": "AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly in the browser using WebContainers. Supports npm packages, Node.js servers, and third-party APIs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Bolt.diy",
+      "website_url": "https://github.com/stackblitz-labs/bolt.diy",
+      "description": "Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Srcbook",
+      "website_url": "https://github.com/srcbookdev/srcbook",
+      "description": "TypeScript-centric app development platform with an AI app builder and TypeScript notebook.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Capacity",
+      "website_url": "https://capacity.so",
+      "description": "AI powered full-stack web app development that turn prompt in natural language into fully functional web applications.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Lovable",
+      "website_url": "https://lovable.dev",
+      "description": "AI-powered full-stack app development platform that converts natural language descriptions or designs into fully functional applications with built-in deployment and GitHub integration.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Literally anything",
+      "website_url": "https://literallyanything.io",
+      "description": "HTML and JavaScript web app generator.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "GPT Web App Generator",
+      "website_url": "https://magic-app-generator.wasp-lang.dev",
+      "description": "Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Make Real",
+      "website_url": "https://makereal.tldraw.com",
+      "description": "Online canvas that can be used to generate HTML/JavaScript apps.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Marblism",
+      "website_url": "https://marblism.com",
+      "description": "Generate a SaaS boilerplate from a prompt.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Glowbom",
+      "website_url": "https://glowbom.com",
+      "description": "Generate apps with AI and export to multiple platforms.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Mage",
+      "website_url": "https://usemage.ai",
+      "description": "Generate full-stack web apps in Wasp, React, Node.js and Prisma.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "ScrollHub",
+      "website_url": "https://hub.scroll.pub",
+      "description": "Generate and publish websites using the Scroll programming language.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Taskade Genesis",
+      "website_url": "https://taskade.com/genesis",
+      "description": "AI-powered platform for building custom AI agents, workflows, and apps using natural language. Multi-model support (GPT-4o, Claude, Gemini), open-source MCP server.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Berrry",
+      "website_url": "https://berrry.app",
+      "description": "Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Blank Space",
+      "website_url": "https://www.blankspace.build",
+      "description": "Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Fastshot",
+      "website_url": "https://fastshot.ai",
+      "description": "AI driven no-code platform for building and deploying mobile apps.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "v0",
+      "website_url": "https://v0.dev",
+      "description": "Create and iterate new UI components in your browser.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Rendition Create",
+      "website_url": "https://www.renditioncreate.com",
+      "description": "Create and iterate new UI components in your browser.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Rapidpages",
+      "website_url": "https://github.com/rapidpages/rapidpages",
+      "description": "Open source UI generator.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Magic Patterns",
+      "website_url": "https://www.magicpatterns.com",
+      "description": "Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their . Can export to Figma with a . Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Chrome Extension",
+      "website_url": "https://www.magicpatterns.com/extension",
+      "description": "Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their . Can export to Figma with a . Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "plugin",
+      "website_url": "https://www.figma.com/community/plugin/1304255855834420274",
+      "description": "Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their . Can export to Figma with a . Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Tempo",
+      "website_url": "https://www.tempolabs.ai",
+      "description": "WYSIWYG editor for React interfaces.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Kombai",
+      "website_url": "https://kombai.com",
+      "description": "AI Tool for generating frontend code from Figma.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodeParrot",
+      "website_url": "https://www.codeparrot.ai",
+      "description": "VS code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Galileo AI",
+      "website_url": "https://www.usegalileo.ai",
+      "description": "A text-to-UI platform. Waitlist.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Uizard",
+      "website_url": "https://uizard.io",
+      "description": "Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Frontly",
+      "website_url": "https://fronty.com",
+      "description": "Convert the uploaded image to HTML CSS code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "BoringUi",
+      "website_url": "https://www.boringui.xyz",
+      "description": "Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Polymet",
+      "website_url": "https://polymet.ai",
+      "description": "Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CSS Picker",
+      "website_url": "https://csspicker.dev",
+      "description": "Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by ), image to code and text to UI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CSS Picker Extension",
+      "website_url": "https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh",
+      "description": "Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by ), image to code and text to UI.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodePal",
+      "website_url": "https://codepal.ai",
+      "description": "A web tool for quickly generating or refactoring code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AI Code Convert",
+      "website_url": "https://aicodeconvert.com",
+      "description": "A web tool for translating code between programming languages.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AI Code Playground",
+      "website_url": "https://aicodeplayground.com",
+      "description": "A web tool for refactoring and improving code.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AutoRegex",
+      "website_url": "https://www.autoregex.xyz",
+      "description": "AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "unpkg.ai",
+      "website_url": "https://unpkg.ai",
+      "description": "Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "rule-gen",
+      "website_url": "https://github.com/nedcodes-ok/rule-gen",
+      "description": "CLI tool that generates AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window to produce project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Trelent",
+      "website_url": "https://trelent.net",
+      "description": "A VS Code extension to generate docstrings. Uses proprietary models.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DiagramGPT",
+      "website_url": "https://www.eraser.io/diagramgpt",
+      "description": "DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DocuWriter.ai",
+      "website_url": "https://www.docuwriter.ai",
+      "description": "AI-powered web app to generate automated Code & API documentation from your source code files.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "README-AI",
+      "website_url": "https://github.com/eli64s/readme-ai",
+      "description": "Automated README.md file generator, powered by large language model APIs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Supacodes",
+      "website_url": "https://www.supacodes.com",
+      "description": "An AI tool that automates writing & updating code documentation in Github.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "CodexAtlas",
+      "website_url": "https://codedocumentation.app",
+      "description": "Automated code and API documentation using latest AI models.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "EkLine",
+      "website_url": "https://ekline.io",
+      "description": "Helps software teams create and maintain high-quality documentation with AI-powered quality checks, style guide enforcement, and automatic doc generation.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Changenotes",
+      "website_url": "https://changenotes.app",
+      "description": "AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "TraceRoot AI",
+      "website_url": "https://traceroot.ai",
+      "description": "An AI native observability tool that using AI agents to automatically fix your production bugs.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "ChatWithGit",
+      "website_url": "https://gitsearch.sdan.io",
+      "description": "Enables ChatGPT to search GitHub and return links to relevant repositories.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Code ChatGPT Plugin",
+      "website_url": "https://github.com/kesor/chatgpt-code-plugin",
+      "description": "Open source example of a ChatGPT plugin that pulls context from a directory of files.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Bloop",
+      "website_url": "https://bloop.ai",
+      "description": "Natural language search for repositories.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Buildt",
+      "website_url": "https://www.buildt.ai",
+      "description": "Natural language search for repositories. Waitlist.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "SeaGOAT",
+      "website_url": "https://kantord.github.io/SeaGOAT/latest",
+      "description": "A local search tool leveraging vector embeddings to search your codebase semantically.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "ContextMCP",
+      "website_url": "https://contextmcp.ai",
+      "description": "Self-hosted semantic search across documentation from various sources for AI agents.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Checksum AI",
+      "website_url": "https://checksum.ai",
+      "description": "End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "OctoMind",
+      "website_url": "https://octomind.dev",
+      "description": "Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Traceloop",
+      "website_url": "https://traceloop.com",
+      "description": "Uses OpenTelemetry tracing data with generative AI to improve system reliability.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Carbonate",
+      "website_url": "https://carbonate.dev",
+      "description": "End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Meticulous.ai",
+      "website_url": "https://www.meticulous.ai",
+      "description": "Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DiffBlue",
+      "website_url": "https://www.diffblue.com",
+      "description": "Automatically generated unit tests for Java.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Qodo",
+      "website_url": "https://www.qodo.ai",
+      "description": "Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "DeepUnit",
+      "website_url": "https://www.deepunit.ai",
+      "description": "Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "MutahunterAI",
+      "website_url": "https://github.com/codeintegrity-ai/mutahunter",
+      "description": "Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "KushoAI",
+      "website_url": "https://kusho.ai",
+      "description": "AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Test Gru",
+      "website_url": "https://gru.ai/home",
+      "description": "Provides enterprise-level unit test automation services.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AgentsKB",
+      "website_url": "https://agentskb.com",
+      "description": "Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "sniffbench",
+      "website_url": "https://github.com/AnswerLayer/sniffbench",
+      "description": "Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Skills Hub",
+      "website_url": "https://skillshub.io",
+      "description": "Community-rated marketplace for GitHub Copilot, Cursor, and Claude AI coding instructions. Browse and share quality-scored `copilot-instructions.md`, `.cursorrules`, and `CLAUDE.md` configurations organized by tech stack.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "aiforcode.io",
+      "website_url": "https://aiforcode.io",
+      "description": "Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Awesome Code Docs",
+      "website_url": "https://github.com/johnxie/awesome-code-docs",
+      "description": "Curated deep-dive tutorials for open-source AI and developer tooling projects.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Cursor Rules Collection",
+      "website_url": "https://github.com/survivorforge/cursor-rules",
+      "description": "35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "AI Coding Compare",
+      "website_url": "https://aicodingcompare.com",
+      "description": "Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.",
+      "source_list": "awesome_ai_devtools"
+    },
+    {
+      "name": "Havoptic",
+      "website_url": "https://havoptic.com",
+      "description": "Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily.",
+      "source_list": "awesome_ai_devtools"
+    }
+  ]
+}

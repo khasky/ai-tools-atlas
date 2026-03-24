@@ -1,0 +1,32 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import ToolCard from "../../components/ToolCard.astro";
+import Pagination from "../../components/Pagination.astro";
+import { allTools } from "../../lib/catalog";
+import { sortEnterpriseTools } from "../../lib/sorts";
+import { paginate } from "../../lib/paginate";
+
+const list = sortEnterpriseTools(allTools);
+const { items, totalPages, total } = paginate(list, 1);
+---
+
+<Layout
+  title="Enterprise-ready AI tools"
+  description="Tagged enterprise-oriented in this data. Sorted by metrics when present, else A–Z. Check with vendors."
+>
+  <SiteHeader slot="header" />
+  <div class="mb-8">
+    <h1 class="font-display text-3xl font-bold text-ink-950">Enterprise-ready</h1>
+    <p class="mt-2 text-ink-600">
+      Only what the pipeline labeled enterprise-ready. Not legal or security advice; do your own review.
+    </p>
+    <p class="mt-1 text-sm text-ink-500">
+      {total.toLocaleString()} tools · metrics first when we have them, then A–Z
+    </p>
+  </div>
+  <div class="flex flex-col gap-4">
+    {items.map((t) => <ToolCard tool={t} />)}
+  </div>
+  <Pagination basePath="/enterprise-ready" page={1} totalPages={totalPages} />
+</Layout>

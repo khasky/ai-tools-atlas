@@ -1,0 +1,108 @@
+---
+import {
+  SITE_NAME,
+  DEFAULT_DESCRIPTION,
+  REPO_URL,
+  AUTHOR_LOGIN,
+  AUTHOR_URL,
+} from "../lib/site-meta";
+import { withBase, publicAsset } from "../lib/paths";
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Path starting with / (logical path; `base` is applied automatically). */
+  canonicalPath?: string;
+  noindex?: boolean;
+  ogType?: "website" | "article";
+  /** Absolute image URL for Open Graph (optional). */
+  image?: string;
+}
+
+const {
+  title,
+  description = DEFAULT_DESCRIPTION,
+  canonicalPath,
+  noindex,
+  ogType = "website",
+  image,
+} = Astro.props;
+
+const siteHost = import.meta.env.SITE?.replace(/\/$/, "") ?? "";
+const pathForCanonical = canonicalPath ? withBase(canonicalPath) : Astro.url.pathname;
+const canonicalHref = siteHost ? `${siteHost}${pathForCanonical}` : undefined;
+
+const pageTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;
+const descTrimmed = description.length > 160 ? `${description.slice(0, 157)}…` : description;
+
+const defaultOgImage = siteHost ? `${siteHost}${publicAsset("favicon.svg")}` : undefined;
+const ogImage = image?.trim() || defaultOgImage;
+const useLargeCard = Boolean(image?.trim());
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="author" content={AUTHOR_LOGIN} />
+    <link rel="author" href={AUTHOR_URL} />
+    <meta name="theme-color" content="#0f172a" />
+    <meta name="color-scheme" content="light" />
+
+    {noindex ? (
+      <meta name="robots" content="noindex, nofollow" />
+    ) : (
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    )}
+
+    <title>{pageTitle}</title>
+    <meta name="description" content={descTrimmed} />
+    {canonicalHref && <link rel="canonical" href={canonicalHref} />}
+
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={descTrimmed} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="en_US" />
+    {canonicalHref && <meta property="og:url" content={canonicalHref} />}
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta property="og:image:alt" content={pageTitle} />}
+
+    <meta name="twitter:card" content={useLargeCard ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={descTrimmed} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+
+    <link rel="icon" href={publicAsset("favicon.svg")} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+
+    <slot name="head" />
+  </head>
+  <body class="flex min-h-screen flex-col bg-ink-50 text-ink-900 antialiased">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-white focus:px-4 focus:py-2 focus:shadow"
+      >Skip to content</a
+    >
+    <slot name="header" />
+    <main id="main" class="mx-auto w-full max-w-6xl flex-1 px-4 pb-20 pt-8 sm:px-6 lg:px-8">
+      <slot />
+    </main>
+    <footer class="border-t border-ink-200 bg-white py-10 text-sm text-ink-600">
+      <div class="mx-auto flex max-w-6xl flex-col gap-6 px-4 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
+        <p>Compiled from public lists. If it matters, confirm on the vendor site.</p>
+        <nav aria-label="Footer" class="flex flex-wrap gap-4">
+          <a class="hover:text-ink-900" rel="noopener noreferrer" href={REPO_URL}>Source on GitHub</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

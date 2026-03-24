@@ -1,0 +1,58 @@
+{
+  "source_id": "cloudcommunity_ai_tools",
+  "source_homepage": "https://github.com/cloudcommunity/AI-Tools",
+  "list_name": "AI Tools (cloudcommunity)",
+  "raw_readme_url": "https://raw.githubusercontent.com/cloudcommunity/AI-Tools/main/README.md",
+  "fetched_at": "2026-03-24T05:07:29.638Z",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "ChatGPT",
+      "website_url": "https://chat.openai.com",
+      "description": "ChatGPT is the world's most advanced AI text generation tool.",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "CopyAI",
+      "website_url": "https://www.copy.ai",
+      "description": "An Al-powered content generator for all your marketing needs.",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "Jasper",
+      "website_url": "https://www.jasper.ai",
+      "description": "Instantly create content for your blog, social media, website, and more.",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "QuillBot",
+      "website_url": "https://quillbot.com",
+      "description": "QuillBot is a paraphrasing and summarizing tool.",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "10Web",
+      "website_url": "https://10web.io",
+      "description": null,
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "Cursor",
+      "website_url": "https://www.cursor.com",
+      "description": "The AI Code Editor",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "bolt.new",
+      "website_url": "https://bolt.new",
+      "description": "Prompt, run, edit & deploy web apps",
+      "source_list": "cloudcommunity_ai_tools"
+    },
+    {
+      "name": "GaliChat",
+      "website_url": "https://www.galichat.com",
+      "description": "An AI no-code assistant that manages lead generation and customer service.",
+      "source_list": "cloudcommunity_ai_tools"
+    }
+  ]
+}

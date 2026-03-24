@@ -1,0 +1,75 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import ToolCard from "../../components/ToolCard.astro";
+import Pagination from "../../components/Pagination.astro";
+import { allTools, sponsoredTools } from "../../lib/catalog";
+import { sortCatalogTools } from "../../lib/sorts";
+import { paginate } from "../../lib/paginate";
+import { withBase } from "../../lib/paths";
+
+const sorted = sortCatalogTools(allTools);
+const { items, totalPages, total } = paginate(sorted, 1);
+const sponsored = sponsoredTools(allTools);
+---
+
+<Layout
+  title="All AI tools and services"
+  description="Full merged list, paginated. Sources are public indexes."
+>
+  <SiteHeader slot="header" />
+  <div class="mb-8 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+    <div>
+      <h1 class="font-display text-3xl font-bold text-ink-950">All tools</h1>
+      <p class="mt-2 text-ink-600">
+        A–Z by default. When the snapshot has listing metrics, those float to the top. Sponsored rows are not mixed into this list.
+      </p>
+      <p class="mt-1 text-sm text-ink-500">{total.toLocaleString()} tools</p>
+    </div>
+    <div class="flex flex-wrap gap-2 text-sm">
+      <a class="rounded-lg border border-ink-200 bg-white px-3 py-2 hover:bg-ink-50" href={withBase("/free")}>Free tools</a>
+      <a class="rounded-lg border border-ink-200 bg-white px-3 py-2 hover:bg-ink-50" href={withBase("/open-source")}>Open source</a>
+      <a class="rounded-lg border border-ink-200 bg-white px-3 py-2 hover:bg-ink-50" href={withBase("/enterprise-ready")}>Enterprise-ready</a>
+    </div>
+  </div>
+
+  <div class="flex flex-col gap-4">
+    {items.map((t) => <ToolCard tool={t} />)}
+  </div>
+
+  <Pagination basePath="/tools" page={1} totalPages={totalPages} />
+
+  <script define:vars={{ base: import.meta.env.BASE_URL }}>
+    (function () {
+      var root = (typeof base === "string" ? base : "/").replace(/\/$/, "");
+      function go(path) {
+        var p = path.startsWith("/") ? path : "/" + path;
+        location.replace((root || "") + p);
+      }
+      var q = new URLSearchParams(location.search);
+      var c = q.get("category");
+      if (c) {
+        go("/category/" + encodeURIComponent(c));
+        return;
+      }
+      if (q.get("pricing") === "free") {
+        go("/free");
+        return;
+      }
+    })();
+  </script>
+
+  {
+    sponsored.length > 0 && (
+      <section class="mt-16 rounded-2xl border border-amber-200 bg-amber-50/50 p-6">
+        <h2 class="font-display text-lg font-semibold text-amber-950">Sponsored</h2>
+        <p class="mt-1 text-sm text-amber-900/90">Not part of the main list above.</p>
+        <div class="mt-4 flex flex-col gap-4">
+          {sponsored.map((t) => (
+            <ToolCard tool={t} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+</Layout>

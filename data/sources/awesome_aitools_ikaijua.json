@@ -1,0 +1,1030 @@
+{
+  "source_id": "awesome_aitools_ikaijua",
+  "source_homepage": "https://github.com/ikaijua/Awesome-AITools",
+  "list_name": "Awesome AI Tools (ikaijua)",
+  "raw_readme_url": "https://raw.githubusercontent.com/ikaijua/Awesome-AITools/main/README.md",
+  "fetched_at": "2026-03-24T05:07:31.481Z",
+  "item_count": 170,
+  "items": [
+    {
+      "name": "ai.google.dev",
+      "website_url": "https://ai.google.dev",
+      "description": "Gemini — URL <br> — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://gemini.google.com",
+      "description": "Gemini — Google's AI chatbot, including Gemini-3.1 pro. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. ai.google.dev — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chatgpt.com",
+      "description": "ChatGPT — OpenAI's AI chatbot, including GPT-5.4. Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://claude.ai",
+      "description": "Claude — Anthropic's AI chatbot, including Claude Opus 4.6. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true \"agent\" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "API",
+      "website_url": "https://platform.deepseek.com/api_keys",
+      "description": "DeepSeek — URL — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chat.deepseek.com",
+      "description": "DeepSeek — DeepSeek's AI chatbot. Cost-effective option. API — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "x.com/grok",
+      "website_url": "https://x.com/i/grok",
+      "description": "Grok — URL — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://grok.com",
+      "description": "Grok — xAI's AI chatbot, including grok-4.20-beta. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. x.com/grok — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chat.qwen.ai",
+      "description": "qwen — Alibaba's AI chatbot. Includes Qwen3.5, Qwen3.5-Code and other Qwen LLMs. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.dola.com",
+      "description": "Dola — Bytedance's AI chatbot. Intuitive interface and good general capabilities. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "OpenClaw",
+      "website_url": "https://github.com/openclaw/openclaw",
+      "description": "Open-source self-hosted AI agent that runs locally and autonomously executes tasks. Connects to WhatsApp, Telegram, Slack, Discord and other messaging platforms, with browser control, system access, and persistent memory. Developed by Peter Steinberger, one of the fastest-growing open-source projects. Intro — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Claude Code",
+      "website_url": "https://github.com/anthropics/claude-code",
+      "description": "Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities. Intro — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Codex",
+      "website_url": "https://github.com/openai/codex",
+      "description": "OpenAI's lightweight coding agent that runs in your terminal. An AI-powered coding assistant that can understand and modify code directly from the command line. Intro — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Gemini CLI",
+      "website_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. Intro — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "autoresearch",
+      "website_url": "https://github.com/karpathy/autoresearch",
+      "description": "An autonomous AI agent for machine learning research by Karpathy. It can formulate hypotheses, modify training code, run experiments, and evaluate results autonomously to find performance improvements. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "musistudio/claude-code-router",
+      "website_url": "https://github.com/musistudio/claude-code-router",
+      "description": "A powerful tool to route Claude Code requests to different models and customize any request. Supports multi-provider routing, request/response transformation, dynamic model switching, CLI model management, and GitHub Actions integration. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "The AI Assistant Built for Work",
+      "website_url": "https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd",
+      "description": "AnyGen — URL — Free Trial/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.anygen.io",
+      "description": "AnyGen — AnyGen is the AI assistant that truly \"gets work done\" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes. The AI Assistant Built for Work — Free Trial/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "agentscope",
+      "website_url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Agent-Oriented Programming for Building LLM Applications, Open-sourced by Alibaba — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Auto-GPT",
+      "website_url": "https://github.com/Significant-Gravitas/Auto-GPT",
+      "description": "Open source, An experimental open-source attempt to make GPT-4 fully autonomous. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "microsoft/autogen",
+      "website_url": "https://github.com/microsoft/autogen",
+      "description": "AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://potpie.ai",
+      "description": "potpie-ai/potpie — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. — Free Trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "MastraAI",
+      "website_url": "https://github.com/mastra-ai/mastra",
+      "description": "Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "website_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "Open-source AI agency toolkit with 70+ specialized agent personas across engineering, design, marketing, sales, and more. Features ready-to-use agent personalities, workflow templates, and multi-tool support for Claude Code, Cursor, Aider and other AI dev tools. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "TradingAgents",
+      "website_url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "A multi-agent LLM financial trading framework that mirrors the dynamics of real-world trading firms. It uses specialized AI agents to collaboratively evaluate market conditions and inform trading decisions through structured debates. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "deer-flow",
+      "website_url": "https://github.com/bytedance/deer-flow",
+      "description": "A framework for building high-performance AI agents, developed by ByteDance. It provides a flexible and efficient way to orchestrate complex agent workflows with built-in support for various LLMs. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "anthropics/skills",
+      "website_url": "https://github.com/anthropics/skills",
+      "description": "Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "openai/skills",
+      "website_url": "https://github.com/openai/skills",
+      "description": "Official skills repository for OpenAI GPT models, providing reusable tools and extensions for OpenAI's AI assistants — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "skills.sh",
+      "website_url": "https://skills.sh",
+      "description": "Community-driven skills registry and marketplace for AI assistants, providing a curated collection of reusable skills for various AI platforms including Claude Code, OpenAI GPT, and other LLM assistants, with download usage statistics and trending popularity rankings for all skills — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "JimLiu/baoyu-skills",
+      "website_url": "https://github.com/JimLiu/baoyu-skills",
+      "description": "Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://clawhub.ai",
+      "description": "ClawHub — A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "garrytan/gstack",
+      "website_url": "https://github.com/garrytan/gstack",
+      "description": "An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "DeepSeek-R1",
+      "website_url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "description": "DeepSeek's first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "website_url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "description": "A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Qwen3",
+      "website_url": "https://github.com/QwenLM/Qwen3",
+      "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "huggingface.co/Meta-Llama-3-70B-Instruct",
+      "website_url": "https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct",
+      "description": "Llama 3 — GitHub — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Llama 3",
+      "website_url": "https://github.com/meta-llama/llama3",
+      "description": "Llama3 is a large language model developed by Meta AI. It is the successor to Meta's Llama2 language model. <br>Online test address:<br>huggingface.co/Meta-Llama-3-70B-Instruct — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "mistral-inference",
+      "website_url": "https://github.com/mistralai/mistral-inference",
+      "description": "Mixtral — Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference. It matches or outperforms GPT3.5 on most standard benchmarks. <br>paper：https://arxiv.org/pdf/2401.04088.pdf <br>news：https://mistral.ai/news/mixtral-of-experts/ — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "grok-1",
+      "website_url": "https://github.com/xai-org/grok-1",
+      "description": "A large language model open sourced by xAI — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Phi-3",
+      "website_url": "https://github.com/microsoft/Phi-3CookBook",
+      "description": "Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://lmarena.ai/leaderboard",
+      "description": "LMSYS Chatbot Arena Leaderboard — LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://artificialanalysis.ai",
+      "description": "Artificial Analysis — Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://livecodebench.github.io/leaderboard.html",
+      "description": "LiveCodeBench — LiveCodeBench is a holistic and contamination-free evaluation benchmark of LLMs for code that continuously collects new problems over time. Particularly, LiveCodeBench also focuses on broader code-related capabilities, such as self-repair, code execution, and test output prediction, beyond mere code generation. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://llm-stats.com",
+      "description": "LLM Stats — LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily‑updated, open‑source community data on capability, price, speed, and context length. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://pricepertoken.com",
+      "description": "Price Per Token — Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Available regions",
+      "website_url": "https://ai.google.dev/gemini-api/docs/available-regions",
+      "description": "Google AI Studio — URL — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://aistudio.google.com",
+      "description": "Google AI Studio — Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts and then get an API key to use in your app development. Available regions — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://notebooklm.google.com",
+      "description": "NotebookLM — AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://poe.com",
+      "description": "Poe — AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Cherry Studio",
+      "website_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux. Support major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more AI Web Service Integration: Claude, Peplexity, Poe, and others Local Model Support with Ollama, LM Studio — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://huggingface.co/chat",
+      "description": "HuggingChat — Github — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "HuggingChat",
+      "website_url": "https://github.com/huggingface/chat-ui",
+      "description": "Open source codebase powering the HuggingChat app. URL — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://learning.google.com/experiments/learn-about",
+      "description": "Learn about — AI learning Assistant developed by Google.Grasp new topics and deepen your understanding with a conversational learning companion that adapts to your unique curiosity and learning goals. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://monica.im",
+      "description": "monica — AI assistant that provides help with a variety of tasks such as searching, reading, writing, translating, drawing, and more. Standalone apps and browser plug-ins available — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "ollama",
+      "website_url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "OpenAI specification",
+      "website_url": "https://github.com/openai/openai-openapi",
+      "description": "openai/openai-python — Github — Free, need OpenAI apikey",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "openai/openai-python",
+      "website_url": "https://github.com/openai/openai-python",
+      "description": "The official Python library for the OpenAI API, It is generated from OpenAI specification with Stainless — Free, need OpenAI apikey",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "apikey",
+      "website_url": "https://platform.openai.com/account/api-keys",
+      "description": "openai/openai-python — The official Python library for the OpenAI API, It is generated from OpenAI specification with Stainless — Github",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "sashabaranov/go-openai",
+      "website_url": "https://github.com/sashabaranov/go-openai",
+      "description": "This library provides unofficial Go clients for OpenAI API. support: ChatGPT, GPT-3, GPT-4, DALL·E 2 — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "langchain",
+      "website_url": "https://github.com/langchain-ai/langchain",
+      "description": "LangChain is a framework for developing applications powered by language models. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Helicone AI",
+      "website_url": "https://github.com/Helicone/helicone",
+      "description": "Helicone is the open-source LLM observability platform for logging, monitoring, and debugging AI applications. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "ChatGPT-Next-Web",
+      "website_url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+      "description": "One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "screenshot-to-code",
+      "website_url": "https://github.com/abi/screenshot-to-code",
+      "description": "This simple app converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images. You can now also enter a URL to clone a live website! — Free, need access to GPT-4 Vision",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Chatbox",
+      "website_url": "https://github.com/Bin-Huang/chatbox",
+      "description": "Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version — Free, requires apikey with OpenAI",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chat.together.ai",
+      "description": "together.ai chat — Similar to HuggingChat, with the option of different open source models, support for DeepSeek R1, LLaMA, QWen, Flux Schnell. 60 free messages per day. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "gpt-crawler",
+      "website_url": "https://github.com/BuilderIO/gpt-crawler",
+      "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "ChatGPT-Shortcut",
+      "website_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+      "description": "Open source, ChatGPT shortcut commands that double productivity, partitioned by domain and function, can filter prompt words by tag, keyword search and one-click copy. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb",
+      "description": "ChatGPT Sidebar — ChatGPT Sidebar is an artificial intelligence assistant you can use while browsing any website. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj",
+      "description": "AIPRM for ChatGPT — Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://mindmac.app",
+      "description": "MindMac — Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "NadirClaw",
+      "website_url": "https://github.com/doramirdor/NadirClaw",
+      "description": "Open-source LLM router that classifies prompts in ~10ms and routes to the optimal model tier (free/cheap/premium/reasoning). OpenAI-compatible proxy with agentic detection, session pinning, and 429 fallback. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "chathub",
+      "website_url": "https://github.com/chathub-dev/chathub",
+      "description": "Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Harbor",
+      "website_url": "https://github.com/av/harbor",
+      "description": "Effortlessly run LLM backends, APIs, frontends, and services with one command. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "gemini-fullstack-langgraph-quickstart",
+      "website_url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+      "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://notegpt.io",
+      "description": "NoteGPT — NoteGPT is a smart note-taking tool that can record, transcribe, and summarize various content, such as meetings, lectures, podcasts, YouTube videos, news briefings, and articles. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://openrouter.ai",
+      "description": "OpenRouter — A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "OmniRoute",
+      "website_url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://morphik.ai",
+      "description": "Morphik.ai — Open source AI-driven search engine for private documents — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.cursor.so",
+      "description": "Cursor — A collaborative code editor using GPT — Paid/Free Trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://github.com/features/copilot",
+      "description": "GitHub Copilot — A code writing assistant developed by GitHub and OpenAI — Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.devart.com/dbforge/ai-assistant",
+      "description": "dbForge AI Assistant — AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts — Paid/Free Trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://antigravity.google",
+      "description": "Antigravity — Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud — Free for Individual Use/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://happy.engineering",
+      "description": "Happy Coder — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.trae.ai",
+      "description": "Trae — ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://aws.amazon.com/cn/codewhisperer",
+      "description": "Amazon CodeWhisperer — A code writing assistant developed by Amazon — Free for Individual Use",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "scalene",
+      "website_url": "https://github.com/plasma-umass/scalene",
+      "description": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "git-lrc",
+      "website_url": "https://github.com/HexmosTech/git-lrc",
+      "description": "Free, Unlimited AI Code Reviews That Run on Every Commit — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Kodus",
+      "website_url": "https://github.com/kodustech/kodus-ai",
+      "description": "Open Source Code Review Agent — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Kagan",
+      "website_url": "https://github.com/aorumbayev/kagan",
+      "description": "AI-powered Kanban TUI for autonomous development workflows. Integrates with Claude Code and OpenCode for ticket-driven AI coding with git worktree isolation and MCP server support. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Steel Browser",
+      "website_url": "https://github.com/steel-dev/steel-browser",
+      "description": "Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Termux",
+      "website_url": "https://github.com/termux/termux-app",
+      "description": "Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "AI-Codereview-Gitlab",
+      "website_url": "https://github.com/sunmh207/AI-Codereview-Gitlab",
+      "description": "GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "gemini",
+      "website_url": "https://gemini.google.com/app",
+      "description": "Nano Banana 2 — URL — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://aistudio.google.com/prompts/new_chat",
+      "description": "Nano Banana 2 — Google's advanced AI model for image generation and editing. No. 1 in the LMArena Text to Image and Image Edit leadboard. Online website: <br> 1. gemini<br> 2.aistudio <br> 3. lmarea.ai — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Z-Image",
+      "website_url": "https://github.com/Tongyi-MAI/Z-Image",
+      "description": "Z-Image is a high-performance image generation model recently open-sourced by Alibaba's Tongyi Lab. It strikes a balance between \"extreme speed\" and \"high quality,\" making it highly suitable for scenarios requiring rapid image generation. Z-Image-Turbo Online Demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.midjourney.com",
+      "description": "Midjourney — Enter text or pictures to create pictures — Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://chatgpt.com/images",
+      "description": "ChatGPT Images — GPT Image 1.5 — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.adobe.com/products/photoshop/generative-fill.html",
+      "description": "Photoshop AI — Adobe Photoshop generative-fill — Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Stable diffusion webui",
+      "website_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://civitai.com",
+      "description": "civitai — civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://clipdrop.co",
+      "description": "clipdrop — clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://firefly.adobe.com",
+      "description": "firefly — Adobe's AI image processing web site — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://ideogram.ai",
+      "description": "ideogram.ai — Enter text to create pictures. A product developed by a company founded by many ex-Googlers — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://ai.nero.com",
+      "description": "Nero AI — AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/ — Paid/Trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://skybox.blockadelabs.com",
+      "description": "Skybox AI — Generate 360-degree panoramic images using text prompts — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.remove.bg",
+      "description": "remove.bg — Remove Image Background — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "ControlNet",
+      "website_url": "https://github.com/lllyasviel/ControlNet",
+      "description": "ControlNet is a neural network structure to control diffusion models by adding extra conditions. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://pixelpanda.ai",
+      "description": "PixelPanda — AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://dreamina.capcut.com",
+      "description": "Dreamina — AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://create.wan.video",
+      "description": "Wan2.6 — AI Video Creation Tool by Alibaba — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://openai.com/sora",
+      "description": "Sora — Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. — Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://klingai.com",
+      "description": "KLING AI — AI Video Creation Tool by kuaishou. Support text to video, image to video, start-end frame and motion control — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://hailuoai.com/video",
+      "description": "hailuoai — AI Video Creation Tool by Minimax — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://lumalabs.ai/dream-machine",
+      "description": "Dream Machine — By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.Official introductory video — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.capcut.com",
+      "description": "capcut — Subtitle-generated speech, speech recognition, and very convenient and powerful video editing — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://runwayml.com",
+      "description": "Runway — Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://app.pixverse.ai",
+      "description": "pixverse — Create Amazing AI Videos from Text & Photos — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://pika.art/home",
+      "description": "Pika — Text/Image to video — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://fliki.ai",
+      "description": "Fliki — A website that converts text into audio and video — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://studio.d-id.com",
+      "description": "d-id — Generate digital human dubbing video based on text — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://app.heygen.com",
+      "description": "HeyGen — Generate digital human dubbing video based on text — Paid/Free trial",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "AnimateDiff",
+      "website_url": "https://github.com/guoyww/AnimateDiff",
+      "description": "AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://vivago.ai/video",
+      "description": "vivago.ai/video — Text to Video; Image to Video; 4K enhance — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.together.ai",
+      "description": "together.ai — The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "System Prompts and Models of AI Tools",
+      "website_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "f/awesome-chatgpt-prompts",
+      "website_url": "https://github.com/f/awesome-chatgpt-prompts",
+      "description": "This repo includes ChatGPT prompt curation to use ChatGPT better. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "lm-sys/FastChat",
+      "website_url": "https://github.com/lm-sys/FastChat",
+      "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "World Monitor",
+      "website_url": "https://github.com/koala73/worldmonitor",
+      "description": "AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.notion.so",
+      "description": "Notion AI — AI-assisted note-taking software — with certain free AI trials, AI features $10/month",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.deepl.com/write",
+      "description": "Deep L Write — English and German writing tools to fix writing errors and rewrite sentences promptly. — Free version to use with text word limit / paid upgrade available",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://app.grammarly.com",
+      "description": "grammarly — Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://translate.google.com",
+      "description": "Google Translate — Support text, picture, document and URL — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.deepl.com/translator",
+      "description": "Deep L — Accurate and instant translation tool, currently supporting 31 languages — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "immersive-translate",
+      "website_url": "https://github.com/immersive-translate/immersive-translate",
+      "description": "Open source project. Immersive bilingual web translation extension — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "openai-translator",
+      "website_url": "https://github.com/yetone/openai-translator",
+      "description": "Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API — Free, requires OpenAI API key",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "RTranslator",
+      "website_url": "https://github.com/niedev/RTranslator",
+      "description": "RTranslator is an open-source, free, and offline real-time translation app for Android. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "whisper",
+      "website_url": "https://github.com/openai/whisper",
+      "description": "OpenAPI open source robust speech recognition model through large-scale weak supervision — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "whisper.cpp",
+      "website_url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++ — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "buzz",
+      "website_url": "https://github.com/chidiwilliams/buzz",
+      "description": "An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "WhisperDesktop",
+      "website_url": "https://github.com/Const-me/Whisper",
+      "description": "Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "whisperX",
+      "website_url": "https://github.com/m-bain/whisperX",
+      "description": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization) — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "index-tts2",
+      "website_url": "https://github.com/index-tts/index-tts",
+      "description": "Bilibili's Open-Source Industrial-Grade Controllable High-Efficiency Zero-Sample Text-to-Speech System. <br>Online Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>Paper: https://arxiv.org/abs/2506.21619 — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://speech.microsoft.com/portal/voicegallery",
+      "description": "Azure Text to speech — The best and most realistic voice tools currently available — Paid / 500,000 characters per month free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.hailuo.ai/audio",
+      "description": "Hailuo AI Text to Speech — Offer over 300 voices in 17 languages and multiple accents, covering a wide range of styles and age groups to provide the voice effects you need. — Limited-time Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "coqui-ai/tts",
+      "website_url": "https://github.com/coqui-ai/tts",
+      "description": "A deep learning toolkit for Text-to-Speech, battle-tested in research and production <br> Online Demo: https://huggingface.co/spaces/coqui/xtts — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://elevenlabs.io",
+      "description": "elevenlabs — Intelligent AI Text to Speech — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "netease-youdao/EmotiVoice",
+      "website_url": "https://github.com/netease-youdao/EmotiVoice",
+      "description": "A Multi-Voice and Prompt-Controlled TTS Engine. EmotiVoice speaks both English and Chinese, and with over 2000 different voices. The most prominent feature is emotional synthesis, allowing you to create speech with a wide range of emotions, including happy, excited, sad, angry and others. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "ChatTTS",
+      "website_url": "https://github.com/2noise/ChatTTS",
+      "description": "ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages. Our model is trained with 100,000+ hours composed of chinese and english. Website：https://chattts.com/ — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.shazam.com",
+      "description": "shazam — Download the Shazam app for music recognition, which is pretty fast — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "so-vits-svc",
+      "website_url": "https://github.com/svc-develop-team/so-vits-svc",
+      "description": "SoftVC VITS Singing Voice Conversion. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://vocalremover.org",
+      "description": "vocalremover — Extract vocal and music — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.lalal.ai",
+      "description": "lala.ai — Extract vocal, accompaniment and various instruments from any audio and video — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.suno.ai",
+      "description": "suno.ai — The AI music creation tool Suno can generate custom songs based on text prompts in mere second — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.udio.com",
+      "description": "udio — Create music from simple text prompts by specifying topics, genres, and other descriptors which are then transformed into professional quality tracks.",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.mureka.ai",
+      "description": "mureka.ai — Text to music — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://elevenlabs.io/app/sound-effects",
+      "description": "elevenlabs/sound-effects — Imagine a sound and bring it to life, or explore a selection of the best sound effects generated by the community. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "suno-ai/bark",
+      "website_url": "https://github.com/suno-ai/bark",
+      "description": "Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "audiocraft",
+      "website_url": "https://github.com/facebookresearch/audiocraft",
+      "description": "Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. MusicGen Online Demo — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.stableaudio.com",
+      "description": "Stable Audio — AI music and sound effect generation application by stability.ai — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Official Introduction",
+      "website_url": "https://twitter.com/OptimizerAI/status/1779881263358419243",
+      "description": "OptimizerAI — URL — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.optimizerai.xyz",
+      "description": "OptimizerAI — Sound effect generation <br>Official Introduction — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://sfxengine.com",
+      "description": "SFX Engine — AI Sound effect generation — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Online Demo",
+      "website_url": "https://seamless.metademolab.com/expressive",
+      "description": "Seamless — Github — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Seamless",
+      "website_url": "https://github.com/facebookresearch/seamless_communication",
+      "description": "Seamless is a family of AI models that enable more natural and authentic communication across languages.Online Demo — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.aminer.cn",
+      "description": "AMiner — AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.alphaxiv.org",
+      "description": "alphaxiv — An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "Umi-OCR",
+      "website_url": "https://github.com/hiroi-sora/Umi-OCR",
+      "description": "Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "allenai/olmocr",
+      "website_url": "https://github.com/allenai/olmocr",
+      "description": "A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/ — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.aivirtualstaging.net",
+      "description": "AI Virtual Staging — Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support. — Free/Paid",
+      "source_list": "awesome_aitools_ikaijua"
+    },
+    {
+      "name": "URL",
+      "website_url": "https://www.aidetectlab.com",
+      "description": "AI Detect Lab — Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. — Free",
+      "source_list": "awesome_aitools_ikaijua"
+    }
+  ]
+}

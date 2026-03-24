@@ -1,0 +1,484 @@
+{
+  "source_id": "awesome_ai_hades217",
+  "source_homepage": "https://github.com/hades217/awesome-ai",
+  "list_name": "Awesome AI (hades217)",
+  "raw_readme_url": "https://raw.githubusercontent.com/hades217/awesome-ai/master/README.md",
+  "fetched_at": "2026-03-24T05:07:30.000Z",
+  "item_count": 79,
+  "items": [
+    {
+      "name": "Amazon Echo / Alexa",
+      "website_url": "https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E",
+      "description": "everyday personal assistant for in-home",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Apple Siri",
+      "website_url": "http://www.apple.com/ios/siri",
+      "description": "everyday personal assistant on iPhone and Mac",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Brin",
+      "website_url": "https://brin.ai",
+      "description": "helps you make smarter business decisions",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Chatfuel",
+      "website_url": "https://chatfuel.com",
+      "description": "create a Facebook chatbot in 7 minutes",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Findo",
+      "website_url": "https://findo.com",
+      "description": "smart search assistant across email, files and personal cloud.",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Fembot",
+      "website_url": "http://fembot.ai",
+      "description": "your AI girlfriend",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Fin",
+      "website_url": "https://www.fin.com",
+      "description": "a powerful personal assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Gatebox",
+      "website_url": "http://gatebox.ai",
+      "description": "a holographic anime assistant in an espresso machine",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Google Assistant",
+      "website_url": "https://assistant.google.com",
+      "description": "everyday personal assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Howdy",
+      "website_url": "https://howdy.ai",
+      "description": "a friendly, trainable bot that helps Slack teams with work",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Hound",
+      "website_url": "http://hound.ai",
+      "description": "everyday personal assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Julie Desk",
+      "website_url": "https://www.juliedesk.com",
+      "description": "meeting scheduling assistant (aimed at C-Suite)",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Kono",
+      "website_url": "http://kono.ai",
+      "description": "meeting scheduling assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Lifos",
+      "website_url": "http://simples.ai",
+      "description": "dynamic independent entities that interact with the web and social",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ling",
+      "website_url": "http://ling.ai/en",
+      "description": "similar to Amazon Echo",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Luka",
+      "website_url": "https://luka.ai",
+      "description": "chatbot messenger for people and other chatbots",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Lyra",
+      "website_url": "https://lyr.ai",
+      "description": "monitor analyse your carbon emissions",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Magic",
+      "website_url": "https://getmagic.com",
+      "description": "Magic is a special phone number you text to get anything you want, hassle free",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Microsoft Cortana",
+      "website_url": "https://www.microsoft.com/en/mobile/experiences/cortana",
+      "description": "Cortana is a voice-controlled virtual assistant for Microsoft Windows Phone 8.1. Comparable to Siri, the intelligent assistant enabled on Apple devices, Microsoft's Cortana will use the Bing search engine and data stored on the user's smartphone by to make personalized recommendations",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "MyWave",
+      "website_url": "https://mywave.me",
+      "description": "Melbourne-based which makes a personal call",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Meeco",
+      "website_url": "http://meeco.me",
+      "description": "Sydney-based, a robot lawyer",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Mycroft",
+      "website_url": "https://mycroft.ai",
+      "description": "is the world’s first open source voice assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Remi",
+      "website_url": "http://remi.ai",
+      "description": "like Siri with an interface",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Safurai",
+      "website_url": "https://www.safurai.com",
+      "description": "Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Spoken",
+      "website_url": "http://spoken.ai",
+      "description": "virtual assistant with an interface",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Viv",
+      "website_url": "http://viv.ai",
+      "description": "like Siri but 10x better",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "x.ai",
+      "website_url": "https://x.ai",
+      "description": "x.ai is a personal assistant who schedules meetings for you",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "AIHelperBot",
+      "website_url": "https://aihelperbot.com",
+      "description": "Build SQL queries using AI",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "ZZZ Code AI",
+      "website_url": "https://zzzcode.ai",
+      "description": "Get any programming question answered / code generated online",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "AI Flow Chat",
+      "website_url": "https://aiflowchat.com",
+      "description": "No-code workflow tool for automating and chaining AI prompts",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Thirdleap",
+      "website_url": "http://thirdleap.ai",
+      "description": "helps children to learn maths",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Woogie",
+      "website_url": "https://woogie.ai",
+      "description": "the conversational AI robot that makes learning and discovery fun for children",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "XiaoJing Bot",
+      "website_url": "http://jiangren.com.au",
+      "description": "XiaoJing Bot to support management of wechat groups and remove members of wechat group",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "CodeKidz",
+      "website_url": "https://codekidz.ai",
+      "description": "the first AI-powered programming learning platform for kids, featuring AI teachers to teach Python basics, problem-solving, and creativity with human-like responses",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "RightBlogger",
+      "website_url": "https://rightblogger.com",
+      "description": "AI-Powered Content Creation Tools for Bloggers",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Jasperi AI",
+      "website_url": "https://www.jasper.ai",
+      "description": "AI writer for marketing and content teams",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Writesonic",
+      "website_url": "https://writesonic.com",
+      "description": "AI writer that creates SEO-friendly content",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Taskade AI",
+      "website_url": "https://www.taskade.com",
+      "description": "AI outlining and mind mapping tool with collaborative editing",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Clap",
+      "website_url": "https://chatlikea.pro",
+      "description": "AI Writing Partner for a Distraction-Free, Seamless Typing Experience",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Myriad",
+      "website_url": "https://www.namepepper.com/free-tools/ai-content-prompt-tool",
+      "description": "AI prompts for writing any kind of content, like ads, scripts, webpages, email, and social",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Abi",
+      "website_url": "https://abi.ai",
+      "description": "your virtual health assistant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ada",
+      "website_url": "https://ada.com",
+      "description": "can help if you’re feeling unwell",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Airi",
+      "website_url": "http://airi.ai",
+      "description": "personal health coach",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Alz.ai",
+      "website_url": "https://alz.ai",
+      "description": "helps you care for loved ones with Alzheimer’s",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Bitesnap",
+      "website_url": "https://getbitesnap.com",
+      "description": "food recognition from meal photos to help count calories",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "doc.ai",
+      "website_url": "http://doc.ai",
+      "description": "makes lab results easy to understand",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Gyan",
+      "website_url": "http://gyant.com/english",
+      "description": "helps you go from symptoms to likely conditions",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Joy",
+      "website_url": "http://www.hellojoy.ai",
+      "description": "helps you track and improve your mental health",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Tess by X2AI",
+      "website_url": "https://x2.ai",
+      "description": "therapist in your pocket",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ada",
+      "website_url": "http://fido.ai",
+      "description": "chatbot that helps you navigate and make decisions",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Emma",
+      "website_url": "http://ema.ai",
+      "description": "automatically calculates and adds meeting travel time",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "ETA",
+      "website_url": "https://www.eta.ai",
+      "description": "helps you manage travel itineraries and meetings",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Mezi",
+      "website_url": "http://mezi.com",
+      "description": "helps with booking flights, hotels, restaurant reservations and more",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Nexar",
+      "website_url": "https://www.getnexar.com",
+      "description": "dash cam app that helps you drive safer",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ready",
+      "website_url": "http://ready.ai",
+      "description": "traffic forecaster and travel time prediction",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Spatial",
+      "website_url": "http://spatial.ai",
+      "description": "reveal the social layer of cities",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Morpher AI",
+      "website_url": "https://www.morpher.com/ai",
+      "description": "Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst.",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Abe",
+      "website_url": "https://www.abe.ai",
+      "description": "fast answers about your finances",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Andy",
+      "website_url": "http://andy.ai",
+      "description": "a personal Tax Accountant",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ara",
+      "website_url": "https://ara.ai",
+      "description": "helps you budget",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Bond",
+      "website_url": "http://bond.ai",
+      "description": "helps you achieve your financial goals",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Mylo",
+      "website_url": "https://mylo.ai",
+      "description": "rounds up your everyday purchases and invest the spare change",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Responsive",
+      "website_url": "https://www.responsive.ai",
+      "description": "institutional-grade active portfolio management",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Roger",
+      "website_url": "https://www.roger.ai",
+      "description": "helps you pay bills easily",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Xoe.ai",
+      "website_url": "http://xoe.ai",
+      "description": "AI lending chatbot",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Microsoft Translator",
+      "website_url": "https://translator.microsoft.com/neural",
+      "description": "language translator powered by neural networks",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Watson.ai",
+      "website_url": "http://watson.ai",
+      "description": "legal, academic and financial translations",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Aerial",
+      "website_url": "http://www.aerial.ai",
+      "description": "home activity, movement and identity sensor",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Bridge.ai",
+      "website_url": "http://bridge.ai",
+      "description": "smart-home platform focused on speech and sound",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Cubic",
+      "website_url": "http://cubic.ai",
+      "description": "one place to connect your smart home devices",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Grojo",
+      "website_url": "http://grow.ai",
+      "description": "grow room controller and monitoring system",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Home",
+      "website_url": "http://home.ai",
+      "description": "autonomous home operations with connected devices",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Hello",
+      "website_url": "http://hello.ai",
+      "description": "helps you monitor and improve your sleep",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Josh",
+      "website_url": "https://www.josh.ai",
+      "description": "whole house voice control",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Nanit",
+      "website_url": "https://www.nanit.com",
+      "description": "baby monitor that measures sleep and caregiver interactions",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Nest",
+      "website_url": "https://nest.com",
+      "description": "a range of in-home devices such as Thermostat, security and alarms",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Apollo",
+      "website_url": "https://apollo.ai",
+      "description": "breaks down articles and PDF’s into quick, readable dot points",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Ferret.ai",
+      "website_url": "http://ferret.ai",
+      "description": "helps you research by summarising articles and search ability",
+      "source_list": "awesome_ai_hades217"
+    },
+    {
+      "name": "Iris",
+      "website_url": "http://research.ai",
+      "description": "helps you research and visualise concepts in research papers",
+      "source_list": "awesome_ai_hades217"
+    }
+  ]
+}

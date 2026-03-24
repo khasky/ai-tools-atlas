@@ -1,0 +1,2722 @@
+{
+  "source_id": "top_ai_tools",
+  "source_homepage": "https://github.com/ghimiresunil/Top-AI-Tools",
+  "list_name": "Top AI Tools (ghimiresunil)",
+  "raw_readme_url": "https://raw.githubusercontent.com/ghimiresunil/Top-AI-Tools/main/README.md",
+  "fetched_at": "2026-03-24T05:07:28.127Z",
+  "item_count": 452,
+  "items": [
+    {
+      "name": "AI Baby Dance",
+      "website_url": "https://aibabydance.com",
+      "description": "Turn photos into dancing videos",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Face Swap Video AI",
+      "website_url": "https://faceswapvideo.io",
+      "description": "Free Online AI Face Swap for Video & Photo.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AIImageTranslator",
+      "website_url": "https://aiimagetranslator.io",
+      "description": "Free Online AI Image Translator Tool.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FaceAI",
+      "website_url": "https://faceai.art",
+      "description": "Free Online AI Face Swap (No Sign Up)",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NanoPhoto.AI",
+      "website_url": "https://nanophoto.ai",
+      "description": "Making AI photo editing simple and efficient",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PortraitLabs.AI",
+      "website_url": "https://portraitlabs.ai",
+      "description": "Take photos of yourself using AI and edit images easily",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Magic Tools (by runway)",
+      "website_url": "https://runwayml.com/ai-magic-tools",
+      "description": "creativity tools to edit and generate content",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AvatarAI",
+      "website_url": "https://avatarai.me",
+      "description": "create photorealistic AI avatars",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ClipDrop",
+      "website_url": "https://clipdrop.co",
+      "description": "apps, plugins, and resources for creators, powered by AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DreamStudio",
+      "website_url": "https://stability.ai",
+      "description": "open-sourced image generation model to product realistic images",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lensa",
+      "website_url": "https://prisma-ai.com/lensa",
+      "description": "AI-powered image editing app for avatars",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Midjourney",
+      "website_url": "https://www.midjourney.com/app",
+      "description": "AI-powered art generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Noble Shapes",
+      "website_url": "https://nobleshapes.com",
+      "description": "AI Image Prompt Generator Assistant - Explore a curated collection of premium digital design assets.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Phraser",
+      "website_url": "https://phraser.tech",
+      "description": "the collaborative creative AI tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Playground",
+      "website_url": "https://playgroundai.com",
+      "description": "search prompts for art generation",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Synthesia",
+      "website_url": "https://www.synthesia.io",
+      "description": "AI video creation platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Craiyon (Formerly DALL-E Mini)",
+      "website_url": "https://www.craiyon.com",
+      "description": "Free online AI image generator from text",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Let's Enhance",
+      "website_url": "https://letsenhance.io",
+      "description": "Image enhancer & upscaler without losing quality",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "StockPhotoAI.net",
+      "website_url": "https://www.stockphotoai.net",
+      "description": "Great stock photos, made for you.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FairyTailAI",
+      "website_url": "https://fairytailai.com",
+      "description": "Personalized bedtime story generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "eBank",
+      "website_url": "https://ebank.nz",
+      "description": "eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Architecture Helper",
+      "website_url": "https://architecturehelper.com",
+      "description": "Analyze any building architecture, and generate your own custom styles, in seconds.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "VocalReplica",
+      "website_url": "https://vocalreplica.com",
+      "description": "AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Jamorphosia",
+      "website_url": "https://www.jamorphosia.com",
+      "description": "AI-Powered Instrument remover and isolation",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Podcast Clip Maker",
+      "website_url": "https://recast.studio/tools/podcast-clip-maker",
+      "description": "Automatically generate podcast clips from long-form video and audio",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Black Headshots",
+      "website_url": "https://www.blackheadshots.com",
+      "description": "AI headshots generator for black professionals",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AISaver",
+      "website_url": "https://aisaver.io",
+      "description": "Collection of AI Powered Video and Photo Tools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Watermark Remover",
+      "website_url": "https://aiwatermarkremover.io",
+      "description": "Remove watermarks from images and videos",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Pixvify AI",
+      "website_url": "https://pixvify.com",
+      "description": "Free realistic AI photo generator platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "X Headshot",
+      "website_url": "https://xheadshot.com",
+      "description": "Professional AI Headshot Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rytr",
+      "website_url": "https://rytr.me",
+      "description": "Automating the design process",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MaxVideoAI",
+      "website_url": "https://maxvideoai.com",
+      "description": "Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "nearerai",
+      "website_url": "https://nearerai.com",
+      "description": "AI Photo Restoration: Revive Your Cherished Memories.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Color Analysis",
+      "website_url": "https://aicoloranalysis.ai",
+      "description": "Trusted AI color analysis, finished in minutes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Math AI",
+      "website_url": "https://mathaisolver.ai",
+      "description": "Get instant math AI help for any mathematics problem",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Kirkify AI",
+      "website_url": "https://kirkifyai.ai",
+      "description": "Upload a image and turn it into viral Kirkify memes in seconds",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Moire Removal",
+      "website_url": "https://moireremoval.com",
+      "description": "AI-powered moiré pattern removal for screen photos and scanned prints.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Monet AI",
+      "website_url": "https://monet.vision",
+      "description": "Monet AI is a All-in-One AI Video, Image, Audio creation platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TubePrompter",
+      "website_url": "https://tubeprompter.com",
+      "description": "Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Woopicx",
+      "website_url": "https://woopicx.com",
+      "description": "AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rizz AI",
+      "website_url": "https://www.rizzlines.app",
+      "description": "Rizz AI GPT: Free Rizz Online App, Unlimited Rizz Chat Bot.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Character.AI",
+      "website_url": "https://beta.character.ai",
+      "description": "conversational AI for open-ended conversations",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ChatGPT (by OpenAI)",
+      "website_url": "https://chat.openai.com",
+      "description": "conversational AI system powered by large language models",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Gemini (by Google)",
+      "website_url": "https://gemini.google.com",
+      "description": "conversational AI chat service from Google that can access and process information from the web",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DoNotPay",
+      "website_url": "https://donotpay.com",
+      "description": "the world's first robot lawyer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Replika",
+      "website_url": "https://replika.ai",
+      "description": "an AI companion",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Breezy",
+      "website_url": "https://talkbreezy.com",
+      "description": "Real-time AI voice chat with unique characters",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DoaCam",
+      "website_url": "https://doacam.com",
+      "description": "AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers you",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Netwrck",
+      "website_url": "https://netwrck.com",
+      "description": "AI Character Chat Social Network, saying \"Appears\" makes the AI make Art.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Claude",
+      "website_url": "https://claude.ai",
+      "description": "Talk to Claude, an AI assistant from Anthropic.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Pleasuredomes",
+      "website_url": "http://pleasuredomes.ai",
+      "description": "AI Image and chatbot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ChatSweetie",
+      "website_url": "https://chatsweetie.ai",
+      "description": "Free AI Girlfriend Chat",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Venice",
+      "website_url": "https://venice.ai",
+      "description": "Private and uncensored conversational AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Interior AI",
+      "website_url": "https://interiorai.com",
+      "description": "interior design mockups and virtual staging",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Virtual Staging",
+      "website_url": "https://www.aivirtualstaging.net",
+      "description": "AI powered virtual staging",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "stockimg.ai",
+      "website_url": "https://stockimg.ai",
+      "description": "AI-powered designs",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Brand Mark",
+      "website_url": "https://brandmark.io",
+      "description": "Generating brand logos",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Magic Eraser",
+      "website_url": "https://www.magiceraser.io",
+      "description": "Removing unwanted elements from images",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "bigJPG",
+      "website_url": "https://bigjpg.com",
+      "description": "Increasing image resolution",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Profile Pic Maker",
+      "website_url": "https://pfpmaker.com",
+      "description": "Creating profile pictures",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Unwatermark",
+      "website_url": "https://unwatermark.ai",
+      "description": "Easily remove watermarks with advanced AI image recognition technology",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Logo Generator",
+      "website_url": "https://www.ailogogenerator.org",
+      "description": "Free online AI logo creator that generates professional company, business, and brand logos",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Unblurimage AI",
+      "website_url": "https://unblurimage.ai",
+      "description": "A free online tool to unblur images swiftly",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ImgUpscaler AI",
+      "website_url": "https://imgupscaler.ai",
+      "description": "Free image & video upscaler",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FLUX AI ART",
+      "website_url": "https://fluxaiart.ai",
+      "description": "AI Image Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Velocity",
+      "website_url": "https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min",
+      "description": "On-demand feedback for Figma prototypes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Venngage AI Infographic Generator",
+      "website_url": "https://venngage.com/ai-tools/infographic-generator",
+      "description": "AI-powered visuals that turn your ideas into infographics, instantly.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DreamLADU",
+      "website_url": "https://www.dreamladu.com",
+      "description": "AI image generator for accessory dwelling units (ADUs)",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PlantTattoosAI",
+      "website_url": "https://planttattoosai.com",
+      "description": "Plant and flower tattoo designs generator based on models trained on real plants",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Timeline Generator",
+      "website_url": "https://venngage.com/ai-tools/timeline-generator",
+      "description": "Turn ideas into stunning timelines in seconds—powered by smart AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Flyer Generator",
+      "website_url": "https://venngage.com/ai-tools/flyer-generator",
+      "description": "Create professional flyers instantly with AI using simple text prompts.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "RoomHaven",
+      "website_url": "https://roomhaven.app",
+      "description": "AI-powered room design and interior styling platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MyNextInk",
+      "website_url": "https://www.mynextink.com",
+      "description": "The all-in-one tattoo platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "VDraw AI",
+      "website_url": "https://vdraw.ai",
+      "description": "Free online AI Carousel Post Generator for Social Media",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Seede AI",
+      "website_url": "https://seede.ai",
+      "description": "Helps you create a poster in 1 min",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "melhorar imagem",
+      "website_url": "https://melhorar-imagem.com",
+      "description": "Improve Image Online for Free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "UniMusic AI",
+      "website_url": "https://unimusic.ai",
+      "description": "Create professional music in seconds with AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Video Watermark Remover",
+      "website_url": "https://videowatermarkremover.ai",
+      "description": "Remove video watermarks online for free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Anime",
+      "website_url": "https://aianime.io",
+      "description": "AI Anime Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Contract Generator",
+      "website_url": "https://venngage.com/ai-tools/ai-contract-generator",
+      "description": "Create clear, reliable contracts with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Presentation Generator",
+      "website_url": "https://venngage.com/ai-tools/presentation-generator",
+      "description": "Build clear, professional presentations faster with the help of AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GenDesigns",
+      "website_url": "https://gendesigns.ai",
+      "description": "AI Mobile App Design Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Instagram Post Generator",
+      "website_url": "https://venngage.com/ai-tools/instagram-post-generator",
+      "description": "Create consistent, high-quality Instagram posts with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Grant Proposal Generator",
+      "website_url": "https://venngage.com/ai-tools/grant-proposal-generator",
+      "description": "Create clear, well-structured grant proposals with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Flowchart Generator",
+      "website_url": "https://venngage.com/ai-tools/flowchart-generator",
+      "description": "Turn ideas into clear, structured AI flowcharts",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Graph Generator",
+      "website_url": "https://venngage.com/ai-tools/graph-generator",
+      "description": "Turn raw data into clear, AI-generated graphs in seconds.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Image Generator",
+      "website_url": "https://venngage.com/ai-tools/image-generator",
+      "description": "Go from concept to custom AI-generated images in just a few clicks.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Facebook Ad Generator",
+      "website_url": "https://venngage.com/ai-tools/facebook-ad-generator",
+      "description": "Create tailored Facebook ads with AI in seconds",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Proposal Generator",
+      "website_url": "https://venngage.com/ai-tools/proposal-generator",
+      "description": "Build clear, professional proposals with AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Book Cover Generator",
+      "website_url": "https://venngage.com/ai-tools/book-cover-generator",
+      "description": "Design eye-catching book covers with AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lootgod.com",
+      "website_url": "https://www.lootgod.com",
+      "description": "generative ai apparel using print-on-demand",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rupert AI",
+      "website_url": "https://www.getrupert.com",
+      "description": "AI tools for designers and marketers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Zolltarifnummer.com",
+      "website_url": "https://www.zolltarifnummer.com",
+      "description": "Find and verify the right 11-digit German customs tariff number",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Shopme Agent",
+      "website_url": "https://shopmeagent.com",
+      "description": "A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Picoko",
+      "website_url": "https://www.picoko.com",
+      "description": "AI Product Photo Generator - Create professional product images with models",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GetCount",
+      "website_url": "https://getcount.com",
+      "description": "AI-powered accounting for small businesses",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Wallet Finder AI",
+      "website_url": "https://www.walletfinder.ai",
+      "description": "Defi wallets and tokens analytics information",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Zola Analytics",
+      "website_url": "https://www.zolaanalytics.com",
+      "description": "Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Salary Calculator",
+      "website_url": "https://salary-calculator.ai",
+      "description": "Salary-Calculator.ai helps you compare net salaries worldwide instantly",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PayCalculator",
+      "website_url": "https://paycalculator.ai",
+      "description": "PayCalculator.ai instantly calculates take-home pay with tax breakdowns",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TaxTools AI",
+      "website_url": "https://taxtools.ai/cn",
+      "description": "AI Tax Tools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Interview Coach",
+      "website_url": "https://em-tools.io/interview-prep",
+      "description": "Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "getPaperFast.com",
+      "website_url": "https://getpaperfast.com",
+      "description": "An AI-driven platform for quick paper summaries that supports multiple languages",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SlidesAI.io",
+      "website_url": "https://slidesai.io",
+      "description": "An AI Powered Text to Presentation Tool, Works with Google Slides",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Flair",
+      "website_url": "https://withflair.ai",
+      "description": "AI design tool for branded content",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Twee",
+      "website_url": "https://twee.com",
+      "description": "A.I. Powered Tools For English Teachers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Yomu",
+      "website_url": "https://www.yomu.ai",
+      "description": "AI writing assistant for students and academics",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Sourcely",
+      "website_url": "https://www.sourcely.net",
+      "description": "Academic Citation Finding Tool with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "LangMagic",
+      "website_url": "https://easytolearn.io",
+      "description": "Learn languages from native content.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Auto Streamer",
+      "website_url": "https://www.autostreamer.live",
+      "description": "Learn & teach anything on demand. Create course websites in minutes.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SopCreator",
+      "website_url": "https://www.sopcreator.com",
+      "description": "Create your Statement of Purpose with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MathSolver",
+      "website_url": "https://www.mathsolver.top",
+      "description": "Use AI to solve math problems and study",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ResumeDive",
+      "website_url": "https://resumedive.com",
+      "description": "A resume boosting service using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Exam Samurai",
+      "website_url": "https://www.examsamur.ai",
+      "description": "AI Exam Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "iColoring",
+      "website_url": "https://icoloring.ai",
+      "description": "Free AI Coloring Pages Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Remusic",
+      "website_url": "https://remusic.ai/en",
+      "description": "AI Music Generator and Music Learning Platform Online Free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "CasperPractice",
+      "website_url": "https://casperpractice.org",
+      "description": "AI tutor for the CASPer test",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "RabbitHoles AI",
+      "website_url": "https://www.rabbitholes.ai",
+      "description": "Chat with AI on an Infinite Canvas",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "bugfree.ai",
+      "website_url": "https://bugfree.ai",
+      "description": "Guided Practice on System Design Behavior Problems like the way you do at Leetcode.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Tutor",
+      "website_url": "https://ai-tutor.ai",
+      "description": "Your personalized AI tutor—learn anything, anytime, anywhere",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Notescast",
+      "website_url": "https://notescast.app",
+      "description": "PDF to Brainrot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Bookimagic",
+      "website_url": "https://www.bookimagic.com",
+      "description": "Create & publish children’s books with stories & illustrations",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Preschools Near Me",
+      "website_url": "https://www.preschoolsnearme.org",
+      "description": "AI personal assistant for finding and applying to preschools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Learn Copywriting",
+      "website_url": "https://learncopywriting.com",
+      "description": "Practice copywriting exercises and get scored by AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ClassX",
+      "website_url": "https://classx.org",
+      "description": "AI for the classroom",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Homeworkify",
+      "website_url": "https://homeworkify.app",
+      "description": "AI-powered homework assistant helping students learn faster",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Summara",
+      "website_url": "https://summara.io",
+      "description": "YouTube AI Summary and Transcript widget",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Mathos AI",
+      "website_url": "https://www.mathgptpro.com",
+      "description": "The best AI math solver, calculator and tutor",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ExamGPT",
+      "website_url": "https://excelas.ai",
+      "description": "AI Assessment Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PDFPeer",
+      "website_url": "https://pdfpeer.com",
+      "description": "Chat with any PDF in seconds!",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MuzicGenerator",
+      "website_url": "https://muzicgenerator.com",
+      "description": "AI music generator for creating and sharing unique songs online",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Studyaura.app",
+      "website_url": "https://www.studyaura.app",
+      "description": "Turn PDFs into Viral Study Material",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NoteGPT",
+      "website_url": "https://notegpt.io",
+      "description": "Your All-in-One AI Learning Assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DeepPDF",
+      "website_url": "https://deeppdf.ai",
+      "description": "Your AI Research Assistant for Deep Learning",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Humanizer",
+      "website_url": "https://aihumanizer.work",
+      "description": "Humanize AI Text Online Free – 100% Human Written",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Detector",
+      "website_url": "https://aidetector.cc",
+      "description": "Detect AI text Online Free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MyDetector",
+      "website_url": "https://mydetector.com",
+      "description": "Free AI Detector and Humanizer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AIImagetoText",
+      "website_url": "https://aiimagetotext.com",
+      "description": "Free AI Image to Text,ConverterFast & Highly Accurate",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AIPlagiarismChecker",
+      "website_url": "https://aiplagiarismchecker.io",
+      "description": "Plagiarism Checker ensures fast, accurate, and original content verification.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AIGrammarChecker",
+      "website_url": "https://aigrammarchecker.io",
+      "description": "Free AI Grammar Checker, Instant Grammar & Spelling Check",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "InterSub",
+      "website_url": "https://intersub.cc",
+      "description": "Language Learning with Dual Subtitles & AI Translation",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NoteGPT",
+      "website_url": "https://notegpt.com",
+      "description": "AI note-taking app that records, transcribes, and summarizes lectures",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Socratic App",
+      "website_url": "https://socraticapp.com",
+      "description": "AI homework helper that teaches students like a tutor",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lorea",
+      "website_url": "https://www.lorea.app",
+      "description": "The AI Study Game Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI/ML API",
+      "website_url": "https://aimlapi.com",
+      "description": "200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Chat Data Prep",
+      "website_url": "https://www.akkio.com/chat-data-prep",
+      "description": "data transformation using plain english",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Codeium",
+      "website_url": "https://www.codeium.com",
+      "description": "free AI powered code completion",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Capacity",
+      "website_url": "https://capacity.so",
+      "description": "Create fullstack web applications using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Ghostwriter (by Replit)",
+      "website_url": "https://replit.com/site/ghostwriter",
+      "description": "AI pair programmer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GitHub Copilot",
+      "website_url": "https://github.com/features/copilot",
+      "description": "an AI pair programmer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GoCodeo",
+      "website_url": "https://www.gocodeo.com",
+      "description": "GoCodeo is an AI agent for building full-stack apps in minutes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Keywords AI",
+      "website_url": "https://keywordsai.co",
+      "description": "The enterprise-grade software to build, monitor, and improve your AI application. We are a full-stack LLM engineering platform for developers and PMs.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Helicone AI",
+      "website_url": "https://github.com/Helicone/helicone",
+      "description": "Open-source LLM observability platform for logging, monitoring, and debugging AI applications.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Keploy",
+      "website_url": "https://keploy.io",
+      "description": "Open source Tool for converting user-traffic to Test Cases and Data Stubs",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Liner.ai",
+      "website_url": "https://liner.ai",
+      "description": "Creates classification models from your data",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Phind",
+      "website_url": "https://phind.com",
+      "description": "LLM-powered search engine for developers and technical questions",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Promptable.ai",
+      "website_url": "https://promptable.ai",
+      "description": "the ultimate workspace for prompt engineering",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Suppress.js",
+      "website_url": "https://github.com/velocitatem/suppress",
+      "description": "Building or augmenting backend with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Dystr",
+      "website_url": "https://dystr.com",
+      "description": "AI powered analysis / cloud runtime",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GitPoet",
+      "website_url": "https://www.gitpoet.dev",
+      "description": "Git commit message generator (based on your changes) with a VSCode extension",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AskCommand",
+      "website_url": "https://www.askcommand.cppexpert.online",
+      "description": "Generate Unix commands from text automatically",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Shotstack Workflows",
+      "website_url": "https://shotstack.io/product/workflows",
+      "description": "No-code, automation workflow tool for building Generative AI media applications",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "text-generator.io AI Text Generator",
+      "website_url": "https://text-generator.io",
+      "description": "Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Code to Flow",
+      "website_url": "https://codetoflow.com",
+      "description": "Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SinglebaseCloud",
+      "website_url": "https://singlebase.cloud",
+      "description": "AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Interview Solver",
+      "website_url": "https://interviewsolver.com",
+      "description": "Ace your live coding interviews with our AI Copilot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Floom",
+      "website_url": "https://floom.ai",
+      "description": "AI gateway and marketplace for developers, enables streamlined integration of AI features into products",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "StartKit.AI",
+      "website_url": "https://startkit.ai",
+      "description": "Boilerplate for quickly building AI products",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Context Data",
+      "website_url": "https://contextdata.ai",
+      "description": "Data Processing & ETL infrastructure for Generative AI applications",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SvelteLaunch",
+      "website_url": "https://sveltelaunch.io",
+      "description": "Svelte 5 Boilerplate for building AI apps quickly",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Maxim AI",
+      "website_url": "https://www.getmaxim.ai",
+      "description": "A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "OppyDev",
+      "website_url": "https://oppydev.ai",
+      "description": "Agentic AI coding assistant built with a focus on ease of use, transparency, customization and data control",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Hexabot",
+      "website_url": "https://hexabot.ai",
+      "description": "Open-source conversational AI builder that supports multiple channels and languages",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lisapet.ai",
+      "website_url": "https://www.lisapet.ai",
+      "description": "AI Prompt Testing Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Kiln",
+      "website_url": "https://getkiln.ai",
+      "description": "Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Srcbook",
+      "website_url": "https://srcbook.com",
+      "description": "The best AI website builder",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Swapcode AI",
+      "website_url": "https://swapcode.ai",
+      "description": "AI that helps write, convert, and debug code 10x faster",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Google AI Studio",
+      "website_url": "https://aistudio.google.com",
+      "description": "Google AI Studio lets you quickly try out Google's language models and experiment with different prompts",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Proxed.AI",
+      "website_url": "https://proxed.ai",
+      "description": "Secure AI APIs in iOS - No SDK, Just Change Your API URL",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "CaptureKit",
+      "website_url": "https://www.capturekit.dev",
+      "description": "The Ultimate Web Scraping API for Developers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NeuralTrust",
+      "website_url": "https://neuraltrust.ai",
+      "description": "LLM Gateway and Red Teaming",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FlexApp",
+      "website_url": "https://flexapp.ai",
+      "description": "Build mobile apps with AI, not code",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Next9",
+      "website_url": "https://www.next9.ai",
+      "description": "Boost on-call productivity with our centralized dashboard",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Fynix",
+      "website_url": "https://www.fynix.ai",
+      "description": "Fynix combines real-time AI coding assistance with agent-powered code reviews",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Amazon Q Developer",
+      "website_url": "https://aws.amazon.com/q/developer/build",
+      "description": "An IDE plugin that provides both chat and agent based tools to developers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Amazon Q Developer CLI",
+      "website_url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html",
+      "description": "An command line tool that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Zuzia.app",
+      "website_url": "https://zuzia.app",
+      "description": "AI-powered server monitoring and task automation for Linux and VPS.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ChatterBox",
+      "website_url": "https://chatter-box.io",
+      "description": "One API for meeting bots on Zoom, Meet & Teams",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Gestell",
+      "website_url": "https://gestell.ai",
+      "description": "Gestell takes your messy, unstructured data and turns it into organized, searchable databases",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Langfa.st",
+      "website_url": "https://www.langfa.st",
+      "description": "Test and share AI prompts instantly. No signup. Built for engineers and product teams.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SocialKit",
+      "website_url": "https://www.socialkit.dev",
+      "description": "Analyze Social Media Videos with a simple API",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DeepDocs",
+      "website_url": "https://deepdocs.dev",
+      "description": "AI that updates docs when you ship code",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Chat2DB",
+      "website_url": "https://chat2db.ai",
+      "description": "AI SQL Generator for Easy Database Management",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Recurse ML",
+      "website_url": "https://recurse.ml",
+      "description": "Find bugs in AI Generated Code",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PromptTester",
+      "website_url": "https://github.com/aralyekta/prompttester",
+      "description": "Test, compare, and optimize your AI prompts in minutes.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rysa AI",
+      "website_url": "https://www.rysa.ai",
+      "description": "AI GTM Automation Agent",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "StarOps",
+      "website_url": "https://ingenimax.ai",
+      "description": "AI Platform Engineer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Narrow AI",
+      "website_url": "https://www.getnarrow.ai",
+      "description": "Automated Prompt Engineering and Optimization",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Price Per Token",
+      "website_url": "https://pricepertoken.com",
+      "description": "Compare LLM API pricing across 300+ models with token counters and benchmarks",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TestSprite",
+      "website_url": "https://www.testsprite.com",
+      "description": "The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Omnara",
+      "website_url": "https://www.omnara.com",
+      "description": "Command Center for AI Coding Agents.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI API Cost Calculator",
+      "website_url": "https://aiagentsbuzz.com/tools/ai-cost-calculator",
+      "description": "Free tool to estimate and compare API token costs across 23 tools and 7 models ..",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Imagine 3D (by Luma AI)",
+      "website_url": "https://captures.lumalabs.ai/imagine",
+      "description": "tool for prototyping 3D objects with text",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "move.ai",
+      "website_url": "https://www.move.ai",
+      "description": "AI-powered real-time motion capture",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Inworld AI",
+      "website_url": "https://inworld.ai",
+      "description": "create any character you can imagine",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Scenario",
+      "website_url": "https://www.scenario.gg",
+      "description": "creating AI-generated game assets",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ChampSignal.com",
+      "website_url": "https://champsignal.com",
+      "description": "Competitor Monitoring That Doesn't Suck",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Choppity.com",
+      "website_url": "https://www.choppity.com",
+      "description": "Instantly turn long podcast videos into short TikToks",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "copy.ai",
+      "website_url": "https://www.copy.ai",
+      "description": "AI content generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Jasper",
+      "website_url": "https://www.jasper.ai",
+      "description": "AI content creator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Magic Summaries by Sybill",
+      "website_url": "https://www.sybill.ai/magic-summary",
+      "description": "create automatic, accurate sales call summaries using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Peech",
+      "website_url": "https://www.peech-ai.com",
+      "description": "video content creator for content marketing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Headlines",
+      "website_url": "https://headlines.sharethrough.com",
+      "description": "Generating headlines for content marketing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PressPulse AI",
+      "website_url": "https://www.presspulse.ai",
+      "description": "Get personalized media coverage leads every morning.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Taplio",
+      "website_url": "https://taplio.com",
+      "description": "The all-in-one, AI-powered LinkedIn tool.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Clipwing",
+      "website_url": "https://clipwing.pro",
+      "description": "A tool for cutting long videos into dozens of short clips.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Recast Studio",
+      "website_url": "https://recast.studio",
+      "description": "AI-powered podcast marketing assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "LinkActions",
+      "website_url": "https://linkactions.com",
+      "description": "AI Internal Links Assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TrollyAI",
+      "website_url": "https://trolly.ai",
+      "description": "Create professional SEO articles, 2x faster",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SEOByAI",
+      "website_url": "https://seoby.ai",
+      "description": "Rank Faster on Google with FREE AI SEO Tools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Dittto.ai",
+      "website_url": "https://dittto.ai",
+      "description": "Fix your hero copy with an AI trained on top SaaS websites.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Persuva",
+      "website_url": "https://persuva.ai",
+      "description": "Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Jack AI",
+      "website_url": "https://www.usejackai.com",
+      "description": "AI Marketing Copywriter tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "CopyTruck",
+      "website_url": "https://www.copytruck.com",
+      "description": "AI tool to organically grow on LinkedIn",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "markero",
+      "website_url": "https://markero.com",
+      "description": "marketing made easy!",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Podify.io",
+      "website_url": "https://podify.io",
+      "description": "Leverage AI and community to grow on LinkedIn",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "BlogFox",
+      "website_url": "https://blogfox.ai",
+      "description": "Generate impressive blogs from a Youtube video or SEO keywords at scale.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PostPulse",
+      "website_url": "https://post-pulse.io",
+      "description": "Monthly SEO-optimized posts that drive your SaaS startup’s online presence and page rankings.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Salesably",
+      "website_url": "https://www.salesably.ai",
+      "description": "AI-driven sales coaching to enhance communication",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Luthor",
+      "website_url": "https://luthor.ai",
+      "description": "Programmatic content marketing at scale",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Logicballs",
+      "website_url": "https://logicballs.com",
+      "description": "AI Copywriting Tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PersonaForce",
+      "website_url": "https://personaforce.ai",
+      "description": "Create and chat with AI buyer personas",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Shosay",
+      "website_url": "https://www.shosay.com",
+      "description": "AI Powered Free Social Proof Management - Testimonials, References, Recommendations",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "OnRanko",
+      "website_url": "https://www.onranko.com",
+      "description": "400+ AI Tools and AI Agents for digital marketing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PostPuma",
+      "website_url": "https://postpuma.com",
+      "description": "Social media management platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Make It Quick",
+      "website_url": "https://makeitquick.ai",
+      "description": "Create instant AI videos from just a few sentences",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SEO Katana",
+      "website_url": "https://seokatana.com",
+      "description": "SEO Content Generator That Knows What Works For Your Competitors",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "KarmaLinks",
+      "website_url": "https://karmalinks.io",
+      "description": "AI backlink exchange platform for B2B companies",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Adligator",
+      "website_url": "https://adligator.com",
+      "description": "AI Ad Spy service for analyzing competitors’ creatives",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Vesta",
+      "website_url": "https://www.vesta-app.com",
+      "description": "AI Content Generator that learns your style",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Aeon",
+      "website_url": "https://project-aeon.com",
+      "description": "AI-Powered Video Production Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Campaign Link",
+      "website_url": "https://www.campaignware.com/campaignlink",
+      "description": "The easiest to use short link, QR code and UTM maker",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Virlo",
+      "website_url": "https://virlo.ai",
+      "description": "Viral trend track",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ReelProof",
+      "website_url": "https://reelproof.io",
+      "description": "Video Testimonials on Autopilot with AI-Powered Customer Interviews",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Podcast Maker",
+      "website_url": "https://podcastmaker.ai",
+      "description": "Turn your Text into Lifelike Audio Discussions",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Commenze",
+      "website_url": "https://commenze.com",
+      "description": "CMS for programmatic SEO",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Pykaso.ai",
+      "website_url": "https://www.pykaso.ai",
+      "description": "Create consistent and realistic AI influencers with Pykaso AI tools.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FirmOS",
+      "website_url": "https://www.firmos.ai",
+      "description": "AI-Powered Automation for Accounting Firms",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Keyla.AI",
+      "website_url": "https://keyla.ai",
+      "description": "Create video ads in minutes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Meshr",
+      "website_url": "https://meshr.link",
+      "description": "AI-powered internal linking tool for better SEO & user experience",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Convert.ai",
+      "website_url": "https://convert.ai",
+      "description": "Generates quality B2B sales meetings with personalized AI outreach",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Storyy",
+      "website_url": "https://storyy.co",
+      "description": "A Content Team In Your Pocket",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Audio Forms",
+      "website_url": "https://getaudioforms.com",
+      "description": "AI-Powered Audio Surveys",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Gauge",
+      "website_url": "https://withgauge.com",
+      "description": "Gauge helps your company show up in AI answers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Outlier Kit",
+      "website_url": "https://outlierkit.com",
+      "description": "Discover YouTube niches, trends & Keywords to grow your channel faster",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Wave Instagram Outreach",
+      "website_url": "https://www.usewave.co",
+      "description": "Automate Instagram outreach to find leads, send DMs, and get clients",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Postiz",
+      "website_url": "https://www.postiz.com",
+      "description": "AI Social Media Scheduling Tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SalesAgent Chat",
+      "website_url": "https://www.salesagent.chat",
+      "description": "AI Sales Coach & Copilot for real-time support",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "LinkRocket",
+      "website_url": "https://linkrocket.ai",
+      "description": "Earn Credits. Build Backlinks. Dominate Rankings",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Serplux",
+      "website_url": "https://serplux.com",
+      "description": "400+ AI Tools and AI Agents for digital marketing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Meridian",
+      "website_url": "https://trymeridian.com",
+      "description": "Be more visible in AI search",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "BrandLife",
+      "website_url": "https://www.brandlife.io",
+      "description": "Digital asset management platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "HeadsUp",
+      "website_url": "https://headsup.bot",
+      "description": "Your AI Competitive Intelligence Agent",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PageSpike.ai",
+      "website_url": "https://pagespike.ai",
+      "description": "CRO Audits for landing pages - powered by AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "BestFarewell",
+      "website_url": "https://bestfarewell.com",
+      "description": "Family Estate Management System",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Toksta",
+      "website_url": "https://www.toksta.com",
+      "description": "B2B Influencer Marketing Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Waveon",
+      "website_url": "https://www.waveon.io",
+      "description": "AI Landing Page Builder",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SalesMagic",
+      "website_url": "https://www.salesmagic.com",
+      "description": "Virtual role-playing and live-call analysis for sales teams",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Linkedin Bulk Search",
+      "website_url": "https://growthtoolz.com/shop/linked-bulk-search",
+      "description": "Automate your searches in Linkedin and output the results to your sheet",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Online Receipt Maker",
+      "website_url": "https://onlinereceiptmaker.com",
+      "description": "Generate professional business receipts with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Smartshort",
+      "website_url": "https://smartshort.co",
+      "description": "Text to video",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Flowcart",
+      "website_url": "https://flowcart.ai",
+      "description": "Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Roadmap Generator",
+      "website_url": "https://venngage.com/ai-tools/roadmap-generator",
+      "description": "AI Roadmap Generator creates a visual, step-by-step roadmap instantly.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI One Pager Generator",
+      "website_url": "https://venngage.com/ai-tools/one-pager-generator",
+      "description": "AI-powered one-pager designs, fast and effortless.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Hooked AI",
+      "website_url": "https://hookedai.ai",
+      "description": "HookedAI - AI-Powered LinkedIn Marketing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Soro",
+      "website_url": "https://trysoro.com",
+      "description": "SEO Autopilot & Content Writer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Bazzly",
+      "website_url": "https://www.bazzly.ai",
+      "description": "Get Customers From Reddit on Autopilot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Appark",
+      "website_url": "https://appark.ai/en",
+      "description": "Free app market analytics for growth and competition insights",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "dnAI",
+      "website_url": "https://humandnai.com",
+      "description": "Brand-first AI marketing platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Gro",
+      "website_url": "https://thegro.ai",
+      "description": "AI Sales Agent for B2B Lead Generation",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "RepuAI",
+      "website_url": "https://repuai.live/en",
+      "description": "AI visibility scoring and brand monitoring for AI search engines",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Reelify AI",
+      "website_url": "https://reelifyclips.com",
+      "description": "Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GPT for Sheets and Docs",
+      "website_url": "https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654",
+      "description": "integrate GPT in your everyday tools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SummaryTube",
+      "website_url": "https://summarytube.com",
+      "description": "Youtube Video Summarizer with AI, extract transcripts & key moments",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lex",
+      "website_url": "https://lex.page",
+      "description": "Web based AI writing tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Smart Write & Smart Edit (by Mem)",
+      "website_url": "https://get.mem.ai",
+      "description": "knowledge-aware AI writer",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DraftLab",
+      "website_url": "https://draftlab.ai",
+      "description": "Gmail copilot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Adept",
+      "website_url": "https://www.adept.ai",
+      "description": "useful general intelligence",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AutoRegEx",
+      "website_url": "https://www.autoregex.xyz",
+      "description": "AI based Text to Regex conversion",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NotionAI",
+      "website_url": "https://www.notion.so/product/ai",
+      "description": "AI Writing tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Plus AI for Google Slides",
+      "website_url": "https://www.plusdocs.com/plus-ai-for-google-slides",
+      "description": "Create AI-powered presentations in Google Slides",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Podwise",
+      "website_url": "https://podwise.xyz",
+      "description": "The premier AI learning app for Podcast Listeners",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Documind AI",
+      "website_url": "https://documind.chat",
+      "description": "Chat with pdf using GPT4",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "guidde",
+      "website_url": "https://www.guidde.com",
+      "description": "Magically create video documentation with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Kolega",
+      "website_url": "https://kolega.ai",
+      "description": "AI powered employees for Slack and Teams",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Elephas",
+      "website_url": "https://elephas.app",
+      "description": "Personal AI writing assistant for the Mac.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lemmy",
+      "website_url": "https://lemmy.co",
+      "description": "Autonomous AI Assistant for Work.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Google Sheets Formula Generator",
+      "website_url": "https://bettersheets.co/google-sheets-formula-generator",
+      "description": "Forget about frustrating formulas in Google Sheets.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "aiPDF",
+      "website_url": "https://aipdf.ai",
+      "description": "The most advanced AI document assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Myriad",
+      "website_url": "https://www.namepepper.com/free-tools/ai-content-prompt-tool",
+      "description": "Build and fine-tune AI content prompts for writing anything, from long-form posts to ads and emails, by mixing and matching rules.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Emilio",
+      "website_url": "https://getemil.io",
+      "description": "Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Chatpdf.so",
+      "website_url": "https://chatpdf.so",
+      "description": "Chatpdf.so is an AI based chat tool designed to chat with PDF.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ReportGPT",
+      "website_url": "https://report-gpt.io",
+      "description": "Elevate your document writing by harnessing the power of AI and experience the seamless creation of documents.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Recurrr",
+      "website_url": "https://recurrr.com",
+      "description": "Send recurring emails",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI PowerPoint Maker",
+      "website_url": "https://aipowerpointmaker.com",
+      "description": "AI presentation generator for PowerPoint",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Lede",
+      "website_url": "https://thelede.ai",
+      "description": "Generate In-Depth Blog Content",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Panem",
+      "website_url": "https://panem.co",
+      "description": "AI Powered SaaS Spend Management",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FARSITE",
+      "website_url": "https://far.site",
+      "description": "AI-powered Compliance Software for U.S. Government Contractors",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI for Google Slides",
+      "website_url": "https://www.aiforgoogleslides.com",
+      "description": "AI presentation maker for Google Slides",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Decopy AI",
+      "website_url": "https://decopy.ai",
+      "description": "Decopy AI is a tool that identifies if text is written by a human or AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PPT.AI",
+      "website_url": "https://ppt.ai",
+      "description": "The World's Best AI PPT Maker",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI PPT Maker",
+      "website_url": "https://aipptmaker.ai",
+      "description": "Make your unique PPT with AI online for free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Transgate",
+      "website_url": "https://transgate.ai",
+      "description": "AI Speech to Text",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TextCraft",
+      "website_url": "https://github.com/suncloudsmoon/TextCraft",
+      "description": "Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Klarity",
+      "website_url": "https://klarity.pro",
+      "description": "Turn your voice notes into blog posts, podcast scripts, and tweets instantly with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "VideoFaceSwap",
+      "website_url": "https://videofaceswap.io",
+      "description": "Free Online Face Swapping Tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Scribbl",
+      "website_url": "https://www.scribbl.co",
+      "description": "AI Meeting Notes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Voice Command",
+      "website_url": "https://myextension.store/voice-command",
+      "description": "VOICE COMMANDS and VOICE TYPING anywhere on the web",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Bricks",
+      "website_url": "https://www.thebricks.com",
+      "description": "The AI Spreadsheet We've All Been Waiting For",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI-Translate.online",
+      "website_url": "https://ai-translate.online",
+      "description": "AI-Powered Document and File Translator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Awesome Video Editor",
+      "website_url": "https://awesomevideoeditor.com",
+      "description": "Generate Subtitles for Your Video",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Cover Letter Generator",
+      "website_url": "https://www.aicoverlettergenerator.app",
+      "description": "Get hired faster with a professional cover letter generated by AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Type Think AI",
+      "website_url": "https://typethinkai.com",
+      "description": "Your Gateway to Multiple AI Models",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Smmry",
+      "website_url": "https://smmry.com",
+      "description": "Summarize Long Content Into Clear Insights",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TranscribeTube",
+      "website_url": "https://www.transcribetube.com",
+      "description": "Transcribe youtube video, spotify podcast to text free & AI-ready formats",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ResumeBoostAI",
+      "website_url": "https://resumeboostai.com",
+      "description": "Generate professional resumes using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Alt Text Generator AI",
+      "website_url": "https://alttextgeneratorai.com",
+      "description": "Generate alt text for images using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PropertyListingsAI",
+      "website_url": "https://propertylistingsai.com",
+      "description": "Generate real estate listings using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "VideosGeneratorAI",
+      "website_url": "https://videosgeneratorai.com",
+      "description": "Generate viral TikTok videos using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GPT Reader",
+      "website_url": "https://gpt-reader.com",
+      "description": "Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Nudge AI",
+      "website_url": "https://getnudgeai.com",
+      "description": "Ambient AI Scribe for Healthcare",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Marblism",
+      "website_url": "https://marblism.com",
+      "description": "AI Employees for your business",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Promptly",
+      "website_url": "https://searchpromptly.com",
+      "description": "Discover, create and share powerful prompts",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Spell",
+      "website_url": "https://spellapp.com",
+      "description": "Spell is the AI alternative to Google Docs",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Kosmik",
+      "website_url": "https://www.kosmik.app",
+      "description": "AI moodboarding platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PM Skills",
+      "website_url": "https://github.com/product-on-purpose/pm-skills",
+      "description": "24 AI agent skills for product managers across the full product lifecycle",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Magic Potion",
+      "website_url": "https://www.magicpotion.app",
+      "description": "Visual AI Prompt Editor",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "EKHOS AI",
+      "website_url": "https://ekhos.ai",
+      "description": "EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "3D House Planner",
+      "website_url": "https://3dhouseplanner.com",
+      "description": "AI-Powered 3D Floor Plan Generation from Images",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "UnSoloMind",
+      "website_url": "https://unsolomind.com",
+      "description": "A chat-style tool for sharing your business knowledge asynchronously",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Trails",
+      "website_url": "https://trails.so",
+      "description": "The easiest way to document your process",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "iPurix",
+      "website_url": "https://remove-watermark.org",
+      "description": "AI-Powered Watermark Remover - Free, Quick, and Easy to Use",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "X-doc AI",
+      "website_url": "https://x-doc.ai",
+      "description": "The most accurate AI translator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Supercamp",
+      "website_url": "https://supercamp.ai",
+      "description": "AI workspace for business",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PodcastAdBlock",
+      "website_url": "https://podcastadblock.app",
+      "description": "Remove ads from any podcast feed with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Mocha",
+      "website_url": "https://getmocha.com",
+      "description": "AI app builder",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Gamma",
+      "website_url": "https://gamma.app",
+      "description": "An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Alai",
+      "website_url": "https://getalai.com",
+      "description": "Create high quality presentations with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Packgine",
+      "website_url": "https://packgine.ai",
+      "description": "Instant packaging analysis and environmental compliance reports",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Cover Letter Generator",
+      "website_url": "https://ai-coverletter-generator.com",
+      "description": "AI-powered tool to create professional cover letters instantly",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Browser",
+      "website_url": "https://aibrowser.surf",
+      "description": "Automate web tasks using just prompts.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Fantastic Portfolios",
+      "website_url": "https://fantasticportfolios.com",
+      "description": "An AI-powered portfolio website builder within 30 seconds.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Video Transcriber",
+      "website_url": "https://videotranscriber.ai",
+      "description": "Transcribe Video to Text Online Free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Audio Converter",
+      "website_url": "https://audioconverter.ai",
+      "description": "Convert Audio to Text Online Free",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "My Passion AI",
+      "website_url": "https://mypassion.ai",
+      "description": "AI-powered quiz to find your passion career path",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Worklytics",
+      "website_url": "https://www.worklytics.co",
+      "description": "Analytics on AI and Productivity",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Voibe",
+      "website_url": "https://www.getvoibe.com",
+      "description": "Fast, private, on device AI voice dictation app for Mac",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Tubetranscript",
+      "website_url": "https://www.tubetranscript.com",
+      "description": "YouTube Transcript Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SENTENCIFY",
+      "website_url": "https://www.sentencify.ai/en",
+      "description": "AI Free Paraphrasing Tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "HumanTone",
+      "website_url": "https://humantone.io",
+      "description": "Transform AI Text into Human, High-Performing Content",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Product Manager Skills",
+      "website_url": "https://github.com/Digidai/product-manager-skills",
+      "description": "AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "LocalChat.app",
+      "website_url": "https://www.localchat.app",
+      "description": "Local-first MacOS AI application - 100% Private, Works Fully Offline",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GoodListen",
+      "website_url": "https://goodlisten.co",
+      "description": "Find your next Podcast with the help of AI. AI-driven audio comprehension app",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Ask Anything (by Perplexity)",
+      "website_url": "https://www.perplexity.ai",
+      "description": "combines large language models with search engines for question answering",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Bird SQL (by Perplexity)",
+      "website_url": "https://www.perplexity.ai/sql",
+      "description": "AI-powered search for the Twitter's social graph",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Metaphor",
+      "website_url": "https://metaphor.systems",
+      "description": "a system to search the internet with large language models",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rewind",
+      "website_url": "https://www.rewind.ai",
+      "description": "search engine for your life",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "You",
+      "website_url": "https://you.com/apps/discover",
+      "description": "AI powered search engine",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "muse.ai",
+      "website_url": "https://muse.ai",
+      "description": "video content search and conversational assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Refinder AI",
+      "website_url": "https://refinder.ai",
+      "description": "AI-powered universal search and assistant for work",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Hika AI",
+      "website_url": "https://www.hika.fyi",
+      "description": "AI search for deeper thinking, not just find answers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Consensus",
+      "website_url": "https://consensus.app",
+      "description": "AI powered search for research papers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Elicit",
+      "website_url": "https://elicit.org",
+      "description": "an AI research assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Explainpaper",
+      "website_url": "https://www.explainpaper.com",
+      "description": "an AI research assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Expontum",
+      "website_url": "https://www.expontum.com",
+      "description": "AI generated research knowledge gaps",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GummySearch",
+      "website_url": "https://gummysearch.com",
+      "description": "AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Competitor Research",
+      "website_url": "https://www.competitoresearch.com",
+      "description": "AI tool to help companies track their competitors",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Compass",
+      "website_url": "https://www.getwhys.io/compass",
+      "description": "AI-driven answers to SaaS research questions",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MuckBrass",
+      "website_url": "https://www.muckbrass.com",
+      "description": "Find & Validate Startup Ideas",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DeepResearch-Agent",
+      "website_url": "https://github.com/Parveshiiii/Deepresearch-Agent",
+      "description": "An OpenAI-like DeepResearch agent that plans and thinks, equipped with a beautiful frontend (UI).",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Conference Deadline",
+      "website_url": "https://www.aiconferenceddl.com",
+      "description": "AI/ML conference deadline tracker",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "CiteMe",
+      "website_url": "https://citeme.app",
+      "description": "AI-powered academic citation generator. Searches 11+ databases and formats references in 40+ citation styles.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Picterra",
+      "website_url": "https://picterra.ch",
+      "description": "AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Twig",
+      "website_url": "https://www.twig.so",
+      "description": "Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SiteGPT",
+      "website_url": "https://sitegpt.ai",
+      "description": "Make AI your expert customer support agent.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GPTHelp.ai",
+      "website_url": "https://gpthelp.ai",
+      "description": "ChatGPT for your website / AI customer support chatbot.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SiteSpeakAI",
+      "website_url": "https://sitespeak.ai",
+      "description": "Automate your customer support with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Dear AI",
+      "website_url": "https://www.dearai.online",
+      "description": "Supercharge Customer Services and boost sales with AI Chatbot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Inline Help",
+      "website_url": "https://inlinehelp.com",
+      "description": "Answer customer questions before they ask",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Chat Thing",
+      "website_url": "https://chatthing.ai",
+      "description": "Make AI chatbots in minutes",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Owlbot",
+      "website_url": "https://www.owlbot.ai",
+      "description": "AI Support Agent",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Galichat.com",
+      "website_url": "https://www.galichat.com/ref=Top-AI-Tools",
+      "description": "Custom ChatGPT trained on your Website data.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Beheard Labs",
+      "website_url": "https://www.gobeheard.com",
+      "description": "AI-Powered Customer Insight Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Rosie",
+      "website_url": "https://heyrosie.com",
+      "description": "AI Phone Answering Service",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Vidocu",
+      "website_url": "https://vidocu.ai",
+      "description": "Turn screen recordings into professional videos and documentation",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AICaller.io",
+      "website_url": "https://aicaller.io",
+      "description": "AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Resume Screener AI",
+      "website_url": "https://resume-screening.com",
+      "description": "a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Candor",
+      "website_url": "https://www.candor.so",
+      "description": "AI-Powered 360-Degree Feedback",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "SimplePerf",
+      "website_url": "https://buddieshr.com/simpleperf",
+      "description": "A simple, guided 360° performance review tool made for small teams",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Never Jobless LinkedIn Message Generator",
+      "website_url": "https://neverjobless.com",
+      "description": "Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Aispect",
+      "website_url": "https://aispect.io",
+      "description": "New way to experience events.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "PromptPal",
+      "website_url": "https://promptpal.net",
+      "description": "Search for prompts and bots, then use them with your favourite AI. All in one place.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "WebscrapeAI",
+      "website_url": "https://webscrapeai.com",
+      "description": "Scrape any website without code using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Interviews Chat",
+      "website_url": "https://www.interviews.chat",
+      "description": "Your Personal Interview Prep & Copilot",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "scale.jobs",
+      "website_url": "https://www.scale.jobs",
+      "description": "Hire a Human Career Assistant for your Job Hunt",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Wedding Toast",
+      "website_url": "https://aiweddingtoast.com",
+      "description": "Generate a personalized wedding speech with AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Taskbase",
+      "website_url": "https://www.taskbase.co.uk",
+      "description": "Virtual assistants packaged with AI powered software.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "fynk",
+      "website_url": "https://fynk.com",
+      "description": "AI powered contract management software",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "LooksMax AI",
+      "website_url": "https://looksmax.ai",
+      "description": "Find out how hot you are using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "STRProfitMap",
+      "website_url": "https://www.strprofitmap.com",
+      "description": "Data analytics Saas for airbnb investors.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Glowup AI",
+      "website_url": "https://glowup.fm",
+      "description": "Find out what pretty you are",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MyLooks.AI",
+      "website_url": "https://mylooks.ai",
+      "description": "Find out how hot you are & become hotter!",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "goDeskless",
+      "website_url": "https://godeskless.com",
+      "description": "Optimize field service and boosts customer satisfaction.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ezJobs",
+      "website_url": "https://getezjobs.com",
+      "description": "Automated job search and applications",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "DecorAI",
+      "website_url": "https://decorai.io",
+      "description": "Generate Interior and Exterior Ideas in Seconds",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Foundy.com",
+      "website_url": "https://foundy.com",
+      "description": "Sell your business at a higher valuation or find quality acquisitions with Foundy's AI and expert support.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Build Club",
+      "website_url": "https://www.buildclub.ai",
+      "description": "Community + education for AI builders",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Presentation Makers",
+      "website_url": "https://www.aipresentationmakers.com",
+      "description": "In-depth reviews of dozens of AI presentation makers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "GOSH",
+      "website_url": "https://gosh.app",
+      "description": "Free AI Price Tracker - Track any price of any product at any store using AI",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Telegram content downloader",
+      "website_url": "https://tg-video-downloader.net",
+      "description": "A fast, user-friendly Chrome plugin that allows you to download Telegram videos for free—no registration required!",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Kink AI",
+      "website_url": "https://chat.kink.ai",
+      "description": "Best NSFW AI App",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Coin Newsify",
+      "website_url": "https://www.coinewsify.ai",
+      "description": "AI-Powered Cryptocurrency news aggregator application",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Drive AI",
+      "website_url": "https://driveapp.ai",
+      "description": "AI car assistant predicting routes, providing real-time alerts, and ensuring safer, smoother rides",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ARIA - AI Parenting Support",
+      "website_url": "https://aria-ai.augmentedstartups.com",
+      "description": "Parenting made easier with AI-powered guidance",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Tatship",
+      "website_url": "https://tatship.com",
+      "description": "Virtual Tattoo Try-On and Design for Safe and Easy Decisions",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Flirt",
+      "website_url": "https://flirtos.com",
+      "description": "Dating App Convo AI Assistant",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Palm",
+      "website_url": "http://getpalm.com",
+      "description": "AI small business filing assistant and identity wallet",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ChefPandas",
+      "website_url": "https://www.chefpandas.com",
+      "description": "Smart meal planning, made simple!",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Narrativ",
+      "website_url": "https://mynarrativ.com",
+      "description": "AI powered career storytelling tool",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "NAYA",
+      "website_url": "https://naya.finance",
+      "description": "AI Financial Operations platform for Fintechs & Financial services providers. Automate Reconciliation, Ledgering and Compliance",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "ManuscriptReport",
+      "website_url": "https://manuscriptreport.com",
+      "description": "AI Book Marketing Reports for Authors",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "EasyVC",
+      "website_url": "https://easyvc.ai",
+      "description": "Skip the investor research for your startup. Get introduced by portfolio founders.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Best AI Agents Directory",
+      "website_url": "https://www.bestaiagents.directory",
+      "description": "Curated Collection of the Best AI Agents to Boost Your Workflow",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "FairPact AI",
+      "website_url": "https://fairpact.actualization.ai",
+      "description": "Scan contracts & find gotchas before signing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Botpool",
+      "website_url": "https://www.botpool.ai",
+      "description": "Marketplace for AI-Powered Freelancers",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Amino: Supplement Scanner",
+      "website_url": "https://aminohealth.app",
+      "description": "AI-powered supplement scanner and tracker for clean, safe choices.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Image Describer",
+      "website_url": "https://image-describer.org",
+      "description": "Accessible Image Descriptions Generator.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Freqens",
+      "website_url": "https://www.freqens.com",
+      "description": "Intelligent Platform for Software Purchasing",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "TaxTip.ai",
+      "website_url": "https://taxtip.ai",
+      "description": "Global Tax Intelligence Platform",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Agent Security",
+      "website_url": "https://agentsecurity.com",
+      "description": "Security for AI agents",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Property Forecast",
+      "website_url": "https://propertyforecast.co",
+      "description": "Data analytics for real estate investors",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Poison Pill",
+      "website_url": "https://poisonpill.ai",
+      "description": "Invisible protection against AI training",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "How Attractive am I",
+      "website_url": "https://howattractiveami.app",
+      "description": "Attractive Test AI with Your photo online to get a beauty score",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Eye Shape Detector",
+      "website_url": "https://eyeshapedetector.app",
+      "description": "what's my eye shape?Eye shape detector can help you test your eye type accurately with AI, and provide you with personalized recommendations.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Restore Old Photos",
+      "website_url": "https://restore-photo.app",
+      "description": "Restore Old Photos Online With AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Bird Identifier",
+      "website_url": "https://birdfinder.app",
+      "description": "Bird Identifier by Picture With AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MyDetector",
+      "website_url": "https://mydetector.ai",
+      "description": "Accurate AI Content Detector for ChatGPT and other tools",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "MyPicNow",
+      "website_url": "https://www.mypicnow.com",
+      "description": "Turn selfies into studio-quality headshots with AI.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "How Old Do I Look",
+      "website_url": "https://howolddoyoulook.app",
+      "description": "How Old Do I Look? Free AI Face Age Detector Online",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "AI Caricature Generator",
+      "website_url": "https://banana-ai.art/caricature-trend",
+      "description": "Free Online Caricature Generator",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "mealideas",
+      "website_url": "https://mealideas.ai",
+      "description": "AI-powered meal decisions that learn your taste.",
+      "source_list": "top_ai_tools"
+    },
+    {
+      "name": "Seedance 2.0 AI Video Generator",
+      "website_url": "https://seedance2.video",
+      "description": "AI Video Generator",
+      "source_list": "top_ai_tools"
+    }
+  ]
+}

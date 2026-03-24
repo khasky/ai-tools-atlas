@@ -1,0 +1,136 @@
+{
+  "source_id": "awesome_artificial_intelligence",
+  "source_homepage": "https://github.com/owainlewis/awesome-artificial-intelligence",
+  "list_name": "Awesome Artificial Intelligence (owainlewis)",
+  "raw_readme_url": "https://raw.githubusercontent.com/owainlewis/awesome-artificial-intelligence/master/README.md",
+  "fetched_at": "2026-03-24T05:07:27.751Z",
+  "item_count": 21,
+  "items": [
+    {
+      "name": "ChatGPT",
+      "website_url": "https://openai.com/chatgpt/overview",
+      "description": "Best for general coding + reasoning.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Claude",
+      "website_url": "https://www.anthropic.com/claude",
+      "description": "Best for long-context analysis and structured thinking.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Gemini",
+      "website_url": "https://gemini.google.com",
+      "description": "Best for Google ecosystem integration.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Perplexity",
+      "website_url": "https://www.perplexity.ai",
+      "description": "Best for quick research with live citations.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Cohere",
+      "website_url": "https://cohere.com",
+      "description": "Best for enterprise LLMs with strong retrieval-augmented generation APIs.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Mistral",
+      "website_url": "https://mistral.ai",
+      "description": "Best for lightweight, high-performance open-weight models.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Qwen",
+      "website_url": "https://qwenlm.github.io",
+      "description": "Best for multilingual and Chinese-first applications.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "DeepSeek",
+      "website_url": "https://deepseek.com",
+      "description": "Best for efficient, cost-optimized large models with competitive reasoning.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "GitHub Copilot",
+      "website_url": "https://github.com/features/copilot",
+      "description": "In-IDE code completion, chat, and refactors.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Cursor",
+      "website_url": "https://cursor.sh",
+      "description": "LLM-powered IDE for multi-file edits and codebase-aware chat.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "ChatGPT-4o Image Generation",
+      "website_url": "https://openai.com/chatgpt",
+      "description": "Integrated image creation with style control.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Midjourney",
+      "website_url": "https://www.midjourney.com",
+      "description": "Artistic and photorealistic images and video.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Adobe Firefly",
+      "website_url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+      "description": "Integrated into Creative Cloud.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Ideogram",
+      "website_url": "https://ideogram.ai",
+      "description": "Precise, legible text in generated images.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Flux",
+      "website_url": "https://blackforestlabs.ai",
+      "description": "High-res, prompt-editable images.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Kling",
+      "website_url": "https://klingai.com",
+      "description": "Cinematic, realistic video generation.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Google Veo 3",
+      "website_url": "https://deepmind.google/technologies/veo",
+      "description": "High-quality video with synchronized audio.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Runway",
+      "website_url": "https://runwayml.com",
+      "description": "Video editing + generation.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "ElevenLabs",
+      "website_url": "https://elevenlabs.io",
+      "description": "High-quality text-to-speech.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Suno",
+      "website_url": "https://suno.ai",
+      "description": "AI music from text prompts.",
+      "source_list": "awesome_artificial_intelligence"
+    },
+    {
+      "name": "Aiva",
+      "website_url": "https://www.aiva.ai",
+      "description": "Music composition for media.",
+      "source_list": "awesome_artificial_intelligence"
+    }
+  ]
+}

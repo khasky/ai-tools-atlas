@@ -1,0 +1,2728 @@
+{
+  "source_id": "awesome_ai_tools_mahseema",
+  "source_homepage": "https://github.com/mahseema/awesome-ai-tools",
+  "list_name": "Awesome AI Tools (mahseema)",
+  "raw_readme_url": "https://raw.githubusercontent.com/mahseema/awesome-ai-tools/main/README.md",
+  "fetched_at": "2026-03-24T05:07:28.507Z",
+  "item_count": 453,
+  "items": [
+    {
+      "name": "AI For Developers",
+      "website_url": "https://aifordevelopers.org",
+      "description": "Just a curated list of AI agents, SDKs, coding copilots, and dev-first tools that save you hours — not waste them.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "There's an AI",
+      "website_url": "https://theresanai.com",
+      "description": "List of best AI Tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Notion AI",
+      "website_url": "https://affiliate.notion.so/9po6cx7rvdr6-4y5a7",
+      "description": "Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Murf AI",
+      "website_url": "https://get.murf.ai/v8i9to5ad4oq",
+      "description": "Create voiceover with the most lifelike AI voices.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SaneBox",
+      "website_url": "https://try.sanebox.com/yzkpe5s68xk2",
+      "description": "an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MeetGeek",
+      "website_url": "https://get.meetgeek.ai/zmrnb5xlyfs9",
+      "description": "an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OpenAI API",
+      "website_url": "https://openai.com/api",
+      "description": "OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gopher",
+      "website_url": "https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval",
+      "description": "Gopher by DeepMind is a 280 billion parameter language model.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OPT",
+      "website_url": "https://huggingface.co/facebook/opt-350m",
+      "description": "Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. .  hosted by Alpa.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Announcement",
+      "website_url": "https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b",
+      "description": "Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. .  hosted by Alpa.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OPT-175B text generation",
+      "website_url": "https://opt.alpa.ai",
+      "description": "Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. .  hosted by Alpa.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Bloom",
+      "website_url": "https://huggingface.co/docs/transformers/model_doc/bloom",
+      "description": "BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LLaMA",
+      "website_url": "https://ai.facebook.com/blog/large-language-model-llama-meta-ai",
+      "description": "A foundational, 65-billion-parameter large language model by Meta. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Llama 2",
+      "website_url": "https://ai.meta.com/llama",
+      "description": "The next generation of Meta's open source large language model. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Claude 3",
+      "website_url": "https://claude.ai",
+      "description": "Talk to Claude, an AI assistant from Anthropic.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Vicuna-13B",
+      "website_url": "https://lmsys.org/blog/2023-03-30-vicuna",
+      "description": "An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stable Beluga",
+      "website_url": "https://huggingface.co/stabilityai/StableBeluga1-Delta",
+      "description": "A finetuned LLamma 65B model",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stable Beluga 2",
+      "website_url": "https://huggingface.co/stabilityai/StableBeluga2",
+      "description": "A finetuned LLamma2 70B model",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GPT-4o Mini",
+      "website_url": "https://altern.ai/ai/gpt-4o-mini",
+      "description": "Advancing cost-efficient intelligence",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT",
+      "website_url": "https://chatgpt.com",
+      "description": "ChatGPT by OpenAI is a large language model that interacts in a conversational way.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://theresanai.com/chatgpt",
+      "description": "ChatGPT by OpenAI is a large language model that interacts in a conversational way.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Bing Chat",
+      "website_url": "https://www.bing.com/chat",
+      "description": "A conversational AI language model powered by Microsoft Bing.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/bing_chat",
+      "description": "A conversational AI language model powered by Microsoft Bing.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gemini",
+      "website_url": "https://gemini.google.com",
+      "description": "An experimental AI chatbot by Google, powered by the LaMDA model.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/gemini",
+      "description": "An experimental AI chatbot by Google, powered by the LaMDA model.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Character.AI",
+      "website_url": "https://character.ai",
+      "description": "Character.AI lets you create characters and chat to them.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/character-ai",
+      "description": "Character.AI lets you create characters and chat to them.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatPDF",
+      "website_url": "https://www.chatpdf.com",
+      "description": "Chat with any PDF.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/chatpdf",
+      "description": "Chat with any PDF.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatSonic",
+      "website_url": "https://writesonic.com/chat",
+      "description": "An AI-powered assistant that enables text and image creation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/chatsonic",
+      "description": "An AI-powered assistant that enables text and image creation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Phind",
+      "website_url": "https://www.phind.com",
+      "description": "Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/phind",
+      "description": "Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Tiledesk",
+      "website_url": "https://tiledesk.com",
+      "description": "Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/tiledesk",
+      "description": "Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AICamp",
+      "website_url": "https://aicamp.so",
+      "description": "ChatGPT for Teams",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gali Chat",
+      "website_url": "https://www.galichat.com",
+      "description": "Your 24/7 AI Support Assistant that helps you grow your business!",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DeepSeek-R1",
+      "website_url": "https://www.deepseek.com",
+      "description": "A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "reviews",
+      "website_url": "https://altern.ai/product/deepseek-r1",
+      "description": "A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "dmwithme",
+      "website_url": "https://dmwithme.com",
+      "description": "AI companion with realistic emotions that can disagree, get moody, and challenge you.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Kazimir.ai",
+      "website_url": "https://kazimir.ai",
+      "description": "A search engine designed to search AI-generated images.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Perplexity AI",
+      "website_url": "https://www.perplexity.ai",
+      "description": "AI powered search tools.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Metaphor",
+      "website_url": "https://metaphor.systems",
+      "description": "Language model powered search.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "You.com",
+      "website_url": "https://you.com",
+      "description": "A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Komo AI",
+      "website_url": "https://komo.ai",
+      "description": "An AI based Search engine which responses quick and short answers.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Telborg",
+      "website_url": "https://telborg.com",
+      "description": "AI for Climate Research, with data exclusively from governments, international institutions and companies.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MemFree",
+      "website_url": "https://github.com/memfreeme/memfree",
+      "description": "Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Refinder AI",
+      "website_url": "https://refinder.ai",
+      "description": "AI-powered universal search and assistant for work",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Agentset.ai",
+      "website_url": "https://agentset.ai",
+      "description": "Open-source local Semantic Search + RAG for your data",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "privateGPT",
+      "website_url": "https://github.com/imartinez/privateGPT",
+      "description": "Ask questions to your documents without an internet connection, using the power of LLMs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "quivr",
+      "website_url": "https://github.com/StanGirard/quivr",
+      "description": "Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Jasper",
+      "website_url": "https://www.jasper.ai",
+      "description": "Create content faster with artificial intelligence.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Compose AI",
+      "website_url": "https://www.compose.ai",
+      "description": "Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rytr",
+      "website_url": "https://rytr.me",
+      "description": "Rytr is an AI writing assistant that helps you create high-quality content.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "wordtune",
+      "website_url": "https://www.wordtune.com",
+      "description": "Personal writing assistant.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "HyperWrite",
+      "website_url": "https://hyperwriteai.com",
+      "description": "HyperWrite helps you write with confidence and get your work done faster from idea to final draft.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Nexus AI",
+      "website_url": "https://mynexusai.com",
+      "description": "Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Moonbeam",
+      "website_url": "https://www.gomoonbeam.com",
+      "description": "Better blogs in a fraction of the time.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "copy.ai",
+      "website_url": "https://www.copy.ai",
+      "description": "Write better marketing copy and content with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Anyword",
+      "website_url": "https://anyword.com",
+      "description": "Anyword's AI writing assistant generates effective copy for anyone.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Contenda",
+      "website_url": "https://contenda.co",
+      "description": "Create the content your audience wants, from content you've already made.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Hypotenuse AI",
+      "website_url": "https://www.hypotenuse.ai",
+      "description": "Turn a few keywords into original, insightful articles, product descriptions and social media copy.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lavender",
+      "website_url": "https://www.lavender.ai",
+      "description": "Lavender email assistant helps you get more replies in less time.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lex",
+      "website_url": "https://lex.page",
+      "description": "A word processor with artificial intelligence baked in, so you can write faster.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Jenni",
+      "website_url": "https://jenni.ai",
+      "description": "Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LAIKA",
+      "website_url": "https://www.writewithlaika.com",
+      "description": "LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "QuillBot",
+      "website_url": "https://quillbot.com",
+      "description": "AI-powered paraphrasing tool.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Postwise",
+      "website_url": "https://postwise.ai",
+      "description": "Write tweets, schedule posts and grow your following using AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "RapidTextAI",
+      "website_url": "https://app.rapidtextai.com",
+      "description": "Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Copysmith",
+      "website_url": "https://copysmith.ai",
+      "description": "AI content creation solution for Enterprise & eCommerce.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Yomu",
+      "website_url": "https://www.yomu.ai",
+      "description": "AI writing assistant for students and academics.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Listomatic",
+      "website_url": "https://listomatic.app",
+      "description": "Free and fully configurable real estate listing description generator.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Quick Creator",
+      "website_url": "https://quickcreator.io",
+      "description": "SEO-Optimized Blog platform powered by AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Trolly.ai",
+      "website_url": "https://trolly.ai",
+      "description": "Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Dittto.ai",
+      "website_url": "https://dittto.ai",
+      "description": "Fix your hero copy with an AI trained on top SaaS websites.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PulsePost",
+      "website_url": "https://pulsepost.io",
+      "description": "AI writer that Auto Publishes to your own website",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Shy Editor",
+      "website_url": "https://www.shyeditor.com",
+      "description": "A modern AI-assisted writing environment for all types of prose.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DeepL Write",
+      "website_url": "https://www.deepl.com/write",
+      "description": "AI writing tool that improves written communication.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Headlinesai.pro",
+      "website_url": "https://www.headlinesai.pro",
+      "description": "This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GPTLocalhost",
+      "website_url": "https://gptlocalhost.com/demo",
+      "description": "A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to \"Copilot in Word\" and completely local.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gist AI",
+      "website_url": "https://www.gistai.tech",
+      "description": "ChatGPT-powered free Summarizer for Websites, YouTube and PDF.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "WebChatGPT",
+      "website_url": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn",
+      "description": "Augment your ChatGPT prompts with relevant results from the web.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GPT for Sheets and Docs",
+      "website_url": "https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654",
+      "description": "ChatGPT extension for Google Sheets and Google Docs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "YouTube Summary with ChatGPT",
+      "website_url": "https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli",
+      "description": "Use ChatGPT to summarize YouTube videos.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT Prompt Genius",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo",
+      "description": "Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT for Search Engines",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban",
+      "description": "Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ShareGPT",
+      "website_url": "https://sharegpt.com",
+      "description": "Share your ChatGPT conversations and explore conversations shared by others.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Merlin",
+      "website_url": "https://merlin.foyer.work",
+      "description": "ChatGPT Plus extension on all websites.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT Writer",
+      "website_url": "https://chatgptwriter.ai",
+      "description": "Generate entire emails and messages using ChatGPT AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT for Jupyter",
+      "website_url": "https://github.com/TiesdeKok/chat-gpt-jupyter-extension",
+      "description": "Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "editGPT",
+      "website_url": "https://www.editgpt.app",
+      "description": "Easily proofread, edit, and track changes to your content in chatGPT.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Chatbot UI",
+      "website_url": "https://www.chatbotui.com",
+      "description": "An open source ChatGPT UI. .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Source code",
+      "website_url": "https://github.com/mckaywrigley/chatbot-ui",
+      "description": "An open source ChatGPT UI. .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Forefront",
+      "website_url": "https://www.forefront.ai",
+      "description": "A Better ChatGPT Experience.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Character for GPT",
+      "website_url": "https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh",
+      "description": "One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mem",
+      "website_url": "https://mem.ai",
+      "description": "Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Taskade",
+      "website_url": "https://www.taskade.com",
+      "description": "Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Notion AI",
+      "website_url": "https://www.notion.so/product/ai",
+      "description": "Write better, more efficient notes and docs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Nekton AI",
+      "website_url": "https://nekton.ai",
+      "description": "Automate your workflows with AI. Describe your workflows step by step in plain language.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Elephas",
+      "website_url": "https://elephas.app",
+      "description": "Personal AI writing assistant for the Mac.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lemmy",
+      "website_url": "https://lemmy.co",
+      "description": "Autonomous AI Assistant for Work.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Google Sheets Formula Generator",
+      "website_url": "https://bettersheets.co/google-sheets-formula-generator",
+      "description": "Forget about frustrating formulas in Google Sheets.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "CreateEasily",
+      "website_url": "https://createeasily.com",
+      "description": "Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Cosmos",
+      "website_url": "https://meetcosmos.com",
+      "description": "Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "aiPDF",
+      "website_url": "https://aipdf.ai",
+      "description": "The most advanced AI document assistant",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Summary With AI",
+      "website_url": "https://www.summarywithai.com",
+      "description": "Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Emilio",
+      "website_url": "https://getemil.io",
+      "description": "Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Pieces",
+      "website_url": "https://pieces.app",
+      "description": "AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Huntr AI Resume Builder",
+      "website_url": "https://huntr.co/product/ai-resume-builder",
+      "description": "Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Chat With PDF by Copilot.us",
+      "website_url": "https://copilot.us/apps/chat-with-pdf",
+      "description": "An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Recall",
+      "website_url": "https://www.getrecall.ai",
+      "description": "Summarize Anything, Forget Nothing",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Talently AI",
+      "website_url": "https://interview.talently.ai",
+      "description": "An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "TailorTask",
+      "website_url": "https://wwww.tailortask.ai",
+      "description": "Automate any boring and repetitive task, without having to learn a new tool",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AnkiDecks AI",
+      "website_url": "https://anki-decks.com",
+      "description": "Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI for Google Slides",
+      "website_url": "https://www.aiforgoogleslides.com",
+      "description": "AI presentation maker for Google Slides",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "FARSITE",
+      "website_url": "https://far.site",
+      "description": "AI-powered Compliance Software for U.S. Government Contractors",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GOSH",
+      "website_url": "https://gosh.app",
+      "description": "Free AI Price Tracker - Track any price of any product at any store using AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "BrainSoup",
+      "website_url": "https://www.nurgo-software.com/products/brainsoup",
+      "description": "Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MindPal",
+      "website_url": "https://mindpal.space",
+      "description": "Build your AI Second Brain with a team of AI agents and multi-agent workflow",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "fabric",
+      "website_url": "https://github.com/danielmiessler/fabric",
+      "description": "Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Riffo",
+      "website_url": "https://riffo.ai",
+      "description": "An AI-powered file management tool for bulk renaming and automatic folder organization.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SlidesWizard",
+      "website_url": "https://slideswizard.io",
+      "description": "Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Transgate",
+      "website_url": "https://transgate.ai",
+      "description": "AI Speech to Text",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "RabbitHoles AI",
+      "website_url": "https://www.rabbitholes.ai",
+      "description": "Chat with AI on an Infinite Canvas",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rember",
+      "website_url": "https://www.rember.com",
+      "description": "A simple yet powerful spaced repetition system designed to help you remember more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Qurate",
+      "website_url": "https://qurate.appcradle.net",
+      "description": "AI Quote Companion, which can help in finding relavant quotes according to the context.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "FirmOS",
+      "website_url": "https://www.firmos.ai",
+      "description": "AI-Powered Automation for Accounting Firms",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Whisper API",
+      "website_url": "https://whisper-api.com",
+      "description": "Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Smmry",
+      "website_url": "https://smmry.com",
+      "description": "Summarize Long Content Into Clear Insights",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Nudge AI",
+      "website_url": "https://getnudgeai.com",
+      "description": "Ambient AI Scribe for Healthcare",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Summara",
+      "website_url": "https://summara.io",
+      "description": "YouTube AI Summary and Transcript widget",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mocha",
+      "website_url": "https://getmocha.com",
+      "description": "AI app builder",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Marblism",
+      "website_url": "https://marblism.com",
+      "description": "AI Employees for your business",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Spell",
+      "website_url": "https://spellapp.com",
+      "description": "Spell is the AI alternative to Google Docs",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Kosmik",
+      "website_url": "https://www.kosmik.app",
+      "description": "AI moodboarding platform",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Magic Potion",
+      "website_url": "https://www.magicpotion.app",
+      "description": "Visual AI Prompt Editor",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MinusX",
+      "website_url": "https://minusx.ai",
+      "description": "Have an AI Analyst answer all your data questions reliably on Metabase",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Excelmatic",
+      "website_url": "https://excelmatic.ai",
+      "description": "AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Langfa.st",
+      "website_url": "https://langfa.st",
+      "description": "A fast, no-signup playground to test and share AI prompt templates",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SalesAgent Chat",
+      "website_url": "https://www.salesagent.chat",
+      "description": "AI Sales Coach & Copilot for real-time support",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ReBillion.ai",
+      "website_url": "https://tc.rebillion.ai",
+      "description": "AI-powered transaction coordination and workflow automation for real estate professionals",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Perch Reader",
+      "website_url": "https://perch.app",
+      "description": "Free blog and newsletter aggregator with AI summaries and text-to-speech",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "X-doc AI",
+      "website_url": "https://x-doc.ai",
+      "description": "The most accurate AI translator",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Otter.ai",
+      "website_url": "https://otter.ai",
+      "description": "A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Cogram",
+      "website_url": "https://www.cogram.com",
+      "description": "Cogram takes automatic notes in virtual meetings and identifies action items.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Sybill",
+      "website_url": "https://www.sybill.ai",
+      "description": "Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Loopin AI",
+      "website_url": "https://www.loopinhq.com",
+      "description": "Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Scribbl",
+      "website_url": "https://www.scribbl.co",
+      "description": "AI Meeting Notes",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Elicit",
+      "website_url": "https://elicit.org",
+      "description": "Elicit uses language models to help you automate research workflows, like parts of literature review.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "genei",
+      "website_url": "https://www.genei.io",
+      "description": "Summarise academic articles in seconds and save 80% on your research times.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Explainpaper",
+      "website_url": "https://www.explainpaper.com",
+      "description": "A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Galactica",
+      "website_url": "https://galactica.org",
+      "description": "A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Model API",
+      "website_url": "https://github.com/paperswithcode/galai",
+      "description": "A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Consensus",
+      "website_url": "https://consensus.app/search",
+      "description": "Consensus is a search engine that uses AI to find answers in scientific research.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Sourcely",
+      "website_url": "https://www.sourcely.net",
+      "description": "Academic Citation Finding Tool with AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SciSpace",
+      "website_url": "https://scispace.com",
+      "description": "AI Chat for scientific PDFs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "NotebookLM",
+      "website_url": "https://notebooklm.google.com",
+      "description": "AI Chat on your own document, link and text resources.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mathos AI",
+      "website_url": "https://www.mathgptpro.com",
+      "description": "Best AI math solver, calculator & tutor.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SiteGPT",
+      "website_url": "https://sitegpt.ai",
+      "description": "Make AI your expert customer support agent.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GPTHelp.ai",
+      "website_url": "https://gpthelp.ai",
+      "description": "ChatGPT for your website / AI customer support chatbot.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SiteSpeakAI",
+      "website_url": "https://sitespeak.ai",
+      "description": "Automate your customer support with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Dear AI",
+      "website_url": "https://www.dearai.online",
+      "description": "Supercharge Customer Services and boost sales with AI Chatbot.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Inline Help",
+      "website_url": "https://inlinehelp.com",
+      "description": "Answer customer questions before they ask",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Aidbase",
+      "website_url": "https://www.aidbase.ai",
+      "description": "AI-Powered Support for your SaaS startup.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Twig",
+      "website_url": "https://www.twig.so",
+      "description": "Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "EmailTriager",
+      "website_url": "https://www.emailtriager.com",
+      "description": "Use AI to automatically draft email replies in the background.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Poem Generator",
+      "website_url": "https://www.aipoemgenerator.org",
+      "description": "AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Never Jobless LinkedIn Message Generator",
+      "website_url": "https://neverjobless.com",
+      "description": "Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Ollama",
+      "website_url": "https://ollama.com",
+      "description": "Load and run large LLMs locally to use in your terminal or build your apps.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "co:here",
+      "website_url": "https://cohere.ai",
+      "description": "Cohere provides access to advanced Large Language Models and NLP tools.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Haystack",
+      "website_url": "https://haystack.deepset.ai",
+      "description": "A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Keploy",
+      "website_url": "https://keploy.io",
+      "description": "Open source Tool for converting user traffic to Test Cases and Data Stubs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LangChain",
+      "website_url": "https://langchain.com",
+      "description": "A framework for developing applications powered by language models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Portia AI",
+      "website_url": "https://www.portialabs.ai",
+      "description": "Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "gpt4all",
+      "website_url": "https://github.com/nomic-ai/gpt4all",
+      "description": "A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LMQL",
+      "website_url": "https://lmql.ai",
+      "description": "LMQL is a query language for large language models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LlamaIndex",
+      "website_url": "https://www.llamaindex.ai",
+      "description": "A data framework for building LLM applications over external data.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Langfuse",
+      "website_url": "https://langfuse.com",
+      "description": "Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Phoenix",
+      "website_url": "https://phoenix.arize.com",
+      "description": "Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Prediction Guard",
+      "website_url": "https://www.predictionguard.com",
+      "description": "Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Portkey",
+      "website_url": "https://portkey.ai",
+      "description": "Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OpenAI Downtime Monitor",
+      "website_url": "https://status.portkey.ai",
+      "description": "Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatWithCloud",
+      "website_url": "https://chatwithcloud.ai",
+      "description": "CLI allowing you to interact with AWS Cloud using human language inside your Terminal.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SinglebaseCloud",
+      "website_url": "https://singlebase.cloud",
+      "description": "AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Maxim AI",
+      "website_url": "https://www.getmaxim.ai",
+      "description": "A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Wordware",
+      "website_url": "https://www.wordware.ai",
+      "description": "A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "CodeRabbit",
+      "website_url": "https://coderabbit.ai",
+      "description": "An AI-powered code review tool that helps developers improve code quality and productivity.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Pagerly",
+      "website_url": "https://www.pagerly.io",
+      "description": "Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Hexabot",
+      "website_url": "https://hexabot.ai",
+      "description": "A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Plandex",
+      "website_url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source, terminal-based AI programming engine for complex tasks.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI/ML API",
+      "website_url": "https://aimlapi.com",
+      "description": "AI/ML API gives developers access to 100+ AI models with one API.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Callstack.ai PR Reviewer",
+      "website_url": "https://callstack.ai/pr-reviewer",
+      "description": "Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Opik",
+      "website_url": "https://www.comet.com/site/products/opik",
+      "description": "Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Kiln",
+      "website_url": "https://getkiln.ai",
+      "description": "Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Calmo",
+      "website_url": "https://getcalmo.com",
+      "description": "Debug Production x10 Faster with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Cleanlab",
+      "website_url": "https://help.cleanlab.ai/tlm",
+      "description": "Detect and remediate hallucinations in any LLM application.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Amazon Q Developer CLI",
+      "website_url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html",
+      "description": "CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Agentic Radar",
+      "website_url": "https://github.com/splx-ai/agentic-radar",
+      "description": "Open-source CLI security scanner for agentic workflows.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "VoltAgent",
+      "website_url": "https://github.com/voltagent/voltagent",
+      "description": "A TypeScript framework for building and running AI agents with tools, memory, and visibility.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Notte",
+      "website_url": "https://github.com/nottelabs/notte",
+      "description": "Notte is the fastest, most reliable Browser Using Agents framework",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "TensorZero",
+      "website_url": "https://www.tensorzero.com",
+      "description": "An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ToolHive",
+      "website_url": "https://github.com/stacklok/toolhive",
+      "description": "Find the right MCP server for your task and deploy with one click.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "StarOps",
+      "website_url": "https://ingenimax.ai",
+      "description": "AI Platform Engineer",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AgentDock",
+      "website_url": "https://agentdock.ai",
+      "description": "Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Codeflash",
+      "website_url": "https://www.codeflash.ai",
+      "description": "Ship Blazing-Fast Python Code — Every Time.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rysa AI",
+      "website_url": "https://www.rysa.ai",
+      "description": "AI GTM Automation Agent",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Agenta",
+      "website_url": "https://agenta.ai",
+      "description": "Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GitHub Copilot",
+      "website_url": "https://github.com/features/copilot",
+      "description": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "poorcoder",
+      "website_url": "https://github.com/vgrichina/poorcoder",
+      "description": "Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OpenAI Codex",
+      "website_url": "https://platform.openai.com/docs/guides/code",
+      "description": "An AI system by OpenAI that translates natural language to code.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Ghostwriter",
+      "website_url": "https://blog.replit.com/ai",
+      "description": "An AI-powered pair programmer by Replit.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GoCodeo",
+      "website_url": "https://www.gocodeo.com",
+      "description": "An AI Coding & Testing Agent.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "website_url": "https://aws.amazon.com/codewhisperer",
+      "description": "Build applications faster with the ML-powered coding companion.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "tabnine",
+      "website_url": "https://www.tabnine.com",
+      "description": "Code faster with whole-line & full-function code completions.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stenography",
+      "website_url": "https://stenography.dev",
+      "description": "Automatic code documentation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mintlify",
+      "website_url": "https://mintlify.com",
+      "description": "AI powered documentation writer.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Debuild",
+      "website_url": "https://debuild.app",
+      "description": "AI-powered low-code tool for web apps.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI2sql",
+      "website_url": "https://www.ai2sql.io",
+      "description": "With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "CodiumAI",
+      "website_url": "https://www.codium.ai",
+      "description": "With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PR-Agent",
+      "website_url": "https://github.com/Codium-ai/pr-agent",
+      "description": "AI-powered tool for automated PR analysis, feedback, suggestions, and more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MutableAI",
+      "website_url": "https://mutable.ai",
+      "description": "AI Accelerated Software Development.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "TurboPilot",
+      "website_url": "https://github.com/ravenscroftj/turbopilot",
+      "description": "A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GPT-Code UI",
+      "website_url": "https://github.com/ricklamers/gpt-code-ui",
+      "description": "An open-source implementation of OpenAI's ChatGPT Code interpreter.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MetaGPT",
+      "website_url": "https://github.com/geekan/MetaGPT",
+      "description": "The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MutahunterAI",
+      "website_url": "https://github.com/codeintegrity-ai/mutahunter",
+      "description": "Accelerate developer productivity and code security with our open-source AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Kernel Explorer",
+      "website_url": "https://github.com/mathiscode/ai-kernel-explorer",
+      "description": "Explore the Linux kernel source code with AI-generated summaries.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "WhoDB",
+      "website_url": "https://github.com/clidey/whodb",
+      "description": "SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "FlexApp",
+      "website_url": "https://flexapp.ai",
+      "description": "Build mobile apps with AI, not code",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Kilo Code",
+      "website_url": "https://kilocode.ai",
+      "description": "Open Source AI coding assistant for planning, building, and fixing code inside VS Code.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Capacity",
+      "website_url": "https://capacity.so",
+      "description": "Capacity lets you turn your ideas into fully functional web apps in minutes using AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Runcell",
+      "website_url": "https://runcell.dev",
+      "description": "AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Manifest",
+      "website_url": "https://github.com/mnfst/manifest",
+      "description": "An alternative to Supabase for AI Code editors and Vibe Coding tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DataPup",
+      "website_url": "https://github.com/DataPupOrg/DataPup",
+      "description": "Database client with AI-powered query assistance to generate context based queries.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gito",
+      "website_url": "https://github.com/Nayjest/Gito",
+      "description": "AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DALL·E 2",
+      "website_url": "https://openai.com/dall-e-2",
+      "description": "DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stable Diffusion",
+      "website_url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+      "description": "Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Midjourney",
+      "website_url": "https://www.midjourney.com",
+      "description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Imagen",
+      "website_url": "https://imagen.research.google",
+      "description": "Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Make-A-Scene",
+      "website_url": "https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation",
+      "description": "Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DragGAN",
+      "website_url": "https://github.com/XingangPan/DragGAN",
+      "description": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Canva",
+      "website_url": "https://www.canva.com",
+      "description": "Generate and Edit your Pictures with the help of AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Craiyon",
+      "website_url": "https://www.craiyon.com",
+      "description": "Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "DreamStudio",
+      "website_url": "https://beta.dreamstudio.ai",
+      "description": "DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Artbreeder",
+      "website_url": "https://www.artbreeder.com",
+      "description": "Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GauGAN2",
+      "website_url": "http://gaugan.org/gaugan2",
+      "description": "GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Magic Eraser",
+      "website_url": "https://www.magiceraser.io",
+      "description": "Remove unwanted things from images in seconds.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Imagine by Magic Studio",
+      "website_url": "https://magicstudio.com/imagine",
+      "description": "A tool by Magic Studio that let's you express yourself by just describing what's on your mind.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Alpaca",
+      "website_url": "https://www.getalpaca.io",
+      "description": "Stable Diffusion Photoshop plugin.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Patience.ai",
+      "website_url": "https://www.patience.ai",
+      "description": "Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GenShare",
+      "website_url": "https://www.genshare.io",
+      "description": "Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Playground AI",
+      "website_url": "https://playgroundai.com",
+      "description": "Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Pixelz AI Art Generator",
+      "website_url": "https://pixelz.ai",
+      "description": "Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "modyfi",
+      "website_url": "https://www.modyfi.io",
+      "description": "The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Ponzu",
+      "website_url": "https://www.ponzu.ai",
+      "description": "Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PhotoRoom",
+      "website_url": "https://www.photoroom.com",
+      "description": "Create product and portrait pictures using only your phone. Remove background, change background and showcase products.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PhotoGuruAI",
+      "website_url": "https://photoguruai.com",
+      "description": "Create professional AI Headshots in various styles.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Avatar AI",
+      "website_url": "https://avatarai.me",
+      "description": "Create your own AI-generated avatars.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ClipDrop",
+      "website_url": "https://clipdrop.co",
+      "description": "Create professional visuals without a photo studio, powered by .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "stability.ai",
+      "website_url": "https://stability.ai",
+      "description": "Create professional visuals without a photo studio, powered by .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lensa",
+      "website_url": "https://prisma-ai.com/lensa",
+      "description": "An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "RunDiffusion",
+      "website_url": "https://rundiffusion.com",
+      "description": "Cloud-based workspace for creating AI-generated art.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Human Generator",
+      "website_url": "https://generated.photos/human-generator",
+      "description": "AI generator or realistic looking photos of humans.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "VectorArt.ai",
+      "website_url": "https://vectorart.ai",
+      "description": "Create vector images with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "StockPhotoAI.net",
+      "website_url": "https://www.stockphotoai.net",
+      "description": "Great stock photos, made for you.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Room Reinvented",
+      "website_url": "https://roomreinvented.com",
+      "description": "Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gensbot",
+      "website_url": "https://gensbot.com",
+      "description": "Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PlantPhotoAI",
+      "website_url": "https://www.plantphotoai.com",
+      "description": "free AI-generated plant images",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "RepublicLabs.AI",
+      "website_url": "https://republiclabs.ai",
+      "description": "multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Black Headshots",
+      "website_url": "https://www.blackheadshots.com",
+      "description": "AI headshots generator for black professionals",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Pixvify AI",
+      "website_url": "https://pixvify.com",
+      "description": "Free realistic AI photo generator platform",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Pawtrait",
+      "website_url": "https://www.pawtrait.art",
+      "description": "AI Pet Portraits",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "iColoring",
+      "website_url": "https://icoloring.ai",
+      "description": "Free AI Coloring Pages Generator",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Suit me Up",
+      "website_url": "https://suitmeup.pictures",
+      "description": "Generate pictures of you wearing a suit with AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Photo Forge",
+      "website_url": "https://aiphotoforge.com",
+      "description": "A Telegram bot to generate AI pictures of you.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Boost",
+      "website_url": "https://boost.pictures",
+      "description": "All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PlantTattoosAI",
+      "website_url": "https://www.planttattoosai.com",
+      "description": "Plant and flower tattoos designs generator trained on real botanicals.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Brandmark",
+      "website_url": "https://brandmark.io",
+      "description": "AI-based logo design tool.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Gamma",
+      "website_url": "https://gamma.app",
+      "description": "Create beautiful presentations and webpages with none of the formatting and design work.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Microsoft Designer",
+      "website_url": "https://designer.microsoft.com",
+      "description": "Stunning designs in a flash.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "SVGStud.io",
+      "website_url": "https://svgstud.io",
+      "description": "AI-based SVG Generation and Semantic Seach",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Text2Infographic",
+      "website_url": "https://text2infographic.com",
+      "description": "AI infographic generator and editor.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Seede.ai",
+      "website_url": "https://seede.ai",
+      "description": "Create a stunning poster in just 1 minute with Seede.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Magic Patterns",
+      "website_url": "https://www.magicpatterns.com",
+      "description": "AI-based UI builder with Figma export and React code generation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lexica",
+      "website_url": "https://lexica.art",
+      "description": "Stable Diffusion search engine.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Libraire",
+      "website_url": "https://libraire.ai",
+      "description": "The largest library of AI-generated images.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "KREA",
+      "website_url": "https://www.krea.ai",
+      "description": "Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OpenArt",
+      "website_url": "https://openart.ai",
+      "description": "Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Phygital",
+      "website_url": "https://app.phygital.plus",
+      "description": "Built-in templates for generating or editing any pictures. Moreover, you can create your own design.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Canva",
+      "website_url": "https://www.canva.com/ai-image-generator",
+      "description": "Generating AI Images.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Civitai",
+      "website_url": "https://civitai.com",
+      "description": "Community-driven AI model sharing tool.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stable Diffusion Models",
+      "website_url": "https://rentry.org/sdmodels",
+      "description": "A comprehensive list of Stable Diffusion checkpoints on rentry.org.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Stable Horde",
+      "website_url": "https://stablehorde.net",
+      "description": "A crowdsourced distributed cluster of Stable Diffusion workers.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PublicPrompts",
+      "website_url": "https://publicprompts.art",
+      "description": "A collection of free prompts for Stable Diffusion.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Hugging Face Diffusion Models Course",
+      "website_url": "https://github.com/huggingface/diffusion-models-class",
+      "description": "Python materials for the online course on diffusion models by .",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "RunwayML",
+      "website_url": "https://runwayml.com",
+      "description": "Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Synthesia",
+      "website_url": "https://www.synthesia.io",
+      "description": "Create videos from plain text in minutes.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rephrase AI",
+      "website_url": "https://www.rephrase.ai",
+      "description": "Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Hour One",
+      "website_url": "https://hourone.ai",
+      "description": "Turn text into video, featuring virtual presenters, automatically.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "D-ID",
+      "website_url": "https://www.d-id.com",
+      "description": "Create and interact with talking avatars at the touch of a button.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ShortVideoGen",
+      "website_url": "https://shortgen.video",
+      "description": "Create short videos with audio using text prompts.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Clipwing",
+      "website_url": "https://clipwing.pro",
+      "description": "A tool for cutting long videos into dozens of short clips.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Recast Studio",
+      "website_url": "https://recast.studio",
+      "description": "AI powered podcast marketing assistant.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Based AI",
+      "website_url": "https://www.basedlabs.ai",
+      "description": "AI Intuitive Interface for Video creating",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "klingai",
+      "website_url": "https://app.klingai.com/global",
+      "description": "AI creative studio boasts AI image and video generation capabilities.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Sisif",
+      "website_url": "https://sisif.ai",
+      "description": "AI Video Generator: Turn Text into Stunning Videos in Seconds",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Descript Overdub",
+      "website_url": "https://www.descript.com/overdub",
+      "description": "Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/descript-overdub",
+      "description": "Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Respeecher",
+      "website_url": "https://www.respeecher.com",
+      "description": "A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/respeecher",
+      "description": "A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ElevenLabs",
+      "website_url": "https://elevenlabs.io",
+      "description": "Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/elevenlabs",
+      "description": "Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Resemble AI",
+      "website_url": "https://www.resemble.ai",
+      "description": "Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/resemble-ai",
+      "description": "Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Murf AI",
+      "website_url": "https://murf.ai",
+      "description": "User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/murf",
+      "description": "User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "iSpeech",
+      "website_url": "https://www.ispeech.org",
+      "description": "A versatile solution for corporate applications with support for a wide array of languages and voices.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/ispeech",
+      "description": "A versatile solution for corporate applications with support for a wide array of languages and voices.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Veritone Voice",
+      "website_url": "https://www.veritone.com/solutions/voice",
+      "description": "Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/veritone-voice",
+      "description": "Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Microsoft Azure Neural TTS",
+      "website_url": "https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech",
+      "description": "Review - Scalable and highly customizable, ideal for integration into enterprise applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "WellSaid Labs",
+      "website_url": "https://www.wellsaidlabs.com",
+      "description": "Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/wellsaid-labs",
+      "description": "Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Lovo.ai",
+      "website_url": "https://www.lovo.ai",
+      "description": "A compelling choice for creative professionals, especially useful in ads and explainer videos.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/lovo-ai",
+      "description": "A compelling choice for creative professionals, especially useful in ads and explainer videos.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Zenmic.com",
+      "website_url": "https://zenmic.com",
+      "description": "An app to generate podcast eposode ( script + Audio ) using AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Audify AI",
+      "website_url": "https://audify-ai.ahmedtokyo.com",
+      "description": "User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both developers and creatives.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "TTS WebUI",
+      "website_url": "https://github.com/rsxdalv/tts-generation-webui",
+      "description": "Open Source generative AI App for voice and music, supporting 15+ TTS models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AInterview.space",
+      "website_url": "https://ainterview.space",
+      "description": "Create AI-hosted podcast interviews. Choose a topic, and Joe (the AI host) will research, host the interview, and generate your episode as audio or video.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Splash Pro",
+      "website_url": "https://www.splashpro.com",
+      "description": "A versatile platform offering intuitive music creation tools for all skill levels.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/splash-pro",
+      "description": "A versatile platform offering intuitive music creation tools for all skill levels.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AIVA",
+      "website_url": "https://www.aiva.ai",
+      "description": "AI composer specializing in classical and cinematic music creation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/aiva",
+      "description": "AI composer specializing in classical and cinematic music creation.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mubert",
+      "website_url": "https://www.mubert.com",
+      "description": "Real-time generative music tailored for different use cases.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/mubert",
+      "description": "Real-time generative music tailored for different use cases.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Soundraw",
+      "website_url": "https://soundraw.io",
+      "description": "Allows users to customize music compositions based on mood and style.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/soundraw",
+      "description": "Allows users to customize music compositions based on mood and style.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Beatoven.ai",
+      "website_url": "https://www.beatoven.ai",
+      "description": "AI-driven music generation focused on evoking specific emotions.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/beatoven-ai",
+      "description": "AI-driven music generation focused on evoking specific emotions.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Boomy",
+      "website_url": "https://www.boomy.com",
+      "description": "Democratizes music creation with quick track generation and monetization.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/boomy",
+      "description": "Democratizes music creation with quick track generation and monetization.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Ecrett Music",
+      "website_url": "https://www.ecrettmusic.com",
+      "description": "Designed for video creators, offering royalty-free music.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/ecrett-music",
+      "description": "Designed for video creators, offering royalty-free music.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Loudly",
+      "website_url": "https://www.loudly.com",
+      "description": "Combines AI music generation with a social platform for collaboration.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/loudly",
+      "description": "Combines AI music generation with a social platform for collaboration.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Soundful",
+      "website_url": "https://www.soundful.com",
+      "description": "High-quality, royalty-free music for content creators.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://theresanai.com/soundful",
+      "description": "High-quality, royalty-free music for content creators.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Music Generator",
+      "website_url": "https://www.aisongmaker.io",
+      "description": "Effortlessly Create Songs with AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Review",
+      "website_url": "https://www.producthunt.com/products/ai-song-maker",
+      "description": "Effortlessly Create Songs with AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Mutiny",
+      "website_url": "https://www.mutinyhq.com",
+      "description": "Personalization platform to improve website conversions using AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Clearbit",
+      "website_url": "https://clearbit.com",
+      "description": "Lead enrichment and data intelligence platform.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Seventh Sense",
+      "website_url": "https://www.theseventhsense.com",
+      "description": "AI tool for email send time optimization.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Smartly.io",
+      "website_url": "https://www.smartly.io",
+      "description": "Automates social media ad creation and optimization.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Adzooma",
+      "website_url": "https://www.adzooma.com",
+      "description": "AI-powered PPC campaign management platform.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Phrasee",
+      "website_url": "https://www.phrasee.co",
+      "description": "AI tool that generates optimized marketing copy.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Crimson Hexagon",
+      "website_url": "https://www.crimsonhexagon.com",
+      "description": "AI-based social media sentiment analysis platform.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MarketMuse",
+      "website_url": "https://www.marketmuse.com",
+      "description": "SEO content optimization platform using AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Chatfuel",
+      "website_url": "https://www.chatfuel.com",
+      "description": "AI-driven chatbot for automating customer engagement on Messenger.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LogicBalls",
+      "website_url": "https://logicballs.com",
+      "description": "An AI-powered writing tool to create any type of content and supercharge your productivity.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rupert AI",
+      "website_url": "https://www.getrupert.com",
+      "description": "AI tools for designers and marketers",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PersonaForce",
+      "website_url": "https://personaforce.ai",
+      "description": "Create and chat with AI buyer personas for smarter marketing",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Publish7",
+      "website_url": "https://publish7.com",
+      "description": "AI Agents to revolutionize digital marketing for Retail and E-commerce success.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Keyla.AI",
+      "website_url": "https://keyla.ai",
+      "description": "Create video ads in minutes",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AICaller.io",
+      "website_url": "https://aicaller.io",
+      "description": "AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Voice Agents",
+      "website_url": "https://diallink.com",
+      "description": "AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Cald.ai",
+      "website_url": "https://cald.ai",
+      "description": "AI based calling agents for outbound and inbound phone calls.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Rosie",
+      "website_url": "https://heyrosie.com",
+      "description": "AI Phone Answering Service",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Eleven Labs",
+      "website_url": "https://beta.elevenlabs.io",
+      "description": "AI voice generator.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Play.ht",
+      "website_url": "https://play.ht",
+      "description": "AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Coqui",
+      "website_url": "https://coqui.ai",
+      "description": "Generative AI for Voice.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "podcast.ai",
+      "website_url": "https://podcast.ai",
+      "description": "A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "VALL-E X",
+      "website_url": "https://vallex-demo.github.io",
+      "description": "A cross-lingual neural codec language model for cross-lingual speech synthesis.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "TorToiSe",
+      "website_url": "https://github.com/neonbjb/tortoise-tts",
+      "description": "A multi-voice text-to-speech system trained with an emphasis on quality. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Bark",
+      "website_url": "https://github.com/suno-ai/bark",
+      "description": "A transformer-based text-to-audio model. #opensource",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "CustomPod.io",
+      "website_url": "https://custompod.io",
+      "description": "Generate daily news podcasts only on the topics you care about.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "EKHOS AI",
+      "website_url": "https://ekhos.ai",
+      "description": "An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Harmonai",
+      "website_url": "https://www.harmonai.org",
+      "description": "We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MusicLM",
+      "website_url": "https://google-research.github.io/seanet/musiclm/examples",
+      "description": "A model by Google Research for generating high-fidelity music from text descriptions.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Remusic",
+      "website_url": "https://remusic.ai/en",
+      "description": "AI Music Generator and Music Learning Platform Online Free.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Taranify",
+      "website_url": "https://www.taranify.com",
+      "description": "Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Diagram",
+      "website_url": "https://diagram.com",
+      "description": "Magical new ways to design products.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PromptBase",
+      "website_url": "https://promptbase.com",
+      "description": "A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "This Image Does Not Exist",
+      "website_url": "https://thisimagedoesnotexist.com",
+      "description": "Test your ability to tell if an image is human or computer generated.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Have I Been Trained?",
+      "website_url": "https://haveibeentrained.com",
+      "description": "Check if your image has been used to train popular AI art models.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Dungeon",
+      "website_url": "https://aidungeon.io",
+      "description": "A text-based adventure-story game you direct (and star in) while the AI brings it to life.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Clickable",
+      "website_url": "https://www.clickable.so",
+      "description": "Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Scale Spellbook",
+      "website_url": "https://scale.com/spellbook",
+      "description": "Build, compare, and deploy large language model apps with Scale Spellbook.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Scenario",
+      "website_url": "https://www.scenario.com",
+      "description": "AI-generated gaming assets.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Teleprompter",
+      "website_url": "https://github.com/danielgross/teleprompter",
+      "description": "An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "FinChat",
+      "website_url": "https://finchat.io",
+      "description": "Using AI, FinChat generates answers to questions about public companies and investors.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Petals",
+      "website_url": "https://github.com/bigscience-workshop/petals",
+      "description": "BitTorrent style platform for running AI models in a distributed way.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Shotstack Workflows",
+      "website_url": "https://shotstack.io/product/workflows",
+      "description": "No-code, automation workflow tool for building Generative AI media applications.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Aispect",
+      "website_url": "https://aispect.io",
+      "description": "New way to experience events.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PressPulse AI",
+      "website_url": "https://www.presspulse.ai",
+      "description": "Get personalized media coverage leads every morning.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GummySearch",
+      "website_url": "https://gummysearch.com",
+      "description": "AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Taplio",
+      "website_url": "https://taplio.com",
+      "description": "The all-in-one, AI-powered LinkedIn tool.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "PromptPal",
+      "website_url": "https://promptpal.net",
+      "description": "Search for prompts and bots, then use them with your favorite AI. All in one place.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "FairyTailAI",
+      "website_url": "https://fairytailai.com",
+      "description": "Personalized bedtime story generator",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Myriad",
+      "website_url": "https://www.namepepper.com/free-tools/ai-content-prompt-tool",
+      "description": "Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "GradGPT",
+      "website_url": "https://www.gradgpt.com",
+      "description": "AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Code to Flow",
+      "website_url": "https://codetoflow.com",
+      "description": "Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI-Flow",
+      "website_url": "https://ai-flow.net",
+      "description": "Connect multiple AI models easily.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Architecture Helper",
+      "website_url": "https://architecturehelper.com",
+      "description": "Analyze any building architecture, and generate your own custom styles, in seconds.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "VocalReplica",
+      "website_url": "https://vocalreplica.com",
+      "description": "AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Wedding Toast",
+      "website_url": "https://aiweddingtoast.com",
+      "description": "Generate a personalized wedding speech with AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Interviews Chat",
+      "website_url": "https://www.interviews.chat",
+      "description": "Your Personal Interview Prep & Copilot",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Context Data",
+      "website_url": "https://contextdata.ai",
+      "description": "Data Processing & ETL infrastructure for Generative AI applications",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ezJobs",
+      "website_url": "https://www.getezjobs.com",
+      "description": "Automated job search and applications",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Compass",
+      "website_url": "https://www.getwhys.io/compass",
+      "description": "AI driven answers to SaaS research questions",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Adon AI",
+      "website_url": "https://adon-web.awakast.com/en/recruiter",
+      "description": "CV screening automation and blind CV generator, AI backed ATS",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Persuva",
+      "website_url": "https://persuva.ai",
+      "description": "Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Interview Solver",
+      "website_url": "https://interviewsolver.com",
+      "description": "Ace your live coding interviews with our AI Copilot",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Socialsonic",
+      "website_url": "https://socialsonic.com",
+      "description": "AI LinkedIn Coach: Personalized content, trends & scheduling.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Napkin",
+      "website_url": "https://www.napkin.ai",
+      "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Exam Samurai",
+      "website_url": "https://www.examsamur.ai",
+      "description": "AI Exam Generator",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI Watermark Remover",
+      "website_url": "https://aiwatermarkremover.io",
+      "description": "Remove watermarks from images and videos.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AISaver",
+      "website_url": "https://aisaver.io",
+      "description": "Collection of AI Powered Video and Photo Tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Harbor",
+      "website_url": "https://github.com/av/harbor",
+      "description": "run LLM backends, APIs, frontends, and services with one command",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LangMagic",
+      "website_url": "https://easytolearn.io",
+      "description": "Learn languages from native content.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "fynk",
+      "website_url": "https://fynk.com",
+      "description": "AI powered contract management software",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "LooksMax AI",
+      "website_url": "https://looksmax.ai",
+      "description": "Find out how hot you are using AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Podify.io",
+      "website_url": "https://podify.io",
+      "description": "Leverage AI and community to grow on LinkedIn",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ResumeDive",
+      "website_url": "https://resumedive.com",
+      "description": "A resume boosting service using AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Luthor",
+      "website_url": "https://luthor.ai",
+      "description": "Programmatic content marketing at scale",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Hyperbrowser",
+      "website_url": "https://hyperbrowser.ai",
+      "description": "Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Bricks",
+      "website_url": "https://www.thebricks.com",
+      "description": "The AI Spreadsheet We've All Been Waiting For",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "MindStudio",
+      "website_url": "https://mindstudio.ai",
+      "description": "Build powerful AI Agents for yourself, your team, or your enterprise. Powerful, easy to use, visual builder—no coding required, but extensible with code if you need it. Over 100 templates for all kinds of business and personal use cases.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Daruy",
+      "website_url": "https://daruy.space",
+      "description": "Personalized Gift Idea Generator",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Promptly",
+      "website_url": "https://searchpromptly.com",
+      "description": "Discover, create and share powerful prompts",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Melies",
+      "website_url": "https://melies.co",
+      "description": "AI Filmmaking software",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Learn Prompting",
+      "website_url": "https://learnprompting.org",
+      "description": "A free, open-source course on communicating with artificial intelligence.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Prompt Engineering Guide",
+      "website_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "Guide and resources for prompt engineering.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "ChatGPT prompt engineering for developers",
+      "website_url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers",
+      "description": "A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "OpenAI Cookbook",
+      "website_url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Roadmap",
+      "website_url": "https://github.com/mrdbourke/machine-learning-roadmap",
+      "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Andrew Ng’s Machine Learning at Stanford University",
+      "website_url": "https://www.coursera.org/learn/machine-learning",
+      "description": "Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Sebastian Thrun’s Introduction To Machine Learning",
+      "website_url": "https://www.udacity.com/course/intro-to-machine-learning--ud120",
+      "description": "robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI and Machine Learning Roadmaps",
+      "website_url": "https://www.scaler.com/blog/category/artificial-intelligence-machine-learning",
+      "description": "Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "How To Learn Artificial Intelligence (AI)?",
+      "website_url": "https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai",
+      "description": "provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Geoffrey Hinton’s Neural Networks For Machine Learning",
+      "website_url": "https://medium.com/kaggle-blog",
+      "description": "it is now removed from cousrea but still check these list",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Jeremy Howard’s Fast.ai & Data Institute Certificates",
+      "website_url": "https://www.fast.ai",
+      "description": "The in-person certificate courses are not free, but all of the content is available on Fast.ai as MOOCs.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "coursera-deep-learning-specialization",
+      "website_url": "https://github.com/pratham5368/coursera-deep-learning-specialization",
+      "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "NVIDIA Omniverse AI Animal Explorer Extension",
+      "website_url": "https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html",
+      "description": "AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Altern",
+      "website_url": "https://altern.ai",
+      "description": "Find Best AI Tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Best of AI",
+      "website_url": "https://github.com/best-of-ai/best-of-ai",
+      "description": "Like Michelin Guide for AI",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome AI Models",
+      "website_url": "https://github.com/dariubs/awesome-ai-models",
+      "description": "A curated list of top AI models and LLMs",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome AI Coding Tools",
+      "website_url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
+      "description": "Curated list of AI-powered developer tools.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome Vibe Coding",
+      "website_url": "http://github.com/dariubs/awesome-vibe-coding",
+      "description": "A hand-picked collection of tools and resources for Vibe Coding.",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome AI Books",
+      "website_url": "https://github.com/mahseema/aibooks",
+      "description": "Curated List of Top AI and ML Books",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "AI for Productivity",
+      "website_url": "https://productivity.directory/category/ai",
+      "description": "Curated List of AI Apps for productivity",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Workflow Automation Softwares",
+      "website_url": "https://productivity.directory/category/workflow-automation",
+      "description": "Curated List of Workflow Automation Apps And Tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome Workflow Automation",
+      "website_url": "https://github.com/dariubs/awesome-workflow-automation",
+      "description": "Curated List of Workflow Automation Apps And Tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Awesome Marketing",
+      "website_url": "https://github.com/marketingtoolslist/awesome-marketing",
+      "description": null,
+      "source_list": "awesome_ai_tools_mahseema"
+    },
+    {
+      "name": "Top AI Directories",
+      "website_url": "https://github.com/best-of-ai/ai-directories",
+      "description": "An awesome list of best top AI directories to submit your ai tools",
+      "source_list": "awesome_ai_tools_mahseema"
+    }
+  ]
+}
