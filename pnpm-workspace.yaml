@@ -1,3 +1,7 @@
+# Root is the only package; `packages` is required whenever this file exists.
+packages:
+  - "."
+
 ignoredBuiltDependencies:
   - esbuild
   - sharp
